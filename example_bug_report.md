@@ -1,13 +1,3 @@
----
-name: New bug report
-about: Use this option to report a bug. You must use this option for your report to
-  be investigated.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 <!-- You must use this template or your issue will be closed without investigation. Please see the guidelines. -->
 
 ## Problem description
