@@ -10,7 +10,7 @@ assignees: ''
 
 ## Problem description
 
-Невозможно взять свойство InitSizeRandom у объекта Particles.
+It's impossible to access the property "InitSizeRandom" of the object "Particles".
 
 ## Attach a .c3p
 
@@ -18,24 +18,24 @@ assignees: ''
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Запустите предварительный просмотр.
-3. Откройте консоль.
+1. Open the project.
+2. Run "Preview project".
+3. Open the console.
 
 ## Observed result
 
-Ошибка в консоли:
+Console error:
 
 ![error](https://user-images.githubusercontent.com/91274932/134548167-f915ba97-d074-4562-9453-d82938bcb425.png)
 
 ## Expected result
 
-1. Ошибки в консоли быть не должно.
-2. В параметр "size randomiser" должно записаться значение из выражения "Particles.InitSizeRandom".
+1. There mustn't be any errors in the console.
+2. The parameter "size randomiser" must be set to the value of "Particles.InitSizeRandom".
 
 ## More details
 
-Пожалуйста, проверьте и остальные выражения объекта Particles на эту же проблему.
+Please, check all other expressions of the object "Particles" for the same issue.
 
 **Affected browsers/platforms:** Chrome
 
