@@ -1,47 +1,139 @@
-<!-- You must use this template or your issue will be closed without investigation. Please see the guidelines. -->
-
 ## Problem description
 
-<!-- Enter a concise description of your problem here -->
+Невозможно экспортировать проект в Web (HTML5) если выбрана Simple minification.
 
 ## Attach a .c3p
 
-<!-- A minimal Construct 3 project (.c3p) is required to be attached. Your issue will likely be closed without investigation if you don't provide one. Please see the guidelines -->
+[bug_simple_minification_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7412793/bug_simple_minification_r268s.zip)
 
 ## Steps to reproduce
 
-<!-- These steps are essential for us to be able to help you. Usually it is impossible to investigate reports unless they include steps we can follow ourselves, so please do your best to provide specific steps. There is no need to explain how you made the attached project - just explain what to do to with the project to observe the issue. -->
-
-1.
-2.
-3.
+1. Open the project.
+2. Click "Export Web (HTML5)" and select Simple minification.
 
 ## Observed result
 
-<!-- What do you see happen? -->
+![rep1](https://user-images.githubusercontent.com/91274932/138752470-9f7976f0-4408-4518-b1e7-97a4f0012507.png)
 
 ## Expected result
 
-<!-- What did you expect to happen instead? -->
+![bug2](https://user-images.githubusercontent.com/91274932/138753516-49e91ada-9f03-4009-9912-ad3cfde23a0f.png)
 
 ## More details
-<!-- Providing this information will make it more likely the issue you are reporting can be fixed quickly. -->
 
-<!-- It's helpful to test as many browsers, platforms or export options as possible. For example an issue occurs in an Android app, does it also occur in Chrome on Windows? How about Firefox? etc. -->
+Я написал скрипт, в котором использовал оператор ??
 
-**Affected browsers/platforms:** <!-- Chrome/Firefox/Safari, Windows/macOS/Android, etc -->
+const obj = {
+  "lol": 1,
+  "kek": 0
+};
 
-<!-- Identifying the first version the issue started happening can help resolve the issue more quickly. -->
+const result = obj["lol"] ?? 13;
+console.log(result);
 
-**First affected release:** <!-- e.g. worked in r122 but broke in r123 -->
+**Affected browsers/platforms:** Chrome
+
+**First affected release:** broke in r268s
 
 ## System details
 
-<!-- If you see a crash report dialog, please copy and paste it to where it says "PASTE HERE" below. -->
-<!-- Otherwise please go to Menu > About > Platform information and paste that information there instead. -->
-
 <details><summary>View details</summary>
 
-PASTE HERE
+Platform information
+Browser: Chrome
+Browser version: 95.0.4638.54
+Browser engine: Chromium
+Context: browser
+Operating system: Windows
+Operating system version: 7
+Device type: desktop
+Device pixel ratio: 1
+Logical CPU cores: 2
+Approx. device memory: 4 GB
+User agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+C3 release: r268 (stable)
+Language setting: en-US
+
+Local storage
+Storage quota (approx): 59 gb
+Storage usage (approx): 278 mb (0.5%)
+Persistant storage: No
+
+Browser support notes
+This list contains missing features that are not required, but could improve performance or user experience if supported.
+
+UI effects are disabled in settings.
+WebGL 2+ is not supported. Rendering quality and features may be affected.
+WebGL information
+Version string: WebGL 1.0 (OpenGL ES 2.0 Chromium)
+Numeric version: 1
+Supports NPOT textures: partial
+Supports GPU profiling: no
+Supports highp precision: yes
+Vendor: Google Inc. (Intel)
+Renderer: ANGLE (Intel, Intel(R) HD Graphics Direct3D9Ex vs_3_0 ps_3_0, igdumdim64.dll-10.18.10.4653)
+Major performance caveat: no
+Maximum texture size: 8192
+Point size range: 1 to 256
+Extensions:
+
+ANGLE_instanced_arrays
+EXT_blend_minmax
+EXT_color_buffer_half_float
+EXT_float_blend
+EXT_frag_depth
+EXT_shader_texture_lod
+EXT_texture_filter_anisotropic
+WEBKIT_EXT_texture_filter_anisotropic
+EXT_sRGB
+KHR_parallel_shader_compile
+OES_element_index_uint
+OES_standard_derivatives
+OES_texture_float
+OES_texture_float_linear
+OES_texture_half_float
+OES_texture_half_float_linear
+OES_vertex_array_object
+WEBGL_color_buffer_float
+WEBGL_compressed_texture_s3tc
+WEBKIT_WEBGL_compressed_texture_s3tc
+WEBGL_compressed_texture_s3tc_srgb
+WEBGL_debug_renderer_info
+WEBGL_debug_shaders
+WEBGL_depth_texture
+WEBKIT_WEBGL_depth_texture
+WEBGL_lose_context
+WEBKIT_WEBGL_lose_context
+WEBGL_multi_draw
+Audio information
+System sample rate: 48000 Hz
+Output channels: 2
+Output interpretation: speakers
+Supported decode formats:
+
+WebM Opus (audio/webm; codecs=opus)
+Ogg Opus (audio/ogg; codecs=opus)
+WebM Vorbis (audio/webm; codecs=vorbis)
+Ogg Vorbis (audio/ogg; codecs=vorbis)
+MPEG-4 AAC (audio/mp4; codecs=mp4a.40.5)
+MP3 (audio/mpeg)
+FLAC (audio/flac)
+PCM WAV (audio/wav; codecs=1)
+Supported encode formats:
+
+WebM Opus (audio/webm; codecs=opus)
+Video information
+Supported decode formats:
+
+WebM AV1 (video/webm; codecs=av01.0.00M.08)
+MP4 AV1 (video/mp4; codecs=av01.0.00M.08)
+WebM VP9 (video/webm; codecs=vp9)
+WebM VP8 (video/webm; codecs=vp8)
+Ogg Theora (video/ogg; codecs=theora)
+H.264 (video/mp4; codecs=avc1.42E01E)
+Supported encode formats:
+
+WebM VP9 (video/webm; codecs=vp9)
+WebM VP8 (video/webm; codecs=vp8)
 
 </details>
