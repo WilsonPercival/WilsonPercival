@@ -33,6 +33,7 @@
 
 Я смотрел обучающее видео по крестикам-ноликам на ютубе и увидел это. Смотрите с 3:09. https://youtu.be/UtfDY0CDY7w?t=189
 
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r268s and r274b
