@@ -1,30 +1,41 @@
 ## Problem description
 
-
+Часть изображения остаётся на другом кадре.
 
 ## Attach a .c3p
 
-
+[bug_animations_editor_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7644117/bug_animations_editor_r268s.zip)
 
 ## Steps to reproduce
 
 1. Create new project.
+2. Создаём спрайт.
+3. Рисуем кружок с центра.
+4. Дублируем фрейм.
+5. Нажимаем "Новый файл".
+6. Рисуем линию.
+7. Два раза отменяем.
+8. Рисуем линию.
+9. Жмём "Обрезать".
+10. Переключаемся на первый кадр.
+11. Жмём "Обрезать".
+12. Переключаемся на второй кадр.
 
 ## Observed result
 
-
+![bug animation editor](https://user-images.githubusercontent.com/91274932/144476662-06003777-005d-4e20-bf1e-61fd352fff09.gif)
 
 ## Expected result
 
-
+Чтобы такого не было.
 
 ## More details
 
-I noticed that only the first instance of the pasted text is displayed correctly.
+Я: 3:09 https://youtu.be/UtfDY0CDY7w?t=189
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r264b
+**First affected release:** broke in r268s and r274b
 
 ## System details
 
