@@ -31,7 +31,7 @@
 
 ## More details
 
-Я: 3:09 https://youtu.be/UtfDY0CDY7w?t=189
+Я смотрел обучающее видео по крестикам-ноликам на ютубе и увидел это. Смотрите с 3:09. https://youtu.be/UtfDY0CDY7w?t=189
 
 **Affected browsers/platforms:** Chrome
 
