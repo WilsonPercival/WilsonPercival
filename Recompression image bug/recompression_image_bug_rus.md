@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-[recompression_image_bug_r269s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7667635/recompression_image_bug_r269s.zip)
+[recompression_image_bug_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7674501/recompression_image_bug_r268s.zip)
 
 ## Steps to reproduce
 
