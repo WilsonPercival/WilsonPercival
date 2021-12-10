@@ -4,24 +4,25 @@
 
 ## Attach a .c3p
 
-[js_instances_bug_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7694375/js_instances_bug_r268s.zip)
+[js_instances_bug_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7694400/js_instances_bug_r268s.zip)
 
 ## Steps to reproduce
 
 1. Open the project.
-2. Нажмите 2 или 3 на клавиатуре.
+2. Run "Preview project".
+3. Нажмите 2 или 3 на клавиатуре.
 
 ## Observed result
 
 Сразу же после нажатия игра зависает на пару секунд. После следующих нажатий зависаний не происходит.
 
-![a1](https://user-images.githubusercontent.com/91274932/145614550-ba3c4709-fe8f-47dd-8b07-05d43e991ad5.gif)
+![a1](https://user-images.githubusercontent.com/91274932/145615444-77a78a88-61d6-4f82-a882-a934bee45966.gif)
 
 ## Expected result
 
 Зависаний не должно происходить.
 
-![a2](https://user-images.githubusercontent.com/91274932/145614558-d513330c-b398-42f9-81ae-47edaaf49208.gif)
+![a2](https://user-images.githubusercontent.com/91274932/145615452-21cd1b95-55e2-4f40-9415-af98f8003c0e.gif)
 
 ## More details
 
