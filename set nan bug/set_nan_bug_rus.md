@@ -4,8 +4,6 @@
 
 ## Attach a .c3p
 
-У первого спрайта свойство X поменялось на NaN, а у второго нет.
-
 [set_nan_bug_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7692212/set_nan_bug_r268s.zip)
 
 ## Steps to reproduce
@@ -15,6 +13,8 @@
 3. Open the console.
 
 ## Observed result
+
+У первого спрайта свойство X поменялось на NaN, а у второго нет.
 
 ![dfgdfg](https://user-images.githubusercontent.com/91274932/145563434-34ced264-fce2-4c9c-bcf5-b4ba9e99a518.png)
 
