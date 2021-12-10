@@ -4,6 +4,8 @@
 
 ## Attach a .c3p
 
+У первого спрайта свойство X поменялось на NaN, а у второго нет.
+
 [set_nan_bug_r268s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7692212/set_nan_bug_r268s.zip)
 
 ## Steps to reproduce
