@@ -35,6 +35,10 @@ Sound file (rename .ogg): [043.txt](https://github.com/WilsonPercival/WilsonPerc
 
 Я скачал пак звуков с интернета, там было 153 файла, 12 из которых с такой проблемой. Я могу предоставить эти файлы если нужно.
 
+Когда я нажал на испорченный файл, то в консоли вывелось это:
+
+![dfdf](https://user-images.githubusercontent.com/91274932/146078369-19af6b79-0824-4db8-a96b-540a69d249e1.png)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r276s
