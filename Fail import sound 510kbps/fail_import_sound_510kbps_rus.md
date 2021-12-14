@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Файл не импортируется нормально.
 
 ## Attach a .c3p
 
