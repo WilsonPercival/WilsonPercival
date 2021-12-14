@@ -4,13 +4,15 @@
 
 ## Attach a .c3p
 
-[crash_import_file_from_zip_archive_r276s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7714380/crash_import_file_from_zip_archive_r276s.zip)
+Save project before crash: [crash_import_file_from_zip_archive_r276s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7714380/crash_import_file_from_zip_archive_r276s.zip)
 
 ## Steps to reproduce
 
 1. Создайте новый проект.
 2. Нажмите на папку "Sounds" и выберите "Import sounds".
 3. Откройте zip-архив и перетащите из него файл на поле "Drag and drop audio files here".
+
+![ccvv](https://user-images.githubusercontent.com/91274932/146070484-f0671552-7d6e-45af-97fb-14114aef953b.gif)
 
 ## Observed result
 
