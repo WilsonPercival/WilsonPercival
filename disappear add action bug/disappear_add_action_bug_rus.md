@@ -22,7 +22,7 @@
 
 Появляется ошибка (как и ожидалось), но так же исчезает текст "Add action".
 
-![bug](https://user-images.githubusercontent.com/91274932/146055715-81dff36b-8191-4ebe-8f07-6846a5c9768d.gif)
+![lllkk](https://user-images.githubusercontent.com/91274932/146056814-e529a58d-1a12-4bd0-ae9f-8b644f2d7f45.gif)
 
 ## Expected result
 
