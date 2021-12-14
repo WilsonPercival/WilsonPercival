@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-[disappear_add_action_bug_r276s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7713810/disappear_add_action_bug_r276s.zip)
+[disappear_add_action_bug_r276s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7713908/disappear_add_action_bug_r276s.zip)
 
 ## Steps to reproduce
 
