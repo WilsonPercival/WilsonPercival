@@ -31,7 +31,13 @@
 
 ## More details
 
+Также я не могу переместить группу с именем "lol2" под группу с именем "po", если я сначала перемещу функцию с именем "kek" в группу "lol2", а потом нажму Undo.
 
+[cannot_move_group_bug_r276s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7721135/cannot_move_group_bug_r276s.zip)
+
+![bug](https://user-images.githubusercontent.com/91274932/146226296-727d7af9-3271-4564-9ff7-1a5b0c67dfdc.gif)
+
+Это не происходит, если после открытия проекта я сразу же попытаюсь переместить группу "lol2" под группу "po".
 
 **Affected browsers/platforms:** Chrome
 
