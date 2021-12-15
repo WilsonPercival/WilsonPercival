@@ -22,6 +22,10 @@
 
 Баг не происходит, если убрать последнее действие с выводом URL в консоль.
 
+Баг также не происходит, если написать BinaryData.getUrl в глобальную переменную:
+
+![image](https://user-images.githubusercontent.com/91274932/146249733-4241b7fd-6d51-4955-a774-3816987b61d0.png)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r276s
