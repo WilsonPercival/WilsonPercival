@@ -12,7 +12,7 @@
 
 ## Observed result
 
-Кнопки в окне "Properties" в разделе "Instance variables" без текста и не двигаются:
+Кнопки в окне "Properties" в разделе "Instance variables" и "Effects" без текста и не двигаются:
 
 https://user-images.githubusercontent.com/91274932/146971545-b355c0a6-2f96-4080-8639-c2c6f008fc2f.mp4
 
@@ -23,6 +23,10 @@ https://user-images.githubusercontent.com/91274932/146971545-b355c0a6-2f96-4080-
 Ячейки цветов в редакторе анимаций выходят за границы:
 
 ![photo_2021-12-21_12-31-53](https://user-images.githubusercontent.com/91274932/146971766-665d4ff0-aa8c-4595-b47b-f796c617a041.jpg)
+
+В редакторе тайловых карт невозможно изменить масштаб:
+
+
 
 ## Expected result
 
