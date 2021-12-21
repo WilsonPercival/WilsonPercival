@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Создайте новый проект.
+2. Создайте спрайт.
 
 ## Observed result
 
