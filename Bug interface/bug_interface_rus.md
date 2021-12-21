@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/91274932/146971545-b355c0a6-2f96-4080-
 
 В редакторе тайловых карт невозможно изменить масштаб:
 
-
+https://user-images.githubusercontent.com/91274932/146972739-3c5e1a94-2965-4df5-98bb-8dc6da978b94.mp4
 
 ## Expected result
 
