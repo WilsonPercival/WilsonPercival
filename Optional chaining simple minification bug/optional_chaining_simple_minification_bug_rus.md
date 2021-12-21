@@ -47,7 +47,7 @@ https://www.construct.net/en/tutorials/learn-javascript-construct-2819/page-3?vi
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r276s
+**First affected release:** broke in r276-2s
 
 ## System details
 
