@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/91274932/146973420-6c0c97cf-6483-4d45-
 
 ![photo_2021-12-21_12-28-13](https://user-images.githubusercontent.com/91274932/146973396-cdf7aa93-ae77-405b-9271-7f7c57033adc.jpg)
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Chrome, Safari.
 
 **First affected release:** broke in r276-2s
 
