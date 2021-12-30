@@ -4,22 +4,18 @@
 
 ## Attach a .c3p
 
-[gif_yellow_bug_r276_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7794198/gif_yellow_bug_r276_2s.zip)
-
-Gif-animation: ![savetweetvid_DEOEgfvXoAAYLB3](https://user-images.githubusercontent.com/91274932/147779994-59b551ac-15dd-418f-8306-d514c84b5787.gif)
+[animation_editor_yellow_bug_r276_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7794213/animation_editor_yellow_bug_r276_2s.zip)
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Перетащите gif-анимацию на макет.
-3. Дождитесь разбития gif-анимации на кадры.
-4. Откройте редактор анимаций этого спрайта.
+1. Откройте исходник.
+4. Откройте редактор анимации спрайта.
 
 ## Observed result
 
 Изображение жёлтое.
 
-![bug](https://user-images.githubusercontent.com/91274932/147779858-8d69d177-8c24-4375-95a9-03840d4d1301.gif)
+
 
 ## Expected result
 
@@ -54,7 +50,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 59 gb
-Storage usage (approx): 359 mb (0.6%)
+Storage usage (approx): 357 mb (0.6%)
 Persistant storage: No
 
 Browser support notes
