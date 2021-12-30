@@ -6,6 +6,8 @@
 
 [gif_yellow_bug_r276_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7794198/gif_yellow_bug_r276_2s.zip)
 
+Gif-animation: ![savetweetvid_DEOEgfvXoAAYLB3](https://user-images.githubusercontent.com/91274932/147779994-59b551ac-15dd-418f-8306-d514c84b5787.gif)
+
 ## Steps to reproduce
 
 1. Создайте новый проект.
