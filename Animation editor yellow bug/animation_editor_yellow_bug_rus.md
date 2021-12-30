@@ -15,7 +15,7 @@
 
 Изображение жёлтое.
 
-
+![bug](https://user-images.githubusercontent.com/91274932/147780447-7c667850-4d64-4fd7-a15b-97885dd74ab6.gif)
 
 ## Expected result
 
