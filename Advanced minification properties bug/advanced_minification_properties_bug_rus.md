@@ -27,7 +27,7 @@
 
 ## More details
 
-Я нагружал на netlify.com.
+Я загружал на netlify.com.
 
 **Affected browsers/platforms:** Chrome
 
