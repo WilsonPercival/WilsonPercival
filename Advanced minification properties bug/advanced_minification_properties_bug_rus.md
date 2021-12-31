@@ -9,7 +9,7 @@
 ## Steps to reproduce
 
 1. Откройте исходник.
-2. Экспортируйте его в Web (HTML5) width advanced minification.
+2. Экспортируйте его в Web (HTML5) with advanced minification.
 3. Загрузите экспортированный проект на сайт.
 4. По очереди нажимайте клавиши "1", "2", "3", "4", "5" и "6".
 
