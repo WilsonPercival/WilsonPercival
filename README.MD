@@ -1,1 +1,1 @@
-![alt text](https://i.yapx.ru/P38NR.gif)
+https://i.yapx.ru/P38NR.gif
