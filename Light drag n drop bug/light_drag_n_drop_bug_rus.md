@@ -1,10 +1,10 @@
 ## Problem description
 
-Дёрганное поведение света при перетаскивании его используя поведение Drag-n-drop и возможность его перетаскивать, захватив с любого места на экране.
+Некорректная позиция света при перетаскивании используя поведение Drag-n-drop и возможность перетаскивать, захватив с любого места на экране.
 
 ## Attach a .c3p
 
-[light_drag_n_drop_bug_r276_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7796622/light_drag_n_drop_bug_r276_2s.zip)
+[light_drag_n_drop_bug_r276_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7796674/light_drag_n_drop_bug_r276_2s.zip)
 
 ## Steps to reproduce
 
@@ -13,9 +13,9 @@
 
 ## Observed result
 
-Свет можно перетаскивать с любой точки начала захвата. Ещё позиция каждый раз возвращается на изначальное, когда я перестаю двигать зажатый курсор.
+Свет можно перетаскивать с любой точки начала захвата. Ещё позиция каждый раз возвращается на изначальное, когда я перестаю двигать зажатый курсор, хотя фактическая позиция света находится в другом месте.
 
-![bug](https://user-images.githubusercontent.com/91274932/147832328-22e244cb-6d00-4ec1-b05f-d04aeda95b56.gif)
+![bug](https://user-images.githubusercontent.com/91274932/147832777-584988ac-bdcd-4257-92ef-45ea755069b0.gif)
 
 ## Expected result
 
@@ -50,7 +50,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 59 gb
-Storage usage (approx): 332 mb (0.6%)
+Storage usage (approx): 331 mb (0.6%)
 Persistant storage: No
 
 Browser support notes
