@@ -1,1 +1,1 @@
-https://i.yapx.ru/P38NR.gif
+![bug](https://i.yapx.ru/P38NR.gif)
