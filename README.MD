@@ -1,1 +1,1 @@
-<img src="./thumbnails/2InstancesCollision.png" alt="2InstancesCollision" width="250"/>
+<img src="https://i.yapx.ru/P38NR.gif" alt="2InstancesCollision" width="250"/>
