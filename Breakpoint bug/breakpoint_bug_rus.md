@@ -29,6 +29,10 @@
 
 Это из-за выделения действия.
 
+Этот текст можно увидеть разве что через заливку.
+
+![hjhj](https://user-images.githubusercontent.com/91274932/148769770-51ccb692-9549-499e-b7fd-7e07fad7ee3f.png)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r276-2s
