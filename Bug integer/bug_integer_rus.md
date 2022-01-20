@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Странное поведение при выводе переменной в объект "Text".
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Откройте и запустите проект.
 
 ## Observed result
 
