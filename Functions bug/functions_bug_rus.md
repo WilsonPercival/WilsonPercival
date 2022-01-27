@@ -6,11 +6,11 @@ Lol
 
 ## Attach a .c3p
 
-Kek
-
 [functions_bug_r276_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7948940/functions_bug_r276_2s.zip)
 
 ## Steps to reproduce
+
+kek
 
 ![a1](https://user-images.githubusercontent.com/91274932/151322893-629d921a-507c-4d20-ae91-d8fe12c2cb17.png)
 
