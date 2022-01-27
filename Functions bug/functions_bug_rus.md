@@ -10,7 +10,7 @@ Lol
 
 ## Steps to reproduce
 
-kek
+1. 
 
 ![a1](https://user-images.githubusercontent.com/91274932/151322893-629d921a-507c-4d20-ae91-d8fe12c2cb17.png)
 
