@@ -26,6 +26,8 @@ Kek
 
 Excel
 
+![excel](https://user-images.githubusercontent.com/91274932/151325214-00200cd4-d390-4d30-a68a-8d80061a04dc.gif)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r276-2s
