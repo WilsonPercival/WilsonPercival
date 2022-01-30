@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-[on_created_bug.zip](https://github.com/WilsonPercival/WilsonPercival/files/7964414/on_created_bug.zip)
+[on_created_bug.zip](https://github.com/WilsonPercival/WilsonPercival/files/7965585/on_created_bug.zip)
 
 ## Steps to reproduce
 
