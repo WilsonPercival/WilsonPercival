@@ -1,6 +1,6 @@
 ## Problem description
 
-Констракт крашится если добавить параметры.
+Construct crashes when you're adding parameters quickly.
 
 ## Attach a .c3p
 
@@ -8,13 +8,13 @@ Save project before crash: [crash_add_parameter_function_r276s.zip](https://gith
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Зайдите в лист событий.
-3. Создайте функцию.
-4. Выделите функцию.
-5. Нажмите P, чтобы открыть окно добавления нового параметра.
-6. Нажмите Enter, чтобы подтвердить и создать новый параметр.
-7. Повторяйте шаги 5 и 6 очень быстро.
+1. Create a new project.
+2. Go to the event sheet.
+3. Create a function.
+4. Select a function.
+5. Press "P" to open the dialog of adding a new parameter.
+6. Press Enter to confirm adding a new parameter.
+7. Repeat steps 5 and 6 very quickly.
 
 ![jjjj](https://user-images.githubusercontent.com/91274932/146047617-2f714bda-f46c-4c29-8938-fc60b1a0172c.gif)
 
@@ -62,11 +62,11 @@ Extensions: ANGLE_instanced_arrays, EXT_blend_minmax, EXT_color_buffer_half_floa
 
 ## Expected result
 
-Чтобы констракт не крашился.
+Construct doesn't crash.
 
 ## More details
 
-Я просто хотел узнать, как много параметров я могу добавить в функцию. Видимо узнаю это в следующий раз.
+I just wanted to know how many parameters you could add to a function. Apparently I will find out next time :)
 
 **Affected browsers/platforms:** Chrome
 
