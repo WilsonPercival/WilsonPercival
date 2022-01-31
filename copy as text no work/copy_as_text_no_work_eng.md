@@ -1,6 +1,6 @@
 ## Problem description
 
-Если нажать кнопку Copy as text, то ничего не произойдёт.
+If you click "Copy as text", nothing happens.
 
 ## Attach a .c3p
 
@@ -8,10 +8,10 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Зайдите в редактор событий.
-3. Создайте условие Start of layout.
-4. Выделите событие и нажмите RMB - Copy as text.
+1. Create a new project.
+2. Go to the event sheet.
+3. Create the condition "Start of layout".
+4. Select the condition, then right button click - "Copy as text".
 
 ## Observed result
 
