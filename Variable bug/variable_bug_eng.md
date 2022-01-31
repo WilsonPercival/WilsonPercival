@@ -1,6 +1,6 @@
 ## Problem description
 
-После перемещения функции в группу, в которой была локальная переменная с таким же именем, что и параметр у функции - аргумент функции в действии начинается ссылаться на другую переменную, потому что он не изменил своё имя.
+After moving a function in the group, where there is a local variable with the same name as the parameter of the function, the parameter in the action doesn't change its name and basically starts to refer to another variable.
 
 ## Attach a .c3p
 
@@ -8,9 +8,9 @@
 
 ## Steps to reproduce
 
-1. Откройте и исходник.
-2. Откройте редактор событий.
-3. Перетащите функцию в группу.
+1. Open the project.
+2. Open the event sheet.
+3. Move the function in the group.
 
 ## Observed result
 
@@ -18,7 +18,7 @@
 
 ## Expected result
 
-Аргумент в действии изменится на "lol2".
+The parameter in the action change to "lol2".
 
 ## More details
 
