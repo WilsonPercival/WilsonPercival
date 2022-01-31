@@ -1,6 +1,6 @@
 ## Problem description
 
-Игра не запускается, если имя скрипта содержит большую букву.
+The game won't start if the script's name contain a capital letter.
 
 ## Attach a .c3p
 
@@ -8,27 +8,27 @@
 
 ## Steps to reproduce
 
-1. Запустите исходник.
+1. Run a project.
 
 ## Observed result
 
-Игра не запускается.
+The game won't start.
 
 ![bug2](https://user-images.githubusercontent.com/91274932/146200343-49cfb64b-47cd-4521-8882-ad9631a1ff17.gif)
 
 ## Expected result
 
-Игра запускается.
+The game launches.
 
 ## More details
 
-Если имя скрипта будет "vConsole.js" и в "main.js" я импортирую так:
+If the name of the script is "vConsole.js" and I import this file in "main.js" the following way
 
 import "./vConsole.js";
 
-то проект не запустится. А если я изменю имя скрипта на "vconsole.js", а в "main.js" импортирую вот так:
+then the project won't start. If I change the name to "vconsole.js" and import it in "main.js" like this
 
-import "./vconsole.js", то игра запустится.
+import "./vconsole.js", then the game starts.
 
 ![bug3](https://user-images.githubusercontent.com/91274932/146200654-633d53e6-376c-41b7-b770-18b93e31e2c0.gif)
 
