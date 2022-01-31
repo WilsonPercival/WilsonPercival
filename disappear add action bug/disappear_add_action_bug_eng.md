@@ -1,6 +1,6 @@
 ## Problem description
 
-Пропадает действие "Add action" после вставки действия.
+"Add action" disappears after you've pasted an action.
 
 ## Attach a .c3p
 
@@ -8,25 +8,25 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Откройте редактор событий.
-3. Создайте глобальную переменную.
-4. Создайте функцию, которая возвращает число.
-5. Создайте событие "Start of layout".
-6. Добавьте в нём действие Set Variable1 to: Functions.Function1 + 13.
-7. Вырежте это действие.
-8. Поменяйте тип возвращаемого значения функции на строку.
-9. Вставьте вырезанное действие в блок "Start of layout".
+1. Create a new project.
+2. Open the event sheet.
+3. Create a global variable "Variable1".
+4. Create a function "Function1" that rerurns a number.
+5. Create the condition  "Start of layout".
+6. Add an action Set Variable1 to: Functions.Function1 + 13.
+7. Cut this action.
+8. In "Function1" change a type of the returned value from number to string.
+9. Paste the cut action in the "Start of layout" section.
 
 ## Observed result
 
-Появляется ошибка (как и ожидалось), но так же исчезает текст "Add action".
+An error occurs (as expected). But also the label "Add action" disappears.
 
 ![lllkk](https://user-images.githubusercontent.com/91274932/146056814-e529a58d-1a12-4bd0-ae9f-8b644f2d7f45.gif)
 
 ## Expected result
 
-Действие "Add action" не исчезает.
+The label "Add action" doesn't disappear.
 
 ## More details
 
