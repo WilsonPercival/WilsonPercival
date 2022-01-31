@@ -1,6 +1,6 @@
 ## Problem description
 
-Персонаж прилипает к платформе, когда она опускается.
+A character sticks to the platform when it's moving down.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run the project.
 2. Когда платформа начнёт опускаться - подпрыгните, нажав стрелку вверх.
 
 ## Observed result
