@@ -1,6 +1,6 @@
 ## Problem description
 
-Системная кнопка не нажимается, когда мы удерживаем один палец.
+A system button cannot be touched if we hold a finger.
 
 ## Attach a .c3p
 
@@ -8,22 +8,22 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Откройте удалённый предпросмотр и запустите игру на мобильном устройстве.
-3. Нажмите и продолжайте удерживать палец на спрайте.
-4. Попробуйте нажать на кнопку.
+1. Open and run a project.
+2. Start remote preview and open a game on a mobile device.
+3. Touch the sprite and hold your finger.
+4. Try to touch the button.
 
 ## Observed result
 
-Кнопка не нажимается.
+The button doesn't work.
 
 ## Expected result
 
-Кнопка нажимается.
+The button works.
 
 ## More details
 
-Кнопка нажимается, если не удерживать палец на спрайте. Счётчик на кнопке свидетельствует о её нажатии.
+The button works if you don't hold a finger. We can tell the button works by the counter.
 
 **Affected browsers/platforms:** Chrome (Android)
 
