@@ -1,6 +1,6 @@
 ## Problem description
 
-Если сперва импортировать какой-то скрипт, а потом нажать кнопку Add script - main.js не добавится.
+If you first import some script and click "Add script", main.js won't be created.
 
 ## Attach a .c3p
 
@@ -8,19 +8,19 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Импортируйте любой скрипт в папку "Scripts".
-3. Добавьте новый скрипт.
+1. Create a new project.
+2. Import any script to the folder "Scripts".
+3. Add a new script.
 
 ![bug](https://user-images.githubusercontent.com/91274932/146197298-e84116d2-d601-47ad-8844-895fe81f7592.gif)
 
 ## Observed result
 
-main.js не добавится.
+main.js isn't create.
 
 ## Expected result
 
-main.js добавится.
+main.js is created.
 
 ## More details
 
