@@ -1,6 +1,6 @@
 ## Problem description
 
-Закрывается папка после перетаскивания в неё файла.
+The folder in the project bar is closed after dropping files.
 
 ## Attach a .c3p
 
@@ -8,23 +8,23 @@
 
 ## Steps to reproduce
 
-1. Откройте проект.
-2. Найдите папку Files на вкладке проекта.
-3. Переместите файл из папки "New Folder 3" в папку "New Folder 2".
+1. Open the project.
+2. Find  the folder Files in the project bar.
+3. Drag files from "New Folder 3" and drop them in "New Folder 2".
 
 ## Observed result
 
-Папка "New Folder" закроется.
+"New Folder" closes.
 
 ![oooi](https://user-images.githubusercontent.com/91274932/146054070-5c400182-2ee7-4c49-a702-f22f8765cc70.gif)
 
 ## Expected result
 
-Папка не закрывается.
+"New folder" doesn't close
 
 ## More details
 
-Баг не происходит, если повторно перетаскивать файл из папки в папку.
+The bug doesn't happen if you repeatedly drag and drop from folder to folder.
 
 ![oooi2](https://user-images.githubusercontent.com/91274932/146054133-66cf4adb-0978-42c0-82fb-efb94bb4c3b9.gif)
 
