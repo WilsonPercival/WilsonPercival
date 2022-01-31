@@ -9,21 +9,21 @@ A character sticks to the platform when it's moving down.
 ## Steps to reproduce
 
 1. Open and run the project.
-2. Когда платформа начнёт опускаться - подпрыгните, нажав стрелку вверх.
+2. When the platform starts moving down, jump by pressing the UP arrow.
 
 ## Observed result
 
-Персонаж прилипает к нижней части платформы.
+The character sticks to the bottom part of the platform.
 
 ![bug](https://user-images.githubusercontent.com/91274932/146215900-6dbf8507-2ae2-46ea-ae33-7b79605fd1fc.gif)
 
 ## Expected result
 
-Персонаж не прилипает к платформе.
+The character doesn't stick.
 
 ## More details
 
-Чтобы доказать, что это не из-за того, что скорость опускания платформы выше, чем скорость падения персонажа - я добавил второго, который остаётся на платформе, пока первый соскальзывает с неё - и видно, что он ускоряется, падая, потому что его скорость падения выше, чем скорость платформы. Я также добавил управление TimeDelta, чтобы было лучше видно, что происходит.
+To prove that it's not because of the platform moving down faster than the character, I added a second one which stays on the platform while the first is sliding down from it. It's clear that he's accelerating falling down because his speed is higher than the platform's. I also added the control TimeDelta, to see better what is going on.
 
 **Affected browsers/platforms:** Chrome
 
