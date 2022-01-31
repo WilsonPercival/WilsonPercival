@@ -1,6 +1,6 @@
 ## Problem description
 
-Не происходит переход по URL в режиме дебага.
+In the debugger mode a url link cannot be open.
 
 ## Attach a .c3p
 
@@ -8,9 +8,9 @@
 
 ## Steps to reproduce
 
-1. Откройте проект.
-2. Запустите его в режиме дебага.
-3. Нажмите "S".
+1. Open the project.
+2. Run it in the debugger mode.
+3. Press "S".
 
 ## Observed result
 
@@ -18,7 +18,7 @@
 
 ## Expected result
 
-Переход по указанной ссылке.
+The link can be opened.
 
 ## More details
 
