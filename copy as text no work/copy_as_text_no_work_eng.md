@@ -15,15 +15,15 @@ If you click "Copy as text", nothing happens.
 
 ## Observed result
 
-В буфер обмена ничего не копируется.
+Nothing is copied to the clipboard.
 
 ## Expected result
 
-В буфер обмена копируется содержимое ивентов в виде текста.
+The content of the events is copied to the clipboard as a text.
 
 ## More details
 
-Пробовал на Android - работает.
+Tested on Android - it worked.
 
 **Affected browsers/platforms:** Chrome (PC)
 
