@@ -1,6 +1,6 @@
 ## Problem description
 
-Файл не импортируется нормально.
+Files are not imported properly.
 
 ## Attach a .c3p
 
@@ -10,22 +10,22 @@ Sound file (rename .ogg): [043.txt](https://github.com/WilsonPercival/WilsonPerc
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Нажмите на папку "Sounds" и выберите "Import sounds".
-3. Выберите 510kbps.
-4. Перетащите .ogg файл на поле "Drag and drop audio files here".
-5. Дождитесь конвертации.
-6. Когда конвертация завершилась - можете нажать кнопку "Import".
+1. Create a new project.
+2. Click on the folder "Sounds" and choose "Import sounds".
+3. Choose 510kbps.
+4. Drag an .ogg file to the area "Drag and drop audio files here".
+5. Wait till the conversion is finished.
+6. When it's finished - click the button "Import".
 
 ![sdf](https://user-images.githubusercontent.com/91274932/146071970-886f9db6-d940-4767-9ac6-c0a1cd4c5a96.gif)
 
 ## Observed result
 
-Файл стал весить 0 bytes и его невозможно воспроизвести в превью.
+File is 0 bytes and is impossible to play in preview.
 
 ## Expected result
 
-Файл нормально импортируется.
+The file is imported properly.
 
 ## More details
 
@@ -33,9 +33,9 @@ Sound file (rename .ogg): [043.txt](https://github.com/WilsonPercival/WilsonPerc
 
 ![sdf2](https://user-images.githubusercontent.com/91274932/146072068-174f70e4-5a99-4d05-992d-47e7d2045e46.gif)
 
-Я скачал пак звуков с интернета, там было 153 файла, 12 из которых с такой проблемой. Я могу предоставить эти файлы если нужно.
+I downloaded a sound pack with 153 files and 12 of them had this problem. I can provide the files if neccessary.
 
-Когда я нажал на испорченный файл, то в консоли вывелось это:
+When I clicked on the broken file, the concole said this:
 
 ![dfdf](https://user-images.githubusercontent.com/91274932/146078369-19af6b79-0824-4db8-a96b-540a69d249e1.png)
 
