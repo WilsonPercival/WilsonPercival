@@ -1,6 +1,6 @@
 ## Problem description
 
-Констракт крашится после импорта файлов из zip-архива.
+Construct crashes after the files import from a zip archive.
 
 ## Attach a .c3p
 
@@ -8,9 +8,9 @@ Save project before crash: [crash_import_file_from_zip_archive_r276s.zip](https:
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Нажмите на папку "Sounds" и выберите "Import sounds".
-3. Откройте zip-архив и перетащите из него файл на поле "Drag and drop audio files here".
+1. Create a new project.
+2. Click on the folder "Sounds" and choose "Import sounds".
+3. Open a zip archive and drag a file from there to the area "Drag and drop audio files here".
 
 ![ccvv](https://user-images.githubusercontent.com/91274932/146070484-f0671552-7d6e-45af-97fb-14114aef953b.gif)
 
@@ -56,7 +56,7 @@ Extensions: ANGLE_instanced_arrays, EXT_blend_minmax, EXT_color_buffer_half_floa
 
 ## Expected result
 
-Констракт не крашится.
+Construct doesn't crash.
 
 ## More details
 
