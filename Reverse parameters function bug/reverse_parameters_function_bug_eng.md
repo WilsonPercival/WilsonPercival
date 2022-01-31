@@ -1,6 +1,6 @@
 ## Problem description
 
-Параметры функции меняются местами.
+The paremeters of the function swapped places.
 
 ## Attach a .c3p
 
@@ -8,27 +8,27 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Перейдите в редактор событий.
-3. Создайте функцию с параметрами "a" и "b".
-4. Вызовите эту функцию, передав в a - 13, а в b - 17.
-5. Вырежите вызов функции.
-6. Поменяйте местами параметры функции.
-7. Вставьте вызов функции обратно.
+1. Create a new project.
+2. Go to the event sheet.
+3. Create a function with parameters "a" and "b".
+4. Call this function passing 13 as "a", and 17 as "b".
+5. Cut the function call.
+6. Switch positions of the parameters in the function.
+7. Paste the call function back.
 
 ![zxc](https://user-images.githubusercontent.com/91274932/146080620-9e30755b-bfd9-4fd9-b222-1c6d8ad72302.gif)
 
 ## Observed result
 
-Значения параметров поменялись местами.
+The values of parameters changed places.
 
 ## Expected result
 
-Значения параметров не меняются местами.
+The values of parameters shouldn't change places.
 
 ## More details
 
-Этого не должно происходить, ведь если я удалю параметр a - у меня b не сместится на первое место и не станет равно 13.
+It shouldn't happen. After all if I delete the parameter "a", "b" won't go in the first place and won't be 13.
 
 ![zxc2](https://user-images.githubusercontent.com/91274932/146080752-f7c9fbbe-7223-4ca9-a0b6-87854c6f30f0.gif)
 
