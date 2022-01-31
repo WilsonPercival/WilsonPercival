@@ -1,6 +1,6 @@
 ## Problem description
 
-Некорректная работа кнопок отмены и возврата.
+Incorrect work of undo and redo.
 
 ## Attach a .c3p
 
@@ -8,25 +8,25 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте новый скрипт - автоматически добавится main.js.
-3. Допишите в нём строку "const hello".
-4. Нажмите два раза Undo.
-5. Нажмите Redo.
+1. Create a new project.
+2. Add a new script - main.js will be added automatically.
+3. Add a line "const hello".
+4. Click Undo twice.
+5. Click Redo.
 
 ## Observed result
 
-Мы не можем больше нажать второй раз кнопку Redo и то, что мы писали в main.js бесследно исчезло.
+We can't click Redo the second time. Everything in main.js has vanished without a trace.
 
 ![ghh](https://user-images.githubusercontent.com/91274932/146050735-e87dab6c-9172-474f-8f6e-0baf15c261d6.gif)
 
 ## Expected result
 
-После того, как мы нажали первый раз Redo - у нас есть ещё одна возможность нажать Redo и вернуть всё как было.
+After first Redo we are able to click Redo again - to get everything to the previous state.
 
 ## More details
 
-Этот баг не происходит, если перед тем, как первый раз нажать Undo мы закроем скрипт.
+This bug doesn't happen if before first Undo you close main.js.
 
 ![ghh2](https://user-images.githubusercontent.com/91274932/146051332-32dd5d9d-f642-4fab-a86a-c3906a335140.gif)
 
