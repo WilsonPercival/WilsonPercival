@@ -1,6 +1,6 @@
 ## Problem description
 
-После замены скриптов регистр букв имени остаётся как у первого файла.
+When replacing a script, the register of letters in the name follows that of the first file.
 
 ## Attach a .c3p
 
@@ -8,20 +8,20 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте новый скрипт - автоматически добавится "main.js".
-3. Импортируйте "script.js".
-4. Импортируйте "sCript.js".
+1. Create a new project.
+2. Add a new script - main.js will be added automatically.
+3. Import "script.js".
+4. Import "sCript.js".
 
 ## Observed result
 
-В файлах проекта скрипт останется с именем "script.js", хотя я импортировал файл с именем "sCript.js".
+In the project files the script will keep the name "scripts.js", even though I imported it as "sCript.js".
 
 ![zxc](https://user-images.githubusercontent.com/91274932/146204103-55aa13bb-05b3-464d-ad92-c83df00a43bd.gif)
 
 ## Expected result
 
-Имя файла станет как у второго файла.
+The second file keeps it register in the name.
 
 ## More details
 
