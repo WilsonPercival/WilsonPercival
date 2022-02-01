@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Ошибка экспорта.
 
 ## Attach a .c3p
 
