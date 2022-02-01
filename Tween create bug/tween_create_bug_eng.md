@@ -1,6 +1,6 @@
 ## Problem description
 
-Виден спрайт в координатах 100, 100.
+A sprite is visible in coordinates 100, 100.
 
 ## Attach a .c3p
 
@@ -8,22 +8,22 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Нажимайте 2.
+1. Open and run the project.
+2. Press "2" repeatedly.
 
 ## Observed result
 
-После окончания твина - спрайт появляется в координатах 100, 100 - мы видим это, хотя не должны.
+After the tween ends, the sprite appears in the coordinates 100, 100. We see it, althought we shouldn't.
 
 ![bug](https://user-images.githubusercontent.com/91274932/146247579-6d403cf4-bdf0-4480-9a34-6f020ec5c6ec.gif)
 
 ## Expected result
 
-Чтобы мы не видели спрайт в координатах 100, 100.
+We don't see the sprite in the coordinates 100, 100
 
 ## More details
 
-Если нажать 1, то всё будет хорошо.
+If you press "1" everything is alright.
 
 ![bug2](https://user-images.githubusercontent.com/91274932/146247621-feba7bae-7f86-42f5-b57d-dcfbeed4e844.gif)
 
