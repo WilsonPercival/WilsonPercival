@@ -1,6 +1,6 @@
 ## Problem description
 
-Когда мы вставляем изображение из буфера обмена - оно вставляется криво.
+When we paste an image from clipboard - it appears in the wrong place.
 
 ## Attach a .c3p
 
@@ -8,12 +8,12 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Создайте спрайт.
-3. Скопируйте в буфер обмена изображение 50х50 пикселей.
-4. Измените холст в редакторе изображений на размер 50х50 пикселей.
-5. Увеличьте масштаб так, чтобы видеть только половину области ограничивающего прямоугольника.
-6. Вставьте изображение из буфера обмена.
+1. Create a new project.
+2. Create a sprite.
+3. Copy to clipboard an image 50х50 pixels.
+4. Change the canvas size in the image editor to 50х50 pixels.
+5. Zoom in in a way that you can only see the half of the canvas area.
+6. Paste an image from clipboard.
 
 ## Observed result
 
