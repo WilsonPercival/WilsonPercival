@@ -1,6 +1,6 @@
 ## Problem description
 
-Низкий FPS в браузере Google Chrome.
+Low FPS in Google Chrome.
 
 ## Attach a .c3p
 
@@ -8,18 +8,18 @@ Kiwi Story
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Запустите в режиме удалённого предпросмотра (на самом деле не важно как).
+1. Open the project.
+2. Open remote preview (although it doesn't matter).
 
 ## Observed result
 
-Низкий FPS в Google Chrome, нормальный в Safari.
+Low FPS in Google Chrome. In Safari FPS is normal.
 
 https://user-images.githubusercontent.com/91274932/146973420-6c0c97cf-6483-4d45-9b54-a598223a8cea.mp4
 
 ## Expected result
 
-Одинаково стабильный FPS в обеих браузерах.
+Equal FPS in both browsers.
 
 ## More details
 
