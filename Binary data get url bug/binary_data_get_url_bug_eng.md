@@ -1,6 +1,6 @@
 ## Problem description
 
-Error in the console. и не загружается изображение в объект SVG, если после загрузки поставить действие Browser - Log.
+Error in the console. An image cannot be loaded into an SVG object, if you add the action Browser - Log on load.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@ Error in the console. и не загружается изображение в �
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run the project.
 
 ## Observed result
 
@@ -20,9 +20,9 @@ Error in the console. и не загружается изображение в �
 
 ## More details
 
-Баг не происходит, если убрать последнее действие с выводом URL в консоль.
+The bug doesn't happen if you delete the last action (Browser - Log)
 
-Баг также не происходит, если написать BinaryData.getURL в глобальную переменную:
+Also the bug doesn't happen if you write BinaryData.getURL into a global variable.
 
 ![image](https://user-images.githubusercontent.com/91274932/146249733-4241b7fd-6d51-4955-a774-3816987b61d0.png)
 
