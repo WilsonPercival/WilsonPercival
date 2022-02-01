@@ -1,6 +1,6 @@
 ## Problem description
 
-Не загружается svg изображение в SVG объект и ошибка в консоли.
+An SVG image cannot be loaded into an SVG object. The error in the console follows.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run the project.
 
 ## Observed result
 
@@ -20,9 +20,9 @@
 
 ## More details
 
-Novosel_mushroom.xml - это .svg-файл. Я просто поменял ему расширение.
+Novosel_mushroom.xml - is an .svg file. I just changed its extension.
 
-Баг не происходит, если я попытаюсь загрузить .png-файл. Он может быть как с расширением .png, так и с .xml. Для демонстрации я добавил файл wilson.png и wilson.xml (это тот же файл, только я поменял в нём расширение).
+The bug doesn't happen if you try to load a png file. It can be with the .png extension as well .xml. For illustration, I added wilson.png and wilson.xml (it's the same file with different extensions).
 
 ![bug3](https://user-images.githubusercontent.com/91274932/146251423-4bc89764-8085-4d3b-9869-4c1e194af2bf.png)
 
