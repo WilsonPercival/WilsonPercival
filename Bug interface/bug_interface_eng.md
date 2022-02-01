@@ -1,6 +1,6 @@
 ## Problem description
 
-Поломанный интерфейс в Mac OS X.
+Broken UI on Mac OS X.
 
 ## Attach a .c3p
 
@@ -8,30 +8,30 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Создайте спрайт.
+1. Create a new project.
+2. Create a sprite.
 
 ## Observed result
 
-Кнопки в окне "Properties" в разделе "Instance variables" и "Effects" без текста и не двигаются:
+Buttons in the "Properties" window (sections "Instance variables" and "Effects") are without text and don't move:
 
 https://user-images.githubusercontent.com/91274932/146971545-b355c0a6-2f96-4080-8639-c2c6f008fc2f.mp4
 
-Текст вылезает за окно:
+Text goes beyond the window:
 
 ![photo_2021-12-21_12-29-13](https://user-images.githubusercontent.com/91274932/146971763-caeb539e-4287-4150-8d1a-c5c385250b9f.jpg)
 
-Ячейки цветов в редакторе анимаций выходят за границы:
+Color cells in the animation editor are out of the borders.
 
 ![photo_2021-12-21_12-31-53](https://user-images.githubusercontent.com/91274932/146971766-665d4ff0-aa8c-4595-b47b-f796c617a041.jpg)
 
-В редакторе тайловых карт невозможно изменить масштаб:
+In the tilemap editor it's impossible to zoom in and out.
 
 https://user-images.githubusercontent.com/91274932/146972739-3c5e1a94-2965-4df5-98bb-8dc6da978b94.mp4
 
 ## Expected result
 
-Рабочий интерфейс.
+Operational UI.
 
 ## More details
 
