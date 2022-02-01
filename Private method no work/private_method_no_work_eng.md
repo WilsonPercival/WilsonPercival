@@ -1,6 +1,6 @@
 ## Problem description
 
-Приватные методы класса в JS не работают.
+Private methods of a class don't work in JS.
 
 ## Attach a .c3p
 
@@ -8,8 +8,8 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Попробуйте запустить игру.
+1. Open the project.
+2. Try to run the game.
 
 ## Observed result
 
@@ -17,7 +17,7 @@
 
 ## Expected result
 
-Приватные методы работают.
+Private methods work.
 
 ## More details
 
