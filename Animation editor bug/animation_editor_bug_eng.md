@@ -1,6 +1,6 @@
 ## Problem description
 
-Констракт зависает, если нажать на панель задач в Windows 7.
+Construct freezes if you click on the taskbar in Windows 7.
 
 ## Attach a .c3p
 
@@ -8,25 +8,25 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте спрайт.
-3. В редакторе анимации откройте окно изменения размеров холста.
-4. Кликните один раз на панель задач в Windows 7.
-5. Вернувшись в браузер в констракт нажмите "ОК" на окне с изменением размеров холста.
+1. Create a new project.
+2. Add a sprite.
+3. In the animation editor open Resize image canvas window.
+4. Click once on the taskbar in Windows 7.
+5. Go back to Constuct and click "ОК" in the Resize image canvas window.
 
 ## Observed result
 
-Констракт завис и ни на что не реагирует.
+Construct freezes and doesn't respond.
 
 ![bug](https://user-images.githubusercontent.com/91274932/146942687-10d72339-2bf5-431d-8203-bc07059b7370.gif)
 
 ## Expected result
 
-Чтобы констракт не зависал.
+Construct doesn't freeze.
 
 ## More details
 
-Если свернуть и развернуть окно браузера с констрактом - всё возвращается в норму.
+If you minimize and maximize a browser window with conctruct - everything goes back to normal.
 
 **Affected browsers/platforms:** Chrome
 
