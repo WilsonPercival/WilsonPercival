@@ -8,8 +8,8 @@ Failed export.
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Экспортируйте в Web (HTML5) с simple minification.
+1. Open the project.
+2. Export it to Web (HTML5) with simple minification.
 
 ## Observed result
 
@@ -27,7 +27,7 @@ Failed export.
 
 ## More details
 
-Я написал вот такой код:
+I wrote this code:
 
 const data = {"status2":"ok"}
 if (data?.["status"] === undefined)
@@ -39,7 +39,7 @@ else
   console.log(17);
 }
 
-Этот синтаксис вы использовали в своём туториале:
+You used this syntax in one of your tutorials:
 
 https://www.construct.net/en/tutorials/learn-javascript-construct-2819/page-3?vic=79
 
