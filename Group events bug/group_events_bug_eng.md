@@ -1,6 +1,6 @@
 ## Problem description
 
-Разное поведение, если действие находится в группе и вне её.
+Different behavior, depending on whether an action is inside or outside the group.
 
 ## Attach a .c3p
 
@@ -8,17 +8,17 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run the project.
 
 ## Observed result
 
-Зелёный спрайт мигает.
+The green sprite flashes.
 
 ![bug](https://user-images.githubusercontent.com/91274932/146235888-6f92f35e-17d7-47f3-a207-ad4dd96486ef.gif)
 
 ## Expected result
 
-Одинаковое поведение.
+The same behavior
 
 ## More details
 
