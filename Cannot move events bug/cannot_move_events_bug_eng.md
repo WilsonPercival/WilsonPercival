@@ -1,6 +1,6 @@
 ## Problem description
 
-Невозможно переместить события.
+It's impossible to move events.
 
 ## Attach a .c3p
 
@@ -8,36 +8,36 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте спрайт и мышь.
-3. Создайте условие "При клике на спрайт".
-4. Нажмите "Make OR block".
-5. Добавьте событие "Every tick".
-6. Переместите условие "Every tick" в блок "При клике на спрайт".
-7. Удалите пустой блок.
-8. Добавьте условие "Pick sprite by UID".
-9. Переместите блок с кликом под-событием под "Pick sprite by UID".
-10. Переместите под-событие обратно.
+1. Create a new project.
+2. Add a sprite and a mouse.
+3. Create a condition "Left button clicked on object (our sprite)".
+4. Right click and "Make OR block".
+5. Add "Every tick".
+6. Move "Every tick" to the condition "Left button clicked on object".
+7. Delete an empty section.
+8. Add the condition "Pick sprite by UID".
+9. Move the section with "Left button clicked..." as a sub-event to "Pick sprite by UID".
+10. Move the sub-event back.
 
 ## Observed result
 
-Невозможно переместить события "Pick sprite by UID" под блок "При клике на спрайт".
+It's impossible to move "Pick sprite by UID" under the condition "Left button clicked on object".
 
 ![bug](https://user-images.githubusercontent.com/91274932/146223851-d005dad1-b5ab-4b8a-b6a0-eed49f9117a5.gif)
 
 ## Expected result
 
-События можно переместить.
+The events are possible to move.
 
 ## More details
 
-Также я не могу переместить группу с именем "lol2" под группу с именем "po", если я сначала перемещу функцию с именем "kek" в группу "lol2", а потом нажму Undo.
+Also I can't move a group named "lol2" under the the group named "po", if I first move the function named "kek" in the group "lol2" and then click Undo.
 
 [cannot_move_group_bug_r276s.zip](https://github.com/WilsonPercival/WilsonPercival/files/7721135/cannot_move_group_bug_r276s.zip)
 
 ![bug](https://user-images.githubusercontent.com/91274932/146226296-727d7af9-3271-4564-9ff7-1a5b0c67dfdc.gif)
 
-Это не происходит, если после открытия проекта я сразу же попытаюсь переместить группу "lol2" под группу "po".
+It doesn't happen if upon opening the project I try to move the group "lol2" under the group "po".
 
 **Affected browsers/platforms:** Chrome
 
