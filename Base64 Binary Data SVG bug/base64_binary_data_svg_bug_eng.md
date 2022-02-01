@@ -1,6 +1,6 @@
 ## Problem description
 
-В SVG-объект не загружается изображение svg в виде base64.
+An SVG image in base64 cannot be loaded into an SVG object.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run the project.
 
 ## Observed result
 
@@ -20,7 +20,7 @@
 
 ## More details
 
-Содержимое файла file.txt является base64-представлением svg файла.
+The content of file.txt is a base64 representation of an SVG file.
 
 **Affected browsers/platforms:** Chrome
 
