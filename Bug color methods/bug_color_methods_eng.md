@@ -1,6 +1,6 @@
 ## Problem description
 
-Цвета методов разные.
+Methods have different colors.
 
 ## Attach a .c3p
 
@@ -8,10 +8,10 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Перейдите на скрипт "script.js".
-3. Выделите всё содержимое и вырежьте.
-4. Вставьте обратно.
+1. Open the project.
+2. Open "script.js".
+3. Select all its content and cut.
+4. Paste back.
 
 ## Observed result
 
@@ -19,7 +19,7 @@
 
 ## Expected result
 
-Методы одного цвета.
+Methods have the same color.
 
 ## More details
 
