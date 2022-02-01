@@ -1,6 +1,6 @@
 ## Problem description
 
-В JS метод спрайта getAllInstances() возвращает массив, в котором нету только что созданного спрайта.
+In JS a sprite method getAllInstances() returns an array in which a newly created sprite is missing.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run the project.
 
 ## Observed result
 
@@ -20,7 +20,7 @@
 
 ## More details
 
-Я написал вот этот код:
+I wrote this code:
 
 runtime.objects.Sprite.createInstance(0, 200, 200);
 	
@@ -29,7 +29,7 @@ for (const instance of runtime.objects.Sprite.getAllInstances())
   instance.colorRgb = [0, 0, 0];
 }
 
-Но фильтр применился только к старому спрайту.
+But the filter only applied to the old sprite.
 
 **Affected browsers/platforms:** Chrome
 
