@@ -1,6 +1,6 @@
 ## Problem description
 
-Auto-completion не работает.
+Auto-completion doesn't work.
 
 ## Attach a .c3p
 
@@ -8,24 +8,24 @@ Auto-completion не работает.
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте спрайт.
-3. Создайте условие, где можно написать выражение.
-4. Напишите "Sprite(0).".
+1. Open the project.
+2. Add a sprite.
+3. Create a condition, where you can write an expression.
+4. Write "Sprite(0).".
 
 ## Observed result
 
-Auto-completion не показывает выражения, доступны этому объекту.
+Auto-completion doesn't show expressions available for this object.
 
 ![bug](https://user-images.githubusercontent.com/91274932/148196966-ec14e55a-5a83-4222-93be-2628503a0acd.gif)
 
 ## Expected result
 
-Auto-completion работает корректно.
+Auto-completion works correctly.
 
 ## More details
 
-Без указания индекса экземпляра это работает нормально.
+Without specifying an index of an instance, everything works fine.
 
 ![bug2](https://user-images.githubusercontent.com/91274932/148197076-56ab678e-bbb9-4489-a7e7-4c8fd29f0c4f.gif)
 
