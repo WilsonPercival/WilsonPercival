@@ -1,6 +1,6 @@
 ## Problem description
 
-Блок "Else" вставляется не там, где нужно.
+"Else"-block is added in the wrong place.
 
 ## Attach a .c3p
 
@@ -8,27 +8,27 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте событие "On start of layout".
-3. Добавьте под-событие "Every tick".
-4. Добавьте "Else" напротив "Every tick".
-5. Скопируйте второй блок и вставьте после третьего.
-6. Добавьте "Else" напротив последнего "Every tick".
-7. Выделите последний блок с "Every tick" и удалите его.
-8. После удаления автоматически выделится самый последний блок. Удалите и его.
-9. После "Else" вставьте "Every tick" из буфера обмена.
-10. Автоматически выделится последний блок.
-10. Нажмите клавишу "X", чтобы добавить к нему "Else".
+1. Create a new project.
+2. Add the event "On start of layout".
+3. Add the sub-event "Every tick".
+4. Add "Else" against "Every tick".
+5. Cope the second block and place it after the third.
+6. Add "Else" against the last "Every tick".
+7. Select the last block with "Every tick" and delete it.
+8. After deletent the last block will be selected automatically. Delete it as well.
+9. After "Else" paste "Every tick" from clipboard.
+10. The last block will be selected automatically.
+10. Press "X" to add "Else".
 
 ## Observed result
 
-Блок "Else" добавился не после выделенного блока, а перед ним.
+Block "Else" was added not after the selected block but before it.
 
 ![aab](https://user-images.githubusercontent.com/91274932/147574410-f0fa5581-3177-47ae-a059-c13ba33142dc.gif)
 
 ## Expected result
 
-Блок "Else" вставляется после выделенного блока.
+"Else"-block is added after the selected block.
 
 ## More details
 
