@@ -1,6 +1,6 @@
 ## Problem description
 
-Изображение жёлтое.
+The image is yellow.
 
 ## Attach a .c3p
 
@@ -8,22 +8,22 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-4. Откройте редактор анимации спрайта.
+1. Open the project.
+4. Open the sprite animation editor.
 
 ## Observed result
 
-Изображение жёлтое.
+The image is yellow.
 
 ![bug](https://user-images.githubusercontent.com/91274932/147780447-7c667850-4d64-4fd7-a15b-97885dd74ab6.gif)
 
 ## Expected result
 
-Изображение имеет нужный цвет.
+The image colors are normal.
 
 ## More details
 
-Если навести курсор на изображение, то оно становится нормальным.
+If you hover a cursor over an image, it becomes normal.
 
 **Affected browsers/platforms:** Chrome
 
