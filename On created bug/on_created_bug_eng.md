@@ -1,6 +1,6 @@
 ## Problem description
 
-Если есть срабатывающее условие "On created",  то спрайт не устанавливает цвет.
+If the "On created" trigger condition is present, then the sprite does not set a color.
 
 ## Attach a .c3p
 
@@ -8,18 +8,18 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Нажимайте клавишу "1".
+1. Open and run source code.
+2. Press the "1" key.
 
 ## Observed result
 
-Если срабатывающее условие "On created" есть, то верхний "Sprite2" не устанавливает цвет. Если срабатывающего условия "On created" нету, то всё работает корректно (цвет устанавливается). 
+If the "On created" trigger condition is present, then the top "Sprite2" does not set a color. If the triggered condition "On created" is not present, then everything works correctly (the color is set).
 
 ![bug1](https://user-images.githubusercontent.com/91274932/151693354-715ce24f-9cf1-4b08-ae8e-5cebdb6c90bd.gif)
 
 ## Expected result
 
-Срабатывающее условие "On created" не влияет на работоспособность остальных событий.
+The triggered condition "On created" does not affect the performance of other events.
 
 ![bug2](https://user-images.githubusercontent.com/91274932/151693360-4b657636-e66b-4673-b6f9-c8ba5af988ab.gif)
 
