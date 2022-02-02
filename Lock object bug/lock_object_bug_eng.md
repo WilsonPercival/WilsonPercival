@@ -1,6 +1,6 @@
 ## Problem description
 
-После создания спрайта он заблокирован.
+After the creation of a sprite it's blocked.
 
 ## Attach a .c3p
 
@@ -8,21 +8,21 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Создайте спрайт.
-3. Заблокируйте его.
-4. Удалите его.
-5. Создайте новый спрайт.
+1. Create a new project.
+2. Create a sprite.
+3. Block it.
+4. Delete it.
+5. Create a new sprite.
 
 ## Observed result
 
-Новосозданный спрайт заблокирован.
+Newly created sprite is blocked.
 
 ![bug](https://user-images.githubusercontent.com/91274932/147831976-738a1bf8-2b96-42a2-9f7f-b2c34667c5b9.gif)
 
 ## Expected result
 
-Новосозданный спрайт не заблокирован.
+Newly created sprite isn't blocked.
 
 ## More details
 
