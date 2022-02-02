@@ -1,6 +1,6 @@
 ## Problem description
 
-После дублирования группы не происходит переименование вызываемой функции. Из-за этого становится почти невозможно корректно продублировать функционал группы.
+After duplicating a group, the called function is not renamed. Because of this, it becomes almost impossible to correctly duplicate the functional of the group.
 
 ## Attach a .c3p
 
@@ -8,29 +8,29 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте группу.
-3. В группе создайте функцию "Function1".
-4. Добавьте действие - вызов функции "Function1".
-5. Скопируйте и вставьте эту группу.
+1. Create a new project.
+2. Add a group.
+3. In the group, create a function "Function1".
+4. Add an action - calling the "Function1" function.
+5. Copy and paste this group.
 
 ![a1](https://user-images.githubusercontent.com/91274932/151322893-629d921a-507c-4d20-ae91-d8fe12c2cb17.png)
 
 ## Observed result
 
-В новой группе функция меняет название на "Function2", но вызов всё ещё указывает на функцию из первой группы.
+In the new group, the function changes its name to "Function2", but the call still points to the function from the first group.
 
 ![a2](https://user-images.githubusercontent.com/91274932/151322902-d4225e86-4153-4333-9899-454a8331ae16.png)
 
 ## Expected result
 
-Вызов функции во второй группе указывает на ту же функцию во второй группе.
+A call to a function in the second group points to the same function in the second group.
 
 ![a3](https://user-images.githubusercontent.com/91274932/151322925-7618f6c2-26b6-470d-8afd-822e987915d5.png)
 
 ## More details
 
-К примеру, в Excel, если одна ячейка ссылалась на соседнюю, то после копирования она начнёт ссылаться на другую:
+For example, in Excel, if one cell referred to an adjacent one, then after copying it will begin to refer to another:
 
 ![excel](https://user-images.githubusercontent.com/91274932/151325214-00200cd4-d390-4d30-a68a-8d80061a04dc.gif)
 
