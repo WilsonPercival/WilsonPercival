@@ -1,6 +1,6 @@
 ## Problem description
 
-В окне "Font picker" не отображается шрифт, который был установлен в Windows.
+In the "Font picker" I can't see the font that is installed in Windows.
 
 ## Attach a .c3p
 
@@ -8,9 +8,9 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Создайте объект "Text".
-3. Найдите ваш предустановленный шрифт в окне "Font picker" (у вас должен быть любой из нестандартных шрифтов, который вы заранее установили).
+1. Create a new project.
+2. Create object "Text".
+3. Find your preinstalled font in the "Font picker" (у вас должен быть любой из нестандартных шрифтов, который вы заранее установили). !!!
 
 ## Observed result
 
@@ -20,11 +20,11 @@
 
 ## Expected result
 
-Шрифт "monofur" присутствует в этом списке.
+Шрифт "monofur" присутствует в этом списке. !!!
 
 ## More details
 
-Шрифт предустановлен, и это видно, если я напишу его имя вручную.
+The font is preinstalled. It's clear if you type its name manually.
 
 **Affected browsers/platforms:** Chrome
 
