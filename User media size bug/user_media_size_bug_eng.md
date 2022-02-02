@@ -1,6 +1,6 @@
 ## Problem description
 
-После изменение ориентации экрана размеры камеры не меняются.
+After changing the screen orientation the camera resolution doesn't change.
 
 ## Attach a .c3p
 
@@ -8,18 +8,18 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник на мобильном устройстве.
-2. Изменяйте ориентацию экрана.
+1. Open and run the project on a mobile device.
+2. Change the screen orientation.
 
 ## Observed result
 
-Размеры камеры были 480x640 при портретной ориентации, но когда я изменил на ландшафтную ориентацию - размеры остались 480x640 пока я не запросил ещё раз камеру.
+The camera resolution was 480x640 in portrait. When you switch to landscape the resolution is still 480x640. Until you request the camera again.
 
 https://user-images.githubusercontent.com/91274932/150406735-40c72eb3-a509-4741-82b0-67772f1548ff.mp4
 
 ## Expected result
 
-Размеры камеры меняются правильно.
+The camera resolution changes accordingly.
 
 ## More details
 
