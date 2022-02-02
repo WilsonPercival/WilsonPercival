@@ -1,27 +1,27 @@
 ## Problem description
 
-Не могу найти условие "Effects are supported".
+I can't find the conditioon "Effects are supported".
 
 ## Attach a .c3p
 
-На стартовой странице темплейт "Camera effects".
+There is a template "Camera effects" on the start page.
 
 ![asd](https://user-images.githubusercontent.com/91274932/150332957-eba312d3-c2f0-42a5-be0d-99e6ccd5bfc7.png)
 
 ## Steps to reproduce
 
-1. Откройте темплейт "Camera effects" на стартовой странице.
-2. Посмотрите на условие в последнем седьмом событии.
+1. Open the template "Camera effects" on the start page.
+2. Look at the condition in the 7th event.
 
 ## Observed result
 
-В System нету такого условия.
+In System there is no such conditon.
 
 ![photo_2022-01-15_22-28-14](https://user-images.githubusercontent.com/91274932/150333113-94965f48-7dfa-4e1a-84f1-4f1522e58fb1.jpg)
 
 ## Expected result
 
-В System есть условие "Effects are supported".
+In System there is the condition "Effects are supported".
 
 ## More details
 
