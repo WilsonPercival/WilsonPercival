@@ -1,6 +1,6 @@
 ## Problem description
 
-Некорректная позиция света при перетаскивании используя поведение Drag-n-drop и возможность перетаскивать, захватив с любого места на экране.
+Incorrect light position when dragging usind Drag-n-drop behavior and the ability to drag picking from any place on the screen.
 
 ## Attach a .c3p
 
@@ -8,18 +8,18 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Попробуйте перетаскивать свет курсором.
+1. Open and run the project.
+2. Try to move the light with a cursor.
 
 ## Observed result
 
-Свет можно перетаскивать с любой точки начала захвата. Ещё позиция каждый раз возвращается на изначальное, когда я перестаю двигать зажатый курсор, хотя фактическая позиция света находится в другом месте.
+The light can be dragged from any point on the screen. Also every time the position goes back to initial when I stop to drag the held down cursor. When the actual position of light is in another place.
 
 ![bug](https://user-images.githubusercontent.com/91274932/147832777-584988ac-bdcd-4257-92ef-45ea755069b0.gif)
 
 ## Expected result
 
-Перетаскивать объект можно только потянув за область ограничивающего прямоугольника. Позиция не возвращается на начальную если не перетаскивать свет.
+You can move objects around only by holding them within their collision polygon. The position doesn't go back to initial if you don't move the light.
 
 ## More details
 
