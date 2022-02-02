@@ -1,6 +1,6 @@
 ## Problem description
 
-Нельзя установить лист событий для макета. !!!
+Cannot set event sheet for layout.
 
 ## Attach a .c3p
 
@@ -14,7 +14,7 @@
 
 ## Observed result
 
-Не могу установить лист событий - его нету в списке. !!!
+I can not install the event list, because it is not in the list.
 
 ![bug](https://user-images.githubusercontent.com/91274932/147756146-55c4563a-e060-45bd-b092-12cef4e06b58.gif)
 
