@@ -1,6 +1,6 @@
 ## Problem description
 
-Объект не выделяется, если выделять его быстро.
+The object cannot be selected if you select it quickly.
 
 ## Attach a .c3p
 
@@ -8,23 +8,23 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект.
-2. Добавьте "Sprite".
-3. Попробуйте выделить его.
+1. Create a new project.
+2. Add a "Sprite".
+3. Try to select it.
 
 ## Observed result
 
-Объект выделяется и тут же сбрасывает выделение.
+The object is selected but immediately loses the selection.
 
 ![bug](https://user-images.githubusercontent.com/91274932/148527033-1c119c6e-a69f-4ac3-8f52-e1409e7b5368.gif)
 
 ## Expected result
 
-Объект выделяется корректно.
+The object is selected correctly.
 
 ## More details
 
-Чтобы повторить этот баг нужно выделять быстро: между нажатием и отпусканием мыши должны пройти доли секунды.
+To reproduce this bug you need to select quickly: between clicking and releasing the button is a fraction of a second.
 
 **Affected browsers/platforms:** Chrome
 
