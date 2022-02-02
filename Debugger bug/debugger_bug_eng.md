@@ -1,6 +1,6 @@
 ## Problem description
 
-Невозможно запустить игру, перезапустив её нажатием на кнопку "Preview layout".
+It's impossible to launch the game by restarting it with "Preview layout".
 
 ## Attach a .c3p
 
@@ -8,27 +8,27 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Откройте консоль.
-3. Перезагрузите страницу с игрой.
-4. Перейдите на страницу с Construct.
-5. Попробуйте запустить игру из Construct, нажав на кнопку "Preview layout".
+1. Open the run the project.
+2. Open the console.
+3. Restart the tab with a game.
+4. Go to the Construct tab.
+5. Try to launch the game from Construct, by clicking "Preview layout".
 
 ## Observed result
 
-Страница с игрой не перезагружается.
+The tab with the game doesn't restart.
 
 ![bug](https://user-images.githubusercontent.com/91274932/150351564-fdd4582c-b7e9-4ced-8617-aa1be3a61915.gif)
 
 ## Expected result
 
-Страница с игрой обновляется без проблем.
+The tab with the game restarts without problems.
 
 ## More details
 
-Приходится закрывать эту страницу и открывать заново, чтобы запустить игру повторно. Пропускать шаг дебаггера можно, но только в том случае, если этот дебаггер не установлен в функции, которая выполняется каждый тик.
+I'm forced to close the tab with a game and reopen it, to launch it again. IT's possible to skip the debugger step, but only in the case when this debugger is not in the function that runs every tick.
 
-После закрытия окна с игрой в Construct появляется такое окно:
+After closing the tab with the game in Construct the following message pops up:
 
 ![asd](https://user-images.githubusercontent.com/91274932/150351582-d8e50987-234a-475e-91bc-5e0dfaec85a1.png)
 
