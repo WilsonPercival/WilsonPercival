@@ -1,6 +1,6 @@
 ## Problem description
 
-Странное отображение границы блока скрипта.
+The block border is dashed.
 
 ## Attach a .c3p
 
@@ -8,22 +8,22 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Зайдите в редактор событий.
+1. Open the project.
+2. Go to the event sheet.
 
 ## Observed result
 
-Граница блока со скриптом отображается некорректно: видны пробелы и отсутствие рамки.
+The border line of the block is displayed incorrectly. It's dashed.
 
 ![bug js interface](https://user-images.githubusercontent.com/91274932/147574971-3d695baf-8b08-47b8-b67c-7495c39df32a.gif)
 
 ## Expected result
 
-Границы блоков скриптов отображаются цельно.
+The border line is normal.
 
 ## More details
 
-Если переместить этот блок или изменить масштаб блоков - этот баг исчезает.
+If you move this block or change the scale the bug disappears.
 
 **Affected browsers/platforms:** Chrome
 
