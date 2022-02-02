@@ -1,6 +1,6 @@
 ## Problem description
 
-Нельзя установить лист событий для макета.
+Нельзя установить лист событий для макета. !!!
 
 ## Attach a .c3p
 
@@ -8,23 +8,23 @@
 
 ## Steps to reproduce
 
-1. Создайте новый проект start with script.
-2. Добавьте лист событий.
-3. Попробуйте установить его для первого макета.
+1. Create a new project start with script.
+2. Add an event sheet.
+3. Try to set this sheet for the first layout.
 
 ## Observed result
 
-Не могу установить лист событий - его нету в списке.
+Не могу установить лист событий - его нету в списке. !!!
 
 ![bug](https://user-images.githubusercontent.com/91274932/147756146-55c4563a-e060-45bd-b092-12cef4e06b58.gif)
 
 ## Expected result
 
-Лист событий есть в списке и его можно установить.
+The event sheet is on the list. It can be set.
 
 ## More details
 
-Если закрыть и открыть макет снова, то возможность появится.
+If you close and reopen the layout, you get the opportunity.
 
 **Affected browsers/platforms:** Chrome
 
