@@ -1,6 +1,6 @@
 ## Problem description
 
-Изображение на весь макет.
+The image is full screen (the whole layout).
 
 ## Attach a .c3p
 
@@ -8,27 +8,27 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Перейдите в Layout editor.
+1. Open the project.
+2. Go to the Layout editor.
 
 ## Observed result
 
-Изображение на весь макет.
+The image is full screen (the whole layout).
 
 ![bug](https://user-images.githubusercontent.com/91274932/147833337-82a1272d-9bf3-4617-bf7f-f0aa5c31e9e2.gif)
 
 ## Expected result
 
-Изображение не искажено.
+The image isn't distorted.
 
 ## More details
 
-Мне кажется что-то с Z elevation. Шаги, чтобы воссоздать исходник:
+I think there something is wrong with Z-elevation. Take these steps to reproduce the source code:
 
-1. Создайте новый проект.
-2. Создайте спрайт.
-3. Перейдите в Event sheet editor.
-4. Сохраните проект и откройте его заново.
+1. Open a new project.
+2. Create a sprite.
+3. Go to the Event sheet editor.
+4. Save the project and open it again.
 
 **Affected browsers/platforms:** Chrome
 
