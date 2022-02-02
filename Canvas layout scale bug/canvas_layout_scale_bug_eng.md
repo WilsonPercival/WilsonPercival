@@ -1,6 +1,6 @@
 ## Problem description
 
-Canvas исчезает когда мы увеличиваем layout scale.
+Canvas disappears when we increase layout scale.
 
 ## Attach a .c3p
 
@@ -8,20 +8,20 @@ Canvas исчезает когда мы увеличиваем layout scale.
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Зажмите LMB и проведите по Canvas.
-3. Нажмите клавишу "1".
-4. Повторите пункт 2.
+1. Open and run the project.
+2. Hold LMB and move a cursor along the canvas.
+3. Press "1".
+4. Repeat step 2.
 
 ## Observed result
 
-Canvas исчез.
+Canvas disappeared.
 
 ![bug](https://user-images.githubusercontent.com/91274932/147885551-ea7b9ad0-d998-41b4-8a31-20aad64ac838.gif)
 
 ## Expected result
 
-Canvas на месте.
+Canvas remains.
 
 ## More details
 
