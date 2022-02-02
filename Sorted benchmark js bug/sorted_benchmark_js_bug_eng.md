@@ -1,6 +1,6 @@
 ## Problem description
 
-Падение производительности если сортировать через JavaScript.
+The performance drops if you sort through JS.
 
 ## Attach a .c3p
 
@@ -8,23 +8,23 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
-2. Нажмите кнопку "1".
-3. Нажми кнопку "2".
+1. Open and run the project.
+2. Press "1".
+3. Press "2".
 
 ## Observed result
 
-В тексте видно FPS. При сортировке через ивенты FPS 15. При сортировке через JS - FPS 10.
+In text you can see FPS. When sorting through events, FPS is 15. Sorting through JS, FPS is 10.
 
 ## Expected result
 
-Производительность через JavaScript не уступает производительности через ивенты.
+Performance in JS is as good as in the events.
 
-Вы можете поиграться с значением количества экземпляров спрайта на экране, чтобы лучше увидеть разницу.
+You can play around with the number of sprite instances on the screen to see the difference better.
 
 ## More details
 
-Два действия ивентов быстрее, чем одно через JS.
+Two event actions are faster than one JS action.
 
 **Affected browsers/platforms:** Chrome
 
