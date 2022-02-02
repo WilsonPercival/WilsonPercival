@@ -29,7 +29,7 @@ The file is imported properly.
 
 ## More details
 
-Баг не происходит, если импортировать под 256kbps.
+The bug does not occur if you import 256kbps or lower.
 
 ![sdf2](https://user-images.githubusercontent.com/91274932/146072068-174f70e4-5a99-4d05-992d-47e7d2045e46.gif)
 
