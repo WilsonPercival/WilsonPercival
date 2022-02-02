@@ -1,6 +1,6 @@
 ## Problem description
 
-Текст на действии исчезает, когда срабатывает breakpoint.
+Text in the event disappears, when you reach a breakpoint.
 
 ## Attach a .c3p
 
@@ -8,28 +8,28 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Поставьте breakpoint на втором действии.
-3. Запустите проект в режиме отладки.
-4. Дождитесь пока сработает breakpoint и перейдите в Construct.
+1. Open the source code.
+2. Add a breakpoint in the second action.
+3. Run the project in the debugger mode.
+4. Wait till you reach the breakpoint then switch to Construct.
 
 ## Observed result
 
-Текст исчез.
+The text disappeared.
 
 ![bug](https://user-images.githubusercontent.com/91274932/148769432-d51b75af-3a54-4c7c-91e6-633d540d94b5.gif)
 
 ## Expected result
 
-Текст видно.
+The text is visible.
 
 ![sdfsdf](https://user-images.githubusercontent.com/91274932/148769468-e8eda096-92e8-43c1-a248-d0c384ae475a.png)
 
 ## More details
 
-Это из-за выделения действия.
+It's because of the selection of the action.
 
-Этот текст можно увидеть разве что через заливку.
+This text can be seen only after filling.
 
 ![hjhj](https://user-images.githubusercontent.com/91274932/148769770-51ccb692-9549-499e-b7fd-7e07fad7ee3f.png)
 
