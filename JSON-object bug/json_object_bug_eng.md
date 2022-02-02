@@ -1,6 +1,6 @@
 ## Problem description
 
-Неадекватное поведение объекта JSON.
+Wrong behavior of a JSON-object.
 
 ## Attach a .c3p
 
@@ -8,16 +8,16 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник с макета "Layout 1".
-2. Нажмите кнопку "2", чтобы перейти на макет "Layout 2".
+1. Open and run the project from "Layout 1".
+2. Press "2" to go to "Layout 2".
 
 ## Observed result
 
-На макете "Layout 1" приватная переменная у объекта JSON равна 0. На макете "Layout 2" приватная переменная у объекта JSON равна тому, что я установил ей в значение по умолчанию.
+On "Layout 1" a private JSON variable equals 0. On "Layout 2" a private JSON variable equals the value I set as default.
 
 ## Expected result
 
-Приватная переменная равна тому, что я указал в значении по умолчанию.
+A private variable equals the value I set as default.
 
 ## More details
 
