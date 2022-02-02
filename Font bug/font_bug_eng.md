@@ -10,17 +10,17 @@ In the "Font picker" I can't see the font that is installed in Windows.
 
 1. Create a new project.
 2. Create object "Text".
-3. Find your preinstalled font in the "Font picker" (у вас должен быть любой из нестандартных шрифтов, который вы заранее установили). !!!
+3. Find your preinstalled font in the "Font picker" (you must have any of the custom fonts you have pre-installed).
 
 ## Observed result
 
-Шрифт "monofur" отсутствует в этом списке.
+The font "monofur" is missing from this list.
 
 ![bug](https://user-images.githubusercontent.com/91274932/147780956-294c1eec-e59c-4b2e-b05b-dc4c93ab5cc8.gif)
 
 ## Expected result
 
-Шрифт "monofur" присутствует в этом списке. !!!
+The font "monofur" is present in this list.
 
 ## More details
 
