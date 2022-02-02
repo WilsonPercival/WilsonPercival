@@ -1,6 +1,6 @@
 ## Problem description
 
-Доступ к свойствам объекта, которые по идее должны были быть обфусцированны. Изменение поведения при выводе самого объекта в консоль.
+Access to the object properties, which in theory must be obfuscated. The changes in behavior when the object is printed to console.
 
 ## Attach a .c3p
 
@@ -8,26 +8,26 @@
 
 ## Steps to reproduce
 
-1. Откройте исходник.
-2. Экспортируйте его в Web (HTML5) with advanced minification.
-3. Загрузите экспортированный проект на сайт.
-4. По очереди нажимайте клавиши "1", "2", "3", "4", "5" и "6".
+1. Open the project.
+2. Export it to Web (HTML5) with advanced minification.
+3. Upload the exported project to the website.
+4. Press "1", "2", "3", "4", "5" and "6" one at a time.
 
 ## Observed result
 
-Я могу взять строковое свойство нестрокового свойства объекта (3). Также я могу взять нестроковое свойство объекта со строковым свойством (4). Я попробовал вывести сам объект рядом в этот же момент, но в этом случае я получаю undefined в обеих случаях (5 и 6).
+I can access the string property of a non-string property of the object (3). Also I can access a non-string property of the object with a string property (4). I tried to print the object beside at the same time, but in this case I get "undefined" in both cases (5 and 6).
 
 ![bug](https://user-images.githubusercontent.com/91274932/147833694-cfc0cd2d-2d9d-4ced-95f9-5f6a09fc98a2.png)
 
 ## Expected result
 
-Я не могу взять строковое свойство нестрокового свойства объекта (т.к. по идее нестроковое свойство должно быть обфусцированно). Также я не могу взять нестроковое свойство объекта со строковым свойством (т.к. по идее нестроковое свойство должно быть обфусцированно).
+I can't access the string property of a non-string property of the object (in theory non-string property must be obfuscated). Also I can't access a non-string property of the object with a string property (in theory non-string property must be obfuscated).
 
 ![zzz](https://user-images.githubusercontent.com/91274932/147833911-e26b3a57-013f-4b87-8dd9-40159ef676c8.png)
 
 ## More details
 
-Я загружал на netlify.com.
+I uploaded to netlify.com.
 
 **Affected browsers/platforms:** Chrome
 
