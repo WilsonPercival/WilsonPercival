@@ -1,6 +1,6 @@
 ## Problem description
 
-После изменения прокрутки runtime.layout.getLayer(0).getViewport().right возвращает значение, которое отстаёт.
+First I change the layout's scroll value. After that, runtime.layout.getLayer(0).getViewport().right returns a value that lags behind.
 
 ## Attach a .c3p
 
@@ -8,11 +8,11 @@
 
 ## Steps to reproduce
 
-1. Откройте и запустите исходник.
+1. Open and run project.
 
 ## Observed result
 
-Красный спрайт отстаёт. Зелёный спрайт устанавливает правильное положение.
+The red sprite lags behind. The green sprite sets the correct position.
 
 ![bug](https://user-images.githubusercontent.com/91274932/155187545-c6e7c7b1-7f49-41f5-ac7a-a4f01008d7bf.gif)
 
