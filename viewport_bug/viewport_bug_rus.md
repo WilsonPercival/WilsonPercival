@@ -1,6 +1,6 @@
 ## Problem description
 
-После изменения прокрутки runtime.layout.getLayer(0).getViewport().right возвращает значение, которое отстаёт.
+LOL После изменения прокрутки runtime.layout.getLayer(0).getViewport().right возвращает значение, которое отстаёт.
 
 ## Attach a .c3p
 
