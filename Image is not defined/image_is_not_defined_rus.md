@@ -1,26 +1,30 @@
 ## Problem description
 
-
+Проект не запускается и в консоли ошибка "Image is not defined".
 
 ## Attach a .c3p
 
-
+Cave Bridge на стартовой странице.
 
 ## Steps to reproduce
 
-
+1. Откройте и запустите исходник.
 
 ## Observed result
+
+Игра не запускается.
 
 ![bug](https://user-images.githubusercontent.com/91274932/155207793-8966df66-f2be-4819-b556-ec73f8e3a611.png)
 
 ## Expected result
 
+Игра запускается.
+
 ![bug2](https://user-images.githubusercontent.com/91274932/155207812-f7e3bc95-0c94-43dd-a3e2-9eab1293d136.png)
 
 ## More details
 
-
+Я выяснил, что баг не происходит, если удалить объект "Fog" или выключить Worker mode.
 
 **Affected browsers/platforms:** Chrome
 
