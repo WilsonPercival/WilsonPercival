@@ -32,7 +32,7 @@
 
 <details><summary>View details</summary>
 
-Platform information 
+Platform information
 Browser: Chrome
 Browser version: 95.0.4638.54
 Browser engine: Chromium
