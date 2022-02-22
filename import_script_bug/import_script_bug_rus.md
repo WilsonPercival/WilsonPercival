@@ -1,6 +1,6 @@
 ## Problem description
 
-
+После импортирования файла он не появляется в папке.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Откройте исходник.
+2. Импортируйте файл с именем "lol.js" в папку Files.
 
 ## Observed result
 
@@ -16,7 +17,7 @@
 
 ## Expected result
 
-
+Файл появляется в папке Files.
 
 ## More details
 
