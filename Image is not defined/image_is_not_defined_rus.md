@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-Cave Bridge на стартовой странице.
+"Cave Bridge" на стартовой странице.
 
 ## Steps to reproduce
 
@@ -28,7 +28,7 @@ Cave Bridge на стартовой странице.
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r276-2s
+**First affected release:** broke in r284b.
 
 ## System details
 
