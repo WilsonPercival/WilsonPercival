@@ -1,22 +1,24 @@
 ## Problem description
 
-
+runtime.layout.getLayer(0).getViewport().right возвращает значение, которое отстаёт.
 
 ## Attach a .c3p
 
-[viewport_bug_r284b.zip](https://github.com/WilsonPercival/WilsonPercival/files/8118832/viewport_bug_r284b.zip)
+[viewport_bug_r284b.zip](https://github.com/WilsonPercival/WilsonPercival/files/8118902/viewport_bug_r284b.zip)
 
 ## Steps to reproduce
 
-
+1. Откройте и запустите исходник.
 
 ## Observed result
 
+Красный спрайт отстаёт. Зелёный спрайт устанавливает правильное положение.
 
+![bug](https://user-images.githubusercontent.com/91274932/155187545-c6e7c7b1-7f49-41f5-ac7a-a4f01008d7bf.gif)
 
 ## Expected result
 
-
+![bug2](https://user-images.githubusercontent.com/91274932/155187565-9e3a721f-a24e-4a26-8ca8-2d6e1829a8ce.gif)
 
 ## More details
 
