@@ -1,6 +1,6 @@
 ## Problem description
 
-Тут была Регина Сначала я меняю значение прокрутки макета. После этого runtime.layout.getLayer(0).getViewport().right возвращает значение, которое отстаёт.
+Сначала я меняю значение прокрутки макета. После этого runtime.layout.getLayer(0).getViewport().right возвращает значение, которое отстаёт.
 
 ## Attach a .c3p
 
