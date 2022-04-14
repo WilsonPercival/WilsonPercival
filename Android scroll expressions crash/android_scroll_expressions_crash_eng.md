@@ -70,7 +70,7 @@ The crash doesn't happen.
 
 **Affected browsers/platforms:** Chrome (Android)
 
-**First affected release:** broke in r285-3b and r290b
+**First affected release:** broke in r285-3s and r290b
 
 ## System details
 
