@@ -13,13 +13,17 @@ Checking through the "testOverlap" code turns out to be several times slower tha
 ## Observed result
 
 testOverlap - 10 FPS
+
 On collision - 60 FPS
+
 Is overlapping - 60 FPS
 
 ## Expected result
 
 testOverlap - 60 FPS
+
 On collision - 60 FPS
+
 Is overlapping - 60 FPS
 
 ## More details
