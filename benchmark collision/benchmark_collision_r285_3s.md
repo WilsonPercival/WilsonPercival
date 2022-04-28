@@ -12,23 +12,15 @@ Checking through the "testOverlap" code turns out to be several times slower tha
 
 ## Observed result
 
-TYPE            FPS
-
-testOverlap     10
-
-On collision    60
-
-Is overlapping  60
+testOverlap - 10 FPS
+On collision - 60 FPS
+Is overlapping - 60 FPS
 
 ## Expected result
 
-TYPE            FPS
-
-testOverlap     60
-
-On collision    60
-
-Is overlapping  60
+testOverlap - 60 FPS
+On collision - 60 FPS
+Is overlapping - 60 FPS
 
 ## More details
 
