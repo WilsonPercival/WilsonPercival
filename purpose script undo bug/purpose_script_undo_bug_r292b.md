@@ -1,6 +1,6 @@
 ## Problem description
 
-After pressing cancel, the script type did not revert to "main script".
+After pressing "undo", the script type did not revert to "main script".
 
 ## Attach a .c3p
 
