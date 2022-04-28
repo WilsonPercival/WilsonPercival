@@ -30,6 +30,8 @@ Is overlapping - 60 FPS
 
 At the beginning of the game, I create a thousand sprites in such a way that they do not overlap each other.
 
+You can try increasing the number of instances created if you have a fast computer to see the FPS drop.
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r285-3s
