@@ -16,7 +16,7 @@ There is an error in the console and the project does not start.
 
 ## Expected result
 
-
+![bug](https://user-images.githubusercontent.com/91274932/166084370-2bd1d25f-8504-4cf6-8801-92c18e65c3f5.gif)
 
 ## More details
 
