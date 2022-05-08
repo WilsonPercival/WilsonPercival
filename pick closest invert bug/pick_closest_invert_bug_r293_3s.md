@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I can't invert the `Pick nearest/furthest` condition to pick all instances except the one nearest.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open project.
 
 ## Observed result
 
@@ -20,7 +20,11 @@
 
 ## More details
 
+I noticed that in Classic it is possible to do the inversion, but the nearest instance is still selected. If you think it doesn't make sense - why then can we invert `Pick top instance`? He after all all the same selects only the top copy.
 
+![z](https://user-images.githubusercontent.com/91274932/167297548-fc53e192-8a56-4bc8-b2c3-b18405626282.png)
+
+If you decide to disable `Pick top instance` inversion - don't! Better fix it please!
 
 **Affected browsers/platforms:** Chrome
 
