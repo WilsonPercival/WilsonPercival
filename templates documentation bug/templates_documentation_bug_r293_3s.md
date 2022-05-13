@@ -20,7 +20,7 @@
 
 ## More details
 
-
+https://www.construct.net/en/make-games/manuals/construct-3/scripting/scripting-reference/object-interfaces/iobjectclass
 
 **Affected browsers/platforms:** Chrome
 
