@@ -8,7 +8,7 @@ The documentation does not say anything about the fifth parameter when creating 
 
 ## Steps to reproduce
 
-
+1. Open the documentation.
 
 ## Observed result
 
