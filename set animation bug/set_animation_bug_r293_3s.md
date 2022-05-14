@@ -20,7 +20,19 @@ I see an error in the console when I want to run a non-existent animation.
 
 ## More details
 
+For example, this works great when we: create a sprite on a layer that doesn't exist
 
+![layer](https://user-images.githubusercontent.com/91274932/168426395-1bf6af8c-3ce5-458e-a52a-62fdb3ade5d6.png)
+
+, call a C3 function that was not declared
+
+![function](https://user-images.githubusercontent.com/91274932/168426411-7bab7cbb-fb56-44b7-b2d7-790bb461d621.png)
+
+or set the text to a numeric value.
+
+![text](https://user-images.githubusercontent.com/91274932/168426422-f0ecf2f3-af46-4280-a788-1764165c0943.png)
+
+This helps a lot when developing to immediately see in the console when we are doing something wrong and not spend a lot of time looking for what Construct quietly hushed up.
 
 **Affected browsers/platforms:** Chrome
 
