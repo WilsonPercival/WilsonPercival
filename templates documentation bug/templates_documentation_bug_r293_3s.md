@@ -1,6 +1,6 @@
 ## Problem description
 
-
+The documentation does not say anything about the fifth parameter when creating an object.
 
 ## Attach a .c3p
 
@@ -16,7 +16,7 @@
 
 ## Expected result
 
-
+Something about templates.
 
 ## More details
 
