@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-[load_scripts_bug_r296_2b.zip](https://github.com/WilsonPercival/WilsonPercival/files/8801620/load_scripts_bug_r296_2b.zip)
+[load_scripts_bug_r296_2b.zip](https://github.com/WilsonPercival/WilsonPercival/files/8801635/load_scripts_bug_r296_2b.zip)
 
 ## Steps to reproduce
 
@@ -12,7 +12,7 @@
 
 ## Observed result
 
-![bug](https://user-images.githubusercontent.com/91274932/171083271-f5679851-aba3-46a9-a200-59bf73a2a0fb.png)
+![bug](https://user-images.githubusercontent.com/91274932/171083655-26d36af4-81af-495c-9829-f38dd3c35bd5.png)
 
 ## Expected result
 
