@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When loading a script from the Files folder with the `loadScripts` method, I get an error.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Open the console.
 
 ## Observed result
 
@@ -22,7 +23,7 @@
 
 https://peerjs.com/
 
-DiegoM
+The method proposed by DiegoM does not produce errors.
 
 https://www.construct.net/en/forum/construct-3/scripting-51/install-sdks-cdn-npm-yarn-162441
 
