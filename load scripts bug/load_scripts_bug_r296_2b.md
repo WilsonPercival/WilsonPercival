@@ -16,7 +16,7 @@
 
 ## Expected result
 
-![expected](https://user-images.githubusercontent.com/91274932/171083803-dbf4ca15-85f2-434f-b887-73a5ebfd1b37.png)
+![expected](https://user-images.githubusercontent.com/91274932/171084227-b74765fb-299a-463e-935c-f42b165c9496.png)
 
 ## More details
 
