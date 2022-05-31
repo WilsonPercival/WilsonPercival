@@ -21,7 +21,7 @@ When loading a script from the Files folder with the `loadScripts` method, I get
 
 ## More details
 
-https://peerjs.com/
+[https://peerjs.com/](https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js)
 
 The method proposed by DiegoM does not produce errors.
 
