@@ -12,7 +12,7 @@
 
 ## Observed result
 
-![bug](https://user-images.githubusercontent.com/91274932/171083655-26d36af4-81af-495c-9829-f38dd3c35bd5.png)
+![observed](https://user-images.githubusercontent.com/91274932/171083944-d49204ab-cf51-4cbf-8499-a606845d6392.png)
 
 ## Expected result
 
