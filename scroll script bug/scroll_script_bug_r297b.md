@@ -8,7 +8,13 @@ Half of the script editor has been erased.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Go to the script editor.
+3. Position the typing cursor at the end of the sixth line.
+4. Grab the cursor at the bottom of the slider.
+5. Pull it all the way down.
+6. Release the slider.
+7. Click on the top of the slider.
 
 ## Observed result
 
