@@ -16,7 +16,7 @@ After changing the red channel, I get (255, 94, 94) color.
 
 ## Expected result
 
-Transparent.
+Transparent, because the alpha channel is zero.
 
 ![expected](https://user-images.githubusercontent.com/91274932/171338642-69d84ffa-937f-4212-a6cf-b86147d879d6.png)
 
