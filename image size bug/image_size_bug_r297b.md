@@ -17,6 +17,8 @@ The size of the images is different every time.
 
 ## Expected result
 
+The size of the images is always the same: 256 * 2 = 512.
+
 ![good](https://user-images.githubusercontent.com/91274932/171341191-157cf30d-416f-43c3-84fb-25f53926bfe2.gif)
 
 ## More details
