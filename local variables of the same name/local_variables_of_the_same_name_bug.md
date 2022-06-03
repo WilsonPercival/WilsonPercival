@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Local variables have the same name.
 
 ## Attach a .c3p
 
