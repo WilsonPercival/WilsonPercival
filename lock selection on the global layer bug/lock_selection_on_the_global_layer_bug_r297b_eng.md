@@ -1,6 +1,6 @@
 ## Problem description
 
-Спрайт на глобальном слое, который был создан на другом макете не блокируется.
+A sprite on a global layer cannot be locked if this layer was created on a different layout.
 
 ## Attach a .c3p
 
@@ -8,9 +8,9 @@
 
 ## Steps to reproduce
 
-1. Откройте проект.
-2. Перейдите на второй макет.
-3. Попробуйте заблокировать спрайт.
+1. Open the project.
+2. Go to Layout 2.
+3. Try "Lock selection" on a sprite.
 
 ## Observed result
 
@@ -18,7 +18,7 @@
 
 ## Expected result
 
-Спрайт блокируется.
+You can lock the sprite.
 
 ## More details
 
