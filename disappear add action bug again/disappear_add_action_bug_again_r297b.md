@@ -10,7 +10,9 @@ I have already reported this bug here https://github.com/Scirra/Construct-3-bugs
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Go to the event editor.
+3. Try moving the action to the third block.
 
 ## Observed result
 
