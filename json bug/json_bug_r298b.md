@@ -1,6 +1,6 @@
 ## Problem description
 
-The text is grey.
+The editor has run out of paint.
 
 ## Attach a .c3p
 
