@@ -10,9 +10,9 @@ I can't set the value in globalThis.
 
 1. Create a new project.
 2. Add Browser.
-3. Start of layout - execute js: "globalThis.lol = 13;".
+3. Start of layout - execute js: `globalThis.lol = 13;`.
 4. Run the project and open the console.
-5. Type "globalThis.lol".
+5. Type `globalThis.lol`.
 6. Return undefined.
 7. Return to the editor and add an empty block of code.
 8. Repeat steps 4 and 5.
