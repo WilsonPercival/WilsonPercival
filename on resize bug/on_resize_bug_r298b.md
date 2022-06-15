@@ -21,7 +21,7 @@ I posted the HTML5 canvas. When changing the full-screen mode, it does not have 
 
 ## More details
 
-If you enable the `Wait for previous action` action, then everything will work.
+If you enable the `Wait for previous actions to complete` action, then everything will work.
 
 **Affected browsers/platforms:** Chrome
 
