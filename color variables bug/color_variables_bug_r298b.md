@@ -1,6 +1,6 @@
 ## Problem description
 
-The "lol" variable in the second line is blue, not green.
+The `lol` variable in the second line is blue, not green.
 
 ## Attach a .c3p
 
