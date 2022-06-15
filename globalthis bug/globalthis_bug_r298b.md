@@ -1,6 +1,6 @@
 ## Problem description
 
-I can't set the value in globalThis.
+I can't set the value in `globalThis`.
 
 ## Attach a .c3p
 
