@@ -10,7 +10,7 @@ A sprite on a global layer cannot be locked if this layer was created on a diffe
 
 1. Open the project.
 2. Go to Layout 2.
-3. Try "Lock selection" on a sprite.
+3. Try `Lock selection` on a sprite.
 
 ## Observed result
 
