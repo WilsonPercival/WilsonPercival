@@ -21,9 +21,11 @@ The UID of the first instance is 2, not 0.
 
 ## More details
 
-Everything was good in classic.
+Everything was good in classic and C2.
 
 ![more](https://user-images.githubusercontent.com/91274932/174086582-43ecdc32-827d-4b7d-8cdf-be2693961ff1.png)
+
+![uid](https://user-images.githubusercontent.com/91274932/174353608-31dbf36a-7f8c-4ff3-af63-f508125a74f9.png)
 
 **Affected browsers/platforms:** Chrome
 
