@@ -8,7 +8,9 @@ The bracket is red.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Go to the script editor.
+3. Position the cursor at the end of the eighth line.
 
 ## Observed result
 
