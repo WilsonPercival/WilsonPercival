@@ -8,8 +8,8 @@ I posted the HTML5 canvas. When changing the full-screen mode, it does not have 
 
 ## Steps to reproduce
 
-Open and run the project.
-Switch to full screen mode and windowed mode.
+1. Open and run the project.
+2. Switch to full screen mode and windowed mode.
 
 ## Observed result
 
