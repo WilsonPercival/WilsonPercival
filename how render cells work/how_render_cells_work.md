@@ -1,16 +1,17 @@
 ## Problem description
 
-https://www.construct.net/en/make-games/manuals/construct-3/project-primitives/layers
-
 The link to the article has been lost.
 
 ## Attach a .c3p
 
-
+https://www.construct.net/en/make-games/manuals/construct-3/project-primitives/layers
 
 ## Steps to reproduce
 
-
+1. Follow the link.
+2. Find the `Layer properties` section.
+3. Find the item `Use render cells`.
+4. Follow the hyperlink indicated in the paragraph.
 
 ## Observed result
 
@@ -20,7 +21,7 @@ https://www.construct.net/en
 
 ## Expected result
 
-I can read the article "How render cells work".
+I can read the article `How render cells work`.
 
 ## More details
 
