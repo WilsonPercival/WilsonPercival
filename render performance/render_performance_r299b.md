@@ -4,23 +4,24 @@
 
 ## Attach a .c3p
 
-
+[render_performance_r299b.zip](https://github.com/WilsonPercival/WilsonPercival/files/8994004/render_performance_r299b.zip)
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Press the `S` key.
 
 ## Observed result
 
-
+![a1](https://user-images.githubusercontent.com/91274932/175989885-e0a40dac-6c65-4a8c-82fd-f9b0bc8c0e57.gif)
 
 ## Expected result
 
-
+![a2](https://user-images.githubusercontent.com/91274932/175989900-67061192-c264-492e-aec0-e3f33325001e.gif)
 
 ## More details
 
-
+You can increase the number of instances to better see the effect.
 
 **Affected browsers/platforms:** Chrome
 
