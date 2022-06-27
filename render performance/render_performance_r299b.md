@@ -23,6 +23,10 @@ I have 300 sprite instances, which are located on a separate layer, where there 
 
 You can increase the number of instances to better see the effect.
 
+It looks good in classic.
+
+![classic](https://user-images.githubusercontent.com/91274932/176008956-386da5f8-6731-40e2-912b-baac8b59b0bd.gif)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r299b
