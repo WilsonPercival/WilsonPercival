@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I have 300 sprite instances, which are located on a separate layer, where there is nothing else besides them. At startup everything is fine, 60 fps. But when I move the pink sprite, which is on another layer, my fps drops a lot.
 
 ## Attach a .c3p
 
