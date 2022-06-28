@@ -1,6 +1,6 @@
 ## Problem description
 
-After I write `CTRL+`` I get one more extra one.
+After I write `` CTRL+` `` I get one more extra one.
 
 ## Attach a .c3p
 
