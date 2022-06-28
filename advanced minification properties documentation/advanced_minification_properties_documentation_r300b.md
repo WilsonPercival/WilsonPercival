@@ -1,6 +1,8 @@
 ## Problem description
 
+I noticed that if the object name starts with a number, then it will not be obfuscated after advanced minification. Then we can use quotes and use advanced minification:
 
+`runtime.objects["0Sprite"]`
 
 ## Attach a .c3p
 
