@@ -16,7 +16,7 @@
 
 ## Expected result
 
-
+https://www.construct.net/en/make-games/manuals/construct-3/scripting/guides/advanced-minification
 
 ## More details
 
