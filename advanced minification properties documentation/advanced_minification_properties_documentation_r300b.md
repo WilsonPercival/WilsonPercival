@@ -8,17 +8,24 @@ I noticed that if the object name starts with a number, then it will not be obfu
 
 project: [advanced_minification_properties_documentation.zip](https://github.com/WilsonPercival/WilsonPercival/files/9005902/advanced_minification_properties_documentation.zip)
 
-export: [New project.zip](https://github.com/WilsonPercival/WilsonPercival/files/9006015/New.project.zip)
+export with advanced minification: [New project.zip](https://github.com/WilsonPercival/WilsonPercival/files/9006015/New.project.zip)
 
 ## Steps to reproduce
 
-
+1. Open the project and export it to the Web (HTML5) with advanced minification or take a ready-made archive with export.
+2. Upload it to the hosting.
+3. Open it.
+4. Open the console.
 
 ## Observed result
 
 ![aaa](https://user-images.githubusercontent.com/91274932/176319791-4a3476f5-d71b-4002-8cd6-85618218bd55.png)
 
+I was able to get an object named `0Sprite`, but not one named `Sprite0`.
+
 ## Expected result
+
+I didn't find any mention of this in the documentation. I think it would be nice to add it there. We don't have a way to use string object names and advanced minification anymore, do we?
 
 https://www.construct.net/en/make-games/manuals/construct-3/scripting/guides/advanced-minification
 
