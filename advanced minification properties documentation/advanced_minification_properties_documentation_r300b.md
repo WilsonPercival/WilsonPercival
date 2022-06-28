@@ -6,7 +6,9 @@ I noticed that if the object name starts with a number, then it will not be obfu
 
 ## Attach a .c3p
 
-[advanced_minification_properties_documentation.zip](https://github.com/WilsonPercival/WilsonPercival/files/9005902/advanced_minification_properties_documentation.zip)
+project: [advanced_minification_properties_documentation.zip](https://github.com/WilsonPercival/WilsonPercival/files/9005902/advanced_minification_properties_documentation.zip)
+
+export: [New project.zip](https://github.com/WilsonPercival/WilsonPercival/files/9006015/New.project.zip)
 
 ## Steps to reproduce
 
@@ -14,7 +16,7 @@ I noticed that if the object name starts with a number, then it will not be obfu
 
 ## Observed result
 
-
+![aaa](https://user-images.githubusercontent.com/91274932/176319791-4a3476f5-d71b-4002-8cd6-85618218bd55.png)
 
 ## Expected result
 
