@@ -8,7 +8,10 @@ After I write `` backtick ` `` I get one more extra one.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Go to the event editor.
+3. Start editing the second script block.
+4. Add a backtick.
 
 ## Observed result
 
