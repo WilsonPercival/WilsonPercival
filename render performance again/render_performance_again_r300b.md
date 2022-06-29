@@ -1,6 +1,10 @@
 ## Problem description
 
+In my bug report you wrote:
 
+`If nothing changes C3 skips rendering, as rendering the same scene again just wastes system resources (and power on battery devices).`
+
+I made the sprite invisible and even turned off the visibility of the layer, but still after moving the sprite I have the same fps drop.
 
 ## Attach a .c3p
 
@@ -21,7 +25,7 @@
 
 ## More details
 
-
+You can increase the number of instances to better see the effect.
 
 **Affected browsers/platforms:** Chrome
 
