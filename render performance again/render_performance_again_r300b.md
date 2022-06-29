@@ -4,6 +4,8 @@ In my bug report you wrote:
 
 `If nothing changes C3 skips rendering, as rendering the same scene again just wastes system resources (and power on battery devices).`
 
+https://github.com/Scirra/Construct-3-bugs/issues/5823
+
 I made the sprite invisible and even turned off the visibility of the layer, but still after moving the sprite I have the same fps drop.
 
 ## Attach a .c3p
