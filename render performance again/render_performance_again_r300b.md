@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Press the S key.
 
 ## Observed result
 
