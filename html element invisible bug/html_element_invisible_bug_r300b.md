@@ -20,7 +20,7 @@
 
 ## More details
 
-
+One of my friends has it working fine.
 
 **Affected browsers/platforms:** Chrome
 
