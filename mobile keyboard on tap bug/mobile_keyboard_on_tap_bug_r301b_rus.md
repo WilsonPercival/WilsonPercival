@@ -19,7 +19,7 @@
 
 ## Expected result
 
-
+Если мы кликаем по месту, где нет спрайта - условие `On tap object` не срабатывает.
 
 ## More details
 
