@@ -27,7 +27,7 @@
 
 Когда я тапаю по чёрной области - экранная клавиатура не исчезает.
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Chrome (Android)
 
 **First affected release:** broke in r301b
 
