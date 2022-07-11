@@ -4,18 +4,20 @@
 
 ## Attach a .c3p
 
-[mobile_keyboard_on_tap_bug_r301b.zip](https://github.com/WilsonPercival/WilsonPercival/files/9081068/mobile_keyboard_on_tap_bug_r301b.zip)
+[mobile_keyboard_on_tap_bug_r301b.zip](https://github.com/WilsonPercival/WilsonPercival/files/9082339/mobile_keyboard_on_tap_bug_r301b.zip)
 
 ## Steps to reproduce
 
 1. Откройте и запустите проект через удалённый предпросмотр.
 2. Нажмите на поле для ввода.
 3. Дождитесь появления экранной клавиатуры.
-4. Нажмите на область в красной рамке.
+4. Нажмите на область в красной рамке (любую).
 
 ## Observed result
 
-![bug](https://user-images.githubusercontent.com/91274932/178193607-364fefe6-3cad-4004-82c0-96347294a1f4.png)
+![photo_2022-07-11_10-50-56 (2)](https://user-images.githubusercontent.com/91274932/178225628-fdd9656e-e03a-4405-8f69-ceabe4ee95d9.jpg)
+
+![photo_2022-07-11_10-50-56](https://user-images.githubusercontent.com/91274932/178225635-855b5424-5aa6-45c3-aca5-0300f68fb7ae.jpg)
 
 ## Expected result
 
@@ -23,7 +25,7 @@
 
 ## More details
 
-Когда я тапаю по области вокруг рамки - экранная клавиатура не исчезает.
+Когда я тапаю по чёрной области - экранная клавиатура не исчезает.
 
 **Affected browsers/platforms:** Chrome
 
