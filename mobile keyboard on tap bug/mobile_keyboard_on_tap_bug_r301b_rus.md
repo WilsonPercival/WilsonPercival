@@ -15,9 +15,9 @@
 
 ## Observed result
 
-![photo_2022-07-11_10-50-56 (2)](https://user-images.githubusercontent.com/91274932/178225628-fdd9656e-e03a-4405-8f69-ceabe4ee95d9.jpg)
-
 ![photo_2022-07-11_10-50-56](https://user-images.githubusercontent.com/91274932/178225635-855b5424-5aa6-45c3-aca5-0300f68fb7ae.jpg)
+
+![photo_2022-07-11_10-50-56 (2)](https://user-images.githubusercontent.com/91274932/178225628-fdd9656e-e03a-4405-8f69-ceabe4ee95d9.jpg)
 
 ## Expected result
 
