@@ -8,7 +8,14 @@ After removing the text and manipulating `Redo` and `Undo`, it turns out that I 
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Go to the event editor.
+3. Add a text object.
+4. Remove it.
+5. Add an effect to it.
+6. Go to the layout editor.
+7. Press the `Undo` button 3 times.
+8. Click the `Redo` button.
 
 ## Observed result
 
