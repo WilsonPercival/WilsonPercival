@@ -1,6 +1,6 @@
 ## Problem description
 
-
+After removing the text and manipulating `Redo` and `Undo`, it turns out that I have text with an effect that I did not impose.
 
 ## Attach a .c3p
 
