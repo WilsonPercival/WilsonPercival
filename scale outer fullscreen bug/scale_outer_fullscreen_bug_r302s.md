@@ -18,9 +18,21 @@ https://github.com/Scirra/Construct-3-bugs/issues/5790
 
 ## Observed result
 
+Window:
+
+![a1](https://user-images.githubusercontent.com/91274932/179337549-6224a82c-2c1c-465d-b311-ca58c7fdc669.png)
+
+Fullscreen:
+
 ![a2](https://user-images.githubusercontent.com/91274932/179337500-577bd824-d70e-441f-8ae1-6fa09f10a9c5.png)
 
 ## Expected result
+
+Window:
+
+![a1](https://user-images.githubusercontent.com/91274932/179337549-6224a82c-2c1c-465d-b311-ca58c7fdc669.png)
+
+Fullscreen:
 
 ![a3](https://user-images.githubusercontent.com/91274932/179337503-aaf70110-6835-40c2-b3ac-45270c744d8a.png)
 
