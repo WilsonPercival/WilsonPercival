@@ -38,7 +38,7 @@ Fullscreen:
 
 ## More details
 
-
+720x1280, Scale outer.
 
 **Affected browsers/platforms:** Chrome
 
