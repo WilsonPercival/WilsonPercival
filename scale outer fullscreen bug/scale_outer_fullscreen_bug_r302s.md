@@ -6,7 +6,7 @@ https://github.com/Scirra/Construct-3-bugs/issues/5884
 
 https://github.com/Scirra/Construct-3-bugs/issues/5790
 
-
+When I switch from windowed to fullscreen, part of the image is cut off. If I reload the page while in full screen mode, the page will display normally after the refresh.
 
 ## Attach a .c3p
 
