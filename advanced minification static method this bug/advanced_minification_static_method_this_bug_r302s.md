@@ -10,11 +10,11 @@ Export Web (HTML5) with advanced minification: [New project.zip](https://github.
 
 ## Steps to reproduce
 
-Open a project.
-Export to Web (HTML5) with advanced minification, or use the ready-made exported project that I have attached.
-Upload it to the hosting.
-Open the game.
-Open the console.
+1. Open a project.
+2. Export to Web (HTML5) with advanced minification, or use the ready-made exported project that I have attached.
+3. Upload it to the hosting.
+4. Open the game.
+5. Open the console.
 
 ## Observed result
 
