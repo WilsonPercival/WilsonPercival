@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-
+[advanced_minification_static_method_this_bug_r302s.zip](https://github.com/WilsonPercival/WilsonPercival/files/9145914/advanced_minification_static_method_this_bug_r302s.zip)
 
 ## Steps to reproduce
 
