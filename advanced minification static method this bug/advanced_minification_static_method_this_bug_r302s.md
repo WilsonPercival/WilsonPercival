@@ -18,7 +18,7 @@ Export Web (HTML5) with advanced minification: [New project.zip](https://github.
 
 ## Observed result
 
-![bug](https://user-images.githubusercontent.com/91274932/179881750-d5fba5bd-9709-4dc4-b125-0bd783efa376.png)
+![bug](https://user-images.githubusercontent.com/91274932/179916659-89186b16-a039-49ac-88bb-76a7d486a34a.png)
 
 ## Expected result
 
