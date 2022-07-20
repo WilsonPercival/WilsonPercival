@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I can't get `this` from a static method if I export with advanced minification.
 
 ## Attach a .c3p
 
@@ -10,7 +10,11 @@ Export Web (HTML5) with advanced minification: [New project.zip](https://github.
 
 ## Steps to reproduce
 
-
+Open a project.
+Export to Web (HTML5) with advanced minification, or use the ready-made exported project that I have attached.
+Upload it to the hosting.
+Open the game.
+Open the console.
 
 ## Observed result
 
