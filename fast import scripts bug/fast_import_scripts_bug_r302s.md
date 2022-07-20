@@ -1,6 +1,6 @@
 ## Problem description
 
-Construct crashes when importing scripts like Flash :zap:
+Construct crashes when importing scripts at Flash :zap:
 
 ## Attach a .c3p
 
