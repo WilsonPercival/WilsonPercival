@@ -24,7 +24,17 @@ Construct does not crash.
 
 ## More details
 
+The scripts were on a separate hard drive, which was connected via USB, which in theory slows down the reading of files.
 
+In preparation for reproducing this bug, after copying the script files into the final folder named "bug" with which I was going to import the scripts, I copied the left file to clear the file copy buffer in case it somehow affects (but I don't sure of it).
+
+I managed to repeat the bug itself from 10 times.
+
+After I dragged the scripts, I immediately pressed the "Enter" button so that the script import window did not have time to display the size of the scripts.
+
+If you can't reproduce - try to increase the size of the scripts and put them on a storage device with slow file reading.
+
+When I accidentally stumbled upon this bug for the first time - there were only 2 of my scripts, and they were small and I imported them much more slowly.
 
 **Affected browsers/platforms:** Chrome
 
