@@ -1,10 +1,12 @@
 ## Problem description
 
-Construct crashes when importing scripts as Flash :zap:
+Construct crashes when importing scripts like Flash :zap:
 
 ## Attach a .c3p
 
 Save project before crash: [fast_import_scripts_bug_r302s.zip](https://github.com/WilsonPercival/WilsonPercival/files/9146269/fast_import_scripts_bug_r302s.zip)
+
+Folder with my scripts: https://www.dropbox.com/sh/j5s4d0g0urho5r9/AABwQF6IDBSStxohISTqDXwKa?dl=1
 
 ## Steps to reproduce
 
