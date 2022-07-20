@@ -12,7 +12,7 @@ Folder with my scripts: https://www.dropbox.com/sh/j5s4d0g0urho5r9/AABwQF6IDBSSt
 
 1. Create a new project.
 2. Click Import scripts in the PROJECT panel.
-3. Drag the scripts to the `Drag and drop files here` field and quickly press the `Enter` key.
+3. Drag the scripts to the `Drag and drop files here and quickly press the Enter key.` field.
 
 ## Observed result
 
