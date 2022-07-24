@@ -1,6 +1,10 @@
 ## Problem description
 
+After opening the project, I get an error. I am using scripts. I know that this message appears if I make a mistake in the code, for example, by importing modules incorrectly. But I very rarely encounter it, at the next launch, without changing anything in the code. It is displayed erroneously once every 100 launches.
 
+Now I gave a link to a remote preview to my friend, who had this error. Knowing that it was happening by mistake, I suggested that he simply reload the page, while I did not touch C3. After refreshing the page, there was no error as expected.
+
+I understand that I didn't provide steps to reproduce, and you can close the issue with the `can't reproduce` tag. I just want you to know that this problem exists.
 
 ## Attach a .c3p
 
