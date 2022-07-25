@@ -1,20 +1,25 @@
 ## Problem description
 
-
+After copying the data from notepad and opening the cell, I get two blank lines instead of one.
 
 ## Attach a .c3p
 
 [array_editor_new_line_bug_r304b.zip](https://github.com/WilsonPercival/WilsonPercival/files/9181560/array_editor_new_line_bug_r304b.zip)
 
-[Лист Microsoft Office Excel.xlsx](https://github.com/WilsonPercival/WilsonPercival/files/9181563/Microsoft.Office.Excel.xlsx)
-
 ## Steps to reproduce
 
+1. Create a new project.
+2. Create Array.json.
+3. Open a notepad and write in it
+`123
 
+456`
+4. Copy the contents of the notepad and paste into an array cell.
+5. Open an array cell.
 
 ## Observed result
 
-![bug](https://user-images.githubusercontent.com/91274932/180788602-82b9402b-c16a-4afb-9753-c3dd76d143c3.gif)
+![bug](https://user-images.githubusercontent.com/91274932/180797320-3415c46e-b8ec-4abe-a0d5-b6feddf046a5.gif)
 
 ## Expected result
 
