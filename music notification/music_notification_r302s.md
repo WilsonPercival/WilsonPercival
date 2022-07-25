@@ -10,7 +10,6 @@ Export Web (HTML5): [New project.zip](https://github.com/WilsonPercival/WilsonPe
 
 https://music-notification.netlify.app/
 
-
 ## Steps to reproduce
 
 1. Open a project.
@@ -23,7 +22,7 @@ https://music-notification.netlify.app/
 
 ## Expected result
 
-![photo_2022-07-25_11-50-53](https://user-images.githubusercontent.com/91274932/180740669-0c24a74b-3fbe-4aac-acc3-9bae103b6d1d.jpg)
+![photo_2022-07-25_12-05-41](https://user-images.githubusercontent.com/91274932/180741398-cacdc46e-eda0-42e9-85c4-2ec832f43361.jpg)
 
 ## More details
 
