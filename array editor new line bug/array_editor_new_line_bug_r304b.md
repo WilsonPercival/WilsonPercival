@@ -11,9 +11,11 @@ After copying the data from notepad and opening the cell, I get two blank lines 
 1. Create a new project.
 2. Create Array.json.
 3. Open a notepad and write in it
-`123
+```
+123
 
-456`
+456
+```
 4. Copy the contents of the notepad and paste into an array cell.
 5. Open an array cell.
 
