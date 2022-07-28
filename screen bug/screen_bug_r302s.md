@@ -24,6 +24,8 @@ https://www.dropbox.com/s/gncz7ot0su0ukd2/screen_bug.mp4?dl=0
 
 ## More details
 
+My friend has the same problem.
+
 Layout size 2x2
 
 Unbounded scrolling: true
