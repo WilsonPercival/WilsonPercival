@@ -25,7 +25,9 @@ https://www.dropbox.com/s/gncz7ot0su0ukd2/screen_bug.mp4?dl=0
 ## More details
 
 Layout size 2x2
+
 Unbounded scrolling: true
+
 Viewport size: 1280x720
 
 **Affected browsers/platforms:** Chrome
