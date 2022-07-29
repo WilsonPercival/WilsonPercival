@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I run the game on a mobile device with 120 fps, the car's spring effect disappears. At 60 fps everything works fine.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open the project on a device that plays the game at 120 frames per second.
+2. Launch the game.
+3. Hold down on the gas.
 
 ## Observed result
 
@@ -18,11 +20,9 @@ https://user-images.githubusercontent.com/91274932/181711267-5d3aa05c-3eaa-4467-
 120 fps:
 https://user-images.githubusercontent.com/91274932/181711311-4807d3d9-70b8-4340-a38d-1dc30438fc88.mp4
 
-
-
 ## Expected result
 
-
+At 120 fps everything should work the same as at 60 fps.
 
 ## More details
 
