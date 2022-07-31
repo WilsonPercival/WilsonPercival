@@ -21,8 +21,11 @@ https://www.construct.net/en/make-games/manuals/construct-3/interface/main-menu
 Items in the article:
 
 Cloud save
+
 Save as single file...
+
 Save as project folder...
+
 Download a copy
 
 ## More details
