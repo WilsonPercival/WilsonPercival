@@ -26,12 +26,12 @@ https://www.construct.net/en/make-games/manuals/construct-3/interface/main-menu
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r304b
+**First affected release:** broke in 2022
 
 ## System details
 
 <details><summary>View details</summary>
 
-
+![inscryption](https://user-images.githubusercontent.com/91274932/175827374-34cc405b-90fe-4e6e-90e0-482114318fea.gif)
 
 </details>
