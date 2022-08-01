@@ -17,11 +17,25 @@ The `Wait for previous actions` action on certain triggers waits for the next ti
 
 ![bug](https://user-images.githubusercontent.com/91274932/182207515-b18ddb1e-5c6f-4b19-a271-72b116d8a327.gif)
 
-The `Wait for previous actions` action works the same for all triggers.
+The `Wait for previous actions` action waits for the next tick in these cases:
+
+`On animation finished`
+`Every X seconds`
+`On Tween finished`
+`On Timer`
+`On typewriter text finished`
+`On collision`
+
+The `Wait for previous actions` action does not wait for the next tick in these cases:
+
+`On created`
+`On key pressed`
+`On ajax completed`
+`On destroyed`
 
 ## Expected result
 
-
+The `Wait for previous actions` action works the same for all triggers.
 
 ## More details
 
