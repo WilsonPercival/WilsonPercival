@@ -28,7 +28,7 @@ When I paste two cells from the clipboard into the array editor, the third one i
 
 
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Firefox
 
 **First affected release:** broke in r304b
 
