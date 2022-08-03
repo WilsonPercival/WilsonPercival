@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I type in the `Array editor` non-breaking spaces appear.
 
 ## Attach a .c3p
 
@@ -10,7 +10,14 @@ Word document: [hello hello hello hello hello hello hello hello hello hello hell
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add `Array` in `Files` folder.
+3. Go to the array editor.
+4. Write `hello `.
+5. Copy the content.
+6. Insert at the beginning of the line 10 times.
+7. Copy the content.
+8. Paste into Word.
 
 ## Observed result
 
@@ -18,9 +25,11 @@ Word document: [hello hello hello hello hello hello hello hello hello hello hell
 
 ## Expected result
 
-
+Non-breaking spaces do not appear.
 
 ## More details
+
+https://en.wikipedia.org/wiki/Non-breaking_space
 
 I checked it works well in mozilla.
 
