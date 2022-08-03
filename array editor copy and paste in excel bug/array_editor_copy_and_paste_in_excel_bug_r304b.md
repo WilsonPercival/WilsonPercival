@@ -33,6 +33,8 @@ The insertion occurs correctly: each cell into its own cell.
 
 ## More details
 
+I also noticed wrong pasting if I add 1 to a new row in the top right cell:
+
 ![bug](https://user-images.githubusercontent.com/91274932/182700289-23910962-265c-4485-8875-43b7a75937a7.gif)
 
 [array_editor_copy_and_paste_in_excel_bug_2_r304b.zip](https://github.com/WilsonPercival/WilsonPercival/files/9254679/array_editor_copy_and_paste_in_excel_bug_2_r304b.zip)
