@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I copy 4 cells from the array editor in Excel, the paste doesn't work correctly.
 
 ## Attach a .c3p
 
@@ -20,7 +20,7 @@
 
 ## Expected result
 
-
+The insertion occurs correctly: each cell into its own cell.
 
 ## More details
 
