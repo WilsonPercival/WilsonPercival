@@ -12,7 +12,16 @@ When I copy 4 cells from the array editor in Excel, the paste doesn't work corre
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create an `Array` in the `Files` folder.
+3. Resize the array to 2x2x1.
+4. Fill the array appropriately:
+```
+3 Say "Hello"
+6 2
+```
+5. Copy all cells.
+6. Paste the contents of the clipboard into Excel.
 
 ## Observed result
 
