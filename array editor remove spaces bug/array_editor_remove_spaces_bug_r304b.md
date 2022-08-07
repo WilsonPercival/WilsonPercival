@@ -24,7 +24,7 @@ When I paste text from notepad into the array editor and open the cell, there is
 
 ## Expected result
 
-
+![expected](https://user-images.githubusercontent.com/91274932/183309965-b8367244-d70d-4e4b-9475-dcf931e0aff2.png)
 
 ## More details
 
