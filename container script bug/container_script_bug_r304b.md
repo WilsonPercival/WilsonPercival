@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I can't access the instance in the container if I create the first instance in the script block. But I can access the instance in the container if I create the first instance through actions.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Run the project and open the console.
+3. Press 1 or 3.
 
 ## Observed result
 
@@ -20,7 +22,7 @@
 
 ## Expected result
 
-
+I can access the instance in the container in all three cases.
 
 ## More details
 
