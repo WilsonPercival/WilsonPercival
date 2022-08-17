@@ -24,7 +24,7 @@ If I press very fast `F11` and click the mouse - the image will move to the righ
 
 Everything works fine in chrome.
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Mozilla
 
 **First affected release:** broke in r306b
 
