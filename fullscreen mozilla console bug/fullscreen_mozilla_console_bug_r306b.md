@@ -18,7 +18,7 @@ If I press very fast `F11` and click the mouse - the image will move to the righ
 
 ## Expected result
 
-
+![expected](https://user-images.githubusercontent.com/91274932/185234578-3110bcfb-f4b8-4ccd-b238-44bd77e888c6.gif)
 
 ## More details
 
