@@ -1,6 +1,6 @@
 ## Problem description
 
-Something unhealthy is happening with `Tiled Background` even though I specified Sampling: Nearest
+Something unhealthy is happening with `Tiled Background` even though I specified Sampling: Nearest.
 
 ## Attach a .c3p
 
