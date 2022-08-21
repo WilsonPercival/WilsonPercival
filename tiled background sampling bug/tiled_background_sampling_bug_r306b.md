@@ -8,7 +8,7 @@ Something unhealthy is happening with `Tiled Background` even though I specified
 
 ## Steps to reproduce
 
-
+1. Open a project.
 
 ## Observed result
 
