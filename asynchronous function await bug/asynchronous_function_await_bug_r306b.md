@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
