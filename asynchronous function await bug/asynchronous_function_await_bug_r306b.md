@@ -22,7 +22,11 @@
 
 ## More details
 
+It works well if I use events:
+
 ![more1](https://user-images.githubusercontent.com/91274932/186036998-9cfc5b65-2912-481d-a457-0d3441e832de.png)
+
+It works well if I put `Wait for previous actions` in the `Load` function:
 
 ![more2](https://user-images.githubusercontent.com/91274932/186037005-884c4669-13d7-4bfb-8670-382c32c11815.png)
 
