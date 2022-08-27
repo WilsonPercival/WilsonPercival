@@ -1,6 +1,6 @@
 ## Problem description
 
-
+If you start loading an image onto a sprite, but delete it immediately, an error will appear in the console.
 
 ## Attach a .c3p
 
@@ -8,21 +8,31 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Open the console.
+3. Press 1 or 2 or 3 or 4.
 
 ## Observed result
 
+Key 1 (before I added any script to the project):
+
 ![observed1](https://user-images.githubusercontent.com/91274932/187018195-8a5b8619-9f95-44d7-b855-a4e0536797d2.png)
+
+Key 2:
 
 ![observed2](https://user-images.githubusercontent.com/91274932/187018200-b845b245-5327-4264-95f5-b282d21c5e97.png)
 
+Key 3:
+
 ![observed3](https://user-images.githubusercontent.com/91274932/187018205-173a0d28-53bc-41c0-bdf8-fa03dbb7b545.png)
+
+Key 4 (In my other project every other time either error and warn or only warn.):
 
 ![observed4](https://user-images.githubusercontent.com/91274932/187018207-3ad7facc-ee71-4029-96c2-787f8bf62ac8.png)
 
 ## Expected result
 
-
+There will be no errors.
 
 ## More details
 
