@@ -26,7 +26,7 @@ Key 3:
 
 ![observed3](https://user-images.githubusercontent.com/91274932/187018205-173a0d28-53bc-41c0-bdf8-fa03dbb7b545.png)
 
-Key 4 (In my other project every other time either error and warn or only warn.):
+Key 4 (in my other project every other time either error and warn or only warn.):
 
 ![observed4](https://user-images.githubusercontent.com/91274932/187018207-3ad7facc-ee71-4029-96c2-787f8bf62ac8.png)
 
