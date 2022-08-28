@@ -1,6 +1,6 @@
 ## Problem description
 
-
+The `instancecreate` listener does not work.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Open the console.
 
 ## Observed result
 
