@@ -1,6 +1,6 @@
 ## Problem description
 
-
+In `On created` I get inconsistent values: the number of selected sprites is 1, but the usual number of sprites and the number of objects on the layout are 0.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Open the console.
 
 ## Observed result
 
@@ -16,7 +17,7 @@
 
 ## Expected result
 
-
+All 3 values are the same.
 
 ## More details
 
