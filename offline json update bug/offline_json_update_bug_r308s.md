@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I upload the first version of the game to the server with the `offline.json` file. Then I upload the second version of the game to the server, but without the `offline.json` file. Further, no matter how much I update the page, the game will not be updated. You need to clear the cache.
 
 ## Attach a .c3p
 
@@ -14,7 +14,12 @@ Export project 2 (without `offline.json`.): [project_2.zip](https://github.com/W
 
 ## Steps to reproduce
 
-
+1. Open the first project and export to Web (HTML5) or use the first archive with the exported project.
+2. Upload it to the server, for example, https://app.netlify.com/drop.
+3. Open the game. It must be stored in the cache.
+4. Open the second project and export to Web (HTML5) or use the second archive with the exported project.
+5. Upload it to the server.
+6. Open the game.
 
 ## Observed result
 
