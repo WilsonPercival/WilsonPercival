@@ -37,7 +37,7 @@ After I uploaded the second export to the server (which is without `offline.json
 
 ## More details
 
-
+https://www.construct.net/en/tutorials/offline-games-construct-8
 
 **Affected browsers/platforms:** Chrome
 
