@@ -25,15 +25,15 @@ Export project 2 (without `offline.json and sw.js`.): [project_2.zip](https://gi
 
 After I uploaded the first export to the server:
 
-![a1](https://user-images.githubusercontent.com/91274932/188254102-d281977a-5c30-45c4-91eb-bbd71459e789.png)
+![a1](https://user-images.githubusercontent.com/91274932/188256194-09c81089-cf7a-445d-8da0-19366a6b207d.png)
 
 After I uploaded the second export to the server (which is without `offline.json and sw.js`). It can be seen that in the console `warn 404 offline.json`:
 
-![a2](https://user-images.githubusercontent.com/91274932/188254130-102cc7fb-832f-42f9-8784-cbfee50611bf.png)
+![a2](https://user-images.githubusercontent.com/91274932/188256198-01ae20f9-4763-4227-8e71-81918bf7136e.png)
 
 ## Expected result
 
-![expected](https://user-images.githubusercontent.com/91274932/188254173-ea56a7a4-065e-4e78-978b-001d8479f102.png)
+![expected](https://user-images.githubusercontent.com/91274932/188256201-136f5dd3-4769-4a70-86ef-d0c210d0565b.png)
 
 ## More details
 
