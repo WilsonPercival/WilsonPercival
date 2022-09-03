@@ -1,6 +1,6 @@
 ## Problem description
 
-I upload the first version of the game to the server with the `offline.json` file. Then I upload the second version of the game to the server, but without the `offline.json` file. Further, no matter how much I update the page, the game will not be updated. You need to clear the cache.
+I upload the first version of the game to the server with the `offline.json and sw.js` files. Then I upload the second version of the game to the server, but without the `offline.json and sw.js` files. Further, no matter how much I update the page, the game will not be updated. You need to clear the cache.
 
 ## Attach a .c3p
 
@@ -10,7 +10,7 @@ I just added a tomato sprite: [c3p_project_2.zip](https://github.com/WilsonPerci
 
 Export project 1: [project_1.zip](https://github.com/WilsonPercival/WilsonPercival/files/9481725/project_1.zip)
 
-Export project 2 (without `offline.json`.): [project_2.zip](https://github.com/WilsonPercival/WilsonPercival/files/9481728/project_2.zip)
+Export project 2 (without `offline.json and sw.js`.): [project_2.zip](https://github.com/WilsonPercival/WilsonPercival/files/9481804/project_2.zip)
 
 ## Steps to reproduce
 
@@ -27,7 +27,7 @@ After I uploaded the first export to the server:
 
 ![a1](https://user-images.githubusercontent.com/91274932/188254102-d281977a-5c30-45c4-91eb-bbd71459e789.png)
 
-After I uploaded the second export to the server (which is without `offline.json`). It can be seen that in the console `warn 404 offline.json`:
+After I uploaded the second export to the server (which is without `offline.json and sw.js`). It can be seen that in the console `warn 404 offline.json`:
 
 ![a2](https://user-images.githubusercontent.com/91274932/188254130-102cc7fb-832f-42f9-8784-cbfee50611bf.png)
 
