@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I start the game, the mouse coordinates do not correspond to the position on the screen before the first movement.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the source, do not move the mouse.
 
 ## Observed result
 
@@ -16,7 +16,7 @@
 
 ## Expected result
 
-
+The mouse coordinates must be the same as when the game was launched.
 
 ## More details
 
