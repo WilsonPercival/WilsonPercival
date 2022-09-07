@@ -8,7 +8,20 @@ Construct crashes when I press `Undo` and `Redo` back and forth. To catch this c
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add `9-patch`.
+3. Draw a squiggle (alternative color).
+4. Close the image editor.
+5. Open the image editor.
+6. Repeat steps 3, 4 and 5 3 times.
+7. Cancel everything by pressing the Undo button.
+8. Redo everything by pressing the Redo button.
+9. Repeat steps 7 and 8 4 times.
+10. Start randomly clicking either Undo or Redo.
+11. Miss when clicking and accidentally hit the `Save project` button.
+12. Close the save project window.
+13. Repeat steps 7 and 8.
+14. Repeat step 7.
 
 ## Observed result
 
