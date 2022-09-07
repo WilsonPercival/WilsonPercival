@@ -24,7 +24,7 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r308s
+**First affected release:** broke in r309b
 
 ## System details
 
