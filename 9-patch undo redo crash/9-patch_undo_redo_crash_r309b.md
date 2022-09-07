@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes when I press `Undo` and `Redo` back and forth. To catch this crash you have to be like a predator patiently stalking its prey :feet:
 
 ## Attach a .c3p
 
