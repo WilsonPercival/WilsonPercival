@@ -1,6 +1,6 @@
 ## Problem description
 
-
+The documentation says that the `Platform Info` object condition `Is on mobile` should always return `true` if the device is `Android`. But I have an android tablet and does not return the truth.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run a project on Galaxy Tab A7.
 
 ## Observed result
 
@@ -20,7 +20,7 @@
 
 ## More details
 
-
+https://www.construct.net/en/make-games/manuals/construct-3/plugin-reference/platform-info
 
 **Affected browsers/platforms:** Chrome
 
