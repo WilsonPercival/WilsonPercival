@@ -22,6 +22,8 @@ The documentation says that the `Platform Info` object condition `Is on mobile` 
 
 https://www.construct.net/en/make-games/manuals/construct-3/plugin-reference/platform-info
 
+![aaa](https://user-images.githubusercontent.com/91274932/189335622-af4278e2-971a-4291-8f8a-306661dd9929.png)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r308s
