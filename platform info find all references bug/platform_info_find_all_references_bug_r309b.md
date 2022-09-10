@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When looking for all references to the `Platform info` object, it finds a `Load images` action, although I'm not sure if `Platform info` has anything to load.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Click `Find all references` on the `Platform info` object.
 
 ## Observed result
 
