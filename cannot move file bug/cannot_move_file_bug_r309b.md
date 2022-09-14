@@ -9,7 +9,7 @@ I can't move `webm` files to `Sounds` or `Music` folder from `Files` folder.
 ## Steps to reproduce
 
 1. Create a new project.
-2. Add the `baba.webm` file to the `Files folder.
+2. Add the `baba.webm` file to the `Files` folder.
 3. Move it to the `Sounds` or `Music` folder.
 
 ## Observed result
