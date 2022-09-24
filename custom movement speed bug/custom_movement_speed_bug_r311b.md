@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When a sprite with the `Custom Movement` behavior hits a sprite with the `Solid` behavior, its speed is preserved, although the sprite does not actually move.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
