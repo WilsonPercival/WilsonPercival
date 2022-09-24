@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When a sprite with the `Tile movement` behavior reaches the end of the cell, the `is moving` condition does not stop. But if I change direction, then for one tick the `is moving` condition will be false.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. When the sprite reaches the middle of the screen, press 1.
 
 ## Observed result
 
@@ -16,7 +17,7 @@
 
 ## Expected result
 
-
+The "moving" condition always works, even if I change direction. Either does not work when the sprite ends its movement without changing direction.
 
 ## More details
 
