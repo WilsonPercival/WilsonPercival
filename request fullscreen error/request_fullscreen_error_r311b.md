@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I'm in mobile view and I press the mouse buttons in a specific order, a bunch of errors are generated in the console.
 
 ## Attach a .c3p
 
@@ -21,7 +21,7 @@
 
 ## Expected result
 
-
+The console does not generate errors.
 
 ## More details
 
