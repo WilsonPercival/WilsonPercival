@@ -8,7 +8,10 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Open the console.
+3. Click on the `Toggle device toolbar` button.
+4. Follow the pattern of clicking the mouse buttons - you need to click quickly and rhythmically. I demonstrated it in the gif below.
 
 ![pattern](https://user-images.githubusercontent.com/91274932/192154440-88a57925-826e-4aab-8088-79a81be64be5.gif)
 
