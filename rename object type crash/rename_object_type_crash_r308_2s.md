@@ -11,7 +11,7 @@ Save open project after crash: https://www.dropbox.com/s/36728hgfmvl6pgh/save_op
 ## Steps to reproduce
 
 1. Open a project.
-2. Start making object clones. Tilt approximately 40-50 copies.
+2. Start making object clones. Tilt approximately 40-50 copies. I needed to make 38 copies.
 3. Rename one of the objects.
 
 ## Observed result
