@@ -1,6 +1,6 @@
 ## Problem description
 
-I reinstalled Windows 7, it had an older version of Google Chrome preinstalled. When I logged into it, it automatically updated to the latest version. Next, I tried to open Construct and couldn't. I tried opening Construct in incognito mode and it works great there. I tried clearing the cache, but that didn't help. And what cache if I reinstalled Windows?
+I reinstalled Windows 7, it had an older version of Google Chrome preinstalled. When I logged into it, it automatically updated to the latest version. Next, I tried to open Construct and couldn't. I tried opening Construct in incognito mode and it works great there. I tried clearing the cache, but that didn't help. And what cache if I reinstalled Windows? In mozilla everything works fine.
 
 ## Attach a .c3p
 
