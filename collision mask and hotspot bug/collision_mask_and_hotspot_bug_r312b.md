@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I paste the image into the image editor, the collision mask and hotspot do not set the correct position.
 
 ## Attach a .c3p
 
@@ -8,7 +8,11 @@
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a new sprite.
+3. Paste an image from the clipboard.
+4. Turn on the collision mask.
+5. Turn on hotspot.
 
 ## Observed result
 
