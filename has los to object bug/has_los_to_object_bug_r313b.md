@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I throw a beam at an obstacle. I set the position of the point to the coordinates of the collision of the ray with the obstacle. The `has los to object` condition does not work if the obstacle is rotated.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Move the green sprite up and down.
 
 ## Observed result
 
