@@ -21,7 +21,7 @@ I can create a new project.
 
 ## More details
 
-
+I also wanted to ask if it makes sense to report crashes if I can't reproduce them? I will only have information about the error and the saved project after the crash.
 
 **Affected browsers/platforms:** Chrome
 
