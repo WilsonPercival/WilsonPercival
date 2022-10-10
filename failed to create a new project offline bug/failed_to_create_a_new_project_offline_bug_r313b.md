@@ -1,14 +1,15 @@
 ## Problem description
 
-
+My electricity was turned off. The Internet is gone because I'm using a wi-fi router. I went into Construct but I can't create a new project.
 
 ## Attach a .c3p
 
-
+There is not.
 
 ## Steps to reproduce
 
-
+1. Open Construct r313b.
+2. Create a new project.
 
 ## Observed result
 
@@ -16,7 +17,7 @@
 
 ## Expected result
 
-
+I can create a new project.
 
 ## More details
 
