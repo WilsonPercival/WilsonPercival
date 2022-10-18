@@ -2,7 +2,7 @@
 
 https://www.construct.net/en/make-games/manuals/construct-3/interface/layout-view
 
-![observed](https://user-images.githubusercontent.com/91274932/196384567-83ee3124-8432-4156-a286-c30dc7a1929d.gif)
+It says here that when importing a gif, only the first frame will be imported. But in fact, the GIF is completely imported.
 
 ## Attach a .c3p
 
@@ -10,15 +10,18 @@ https://www.construct.net/en/make-games/manuals/construct-3/interface/layout-vie
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Drag the GIF to the layout.
 
 ## Observed result
 
 ![observed](https://user-images.githubusercontent.com/91274932/196384585-727f83bc-ad93-4a7f-9e1d-6a1d7b673520.png)
 
+![observed](https://user-images.githubusercontent.com/91274932/196384567-83ee3124-8432-4156-a286-c30dc7a1929d.gif)
+
 ## Expected result
 
-
+Most likely this message should not be.
 
 ## More details
 
