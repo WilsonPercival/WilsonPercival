@@ -18,6 +18,7 @@ The private static method is blue and the `static` keyword is red.
 ## Expected result
 
 `static` white
+
 `#private` red
 
 ## More details
