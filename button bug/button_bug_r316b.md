@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Sometimes, when starting the game, the button is shown in the upper right corner of the screen for a split second.
 
 ## Attach a .c3p
 
@@ -8,15 +8,17 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
+
+https://www.dropbox.com/s/ufzqyomo1iz15mf/observed.mp4?dl=0
 
 ![observed](https://user-images.githubusercontent.com/91274932/198833883-3b38644e-ed73-4592-bc04-29fbb4cb4759.png)
 
 ## Expected result
 
-
+The button is immediately displayed in the right place.
 
 ## More details
 
