@@ -1,23 +1,23 @@
 ## Problem description
 
-I can't export to Web (HTML5) when I don't have internet. I waited about an hour. With internet enabled, the export takes about 17 minutes.
+I can't export to Web (HTML5) with simple minification when I don't have internet. I waited about an hour. With internet enabled, the export takes about 17 minutes.
 
 ## Attach a .c3p
 
-There is not.
+[New project.zip](https://github.com/WilsonPercival/WilsonPercival/files/9931258/New.project.zip)
 
 ## Steps to reproduce
 
 1. Create a new project.
-2. Export to Web (HTML5).
+2. Export to Web (HTML5) with simple minification.
 
 ## Observed result
 
-
+![observed](https://user-images.githubusercontent.com/91274932/199780853-8828b846-7cc7-4215-ab0a-8428256a1552.png)
 
 ## Expected result
 
-
+![expected](https://user-images.githubusercontent.com/91274932/199780874-c45269ee-6cf7-4bfa-909d-5258e5a332d6.png)
 
 ## More details
 
