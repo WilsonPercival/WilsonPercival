@@ -8,7 +8,13 @@ I am working in Construct and getting a crash.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a global variable.
+3. Create 25 `System evaluate: Variable1` events.
+4. Click search.
+5. Enter a variable name.
+6. Double click on the first found value and delete it.
+7. Repeat the previous paragraph.
 
 ## Observed result
 
