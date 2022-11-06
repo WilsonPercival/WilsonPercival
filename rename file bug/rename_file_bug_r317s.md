@@ -1,6 +1,6 @@
 ## Problem description
 
-I can't have two files with the same name in two different folders.
+I can't have two files with the same name in two different folders. In the update you did it, now the folder structure is preserved. I think it is logical that now I should be able to have two files with the same name, but in different folders, because their paths will be different.
 
 ## Attach a .c3p
 
