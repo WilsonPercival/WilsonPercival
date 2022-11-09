@@ -4,19 +4,19 @@ The variable jumps over conditions and actions with its participation like a fro
 
 ## Attach a .c3p
 
-[local_variable_bug_r318b.zip](https://github.com/WilsonPercival/WilsonPercival/files/9975856/local_variable_bug_r318b.zip)
+[local_variable_frog_bug_r318b.zip](https://github.com/WilsonPercival/WilsonPercival/files/9975939/local_variable_frog_bug_r318b.zip)
 
 ## Steps to reproduce
 
 1. Create a project.
 2. Create a function.
-3. Add two local variables `lol` and `a`.
-4. Add a condition to the `Evaluate` function.
-5. Drag the `lol` variable so that it is after the `a` variable.
+3. Add two local variables `frog` and `water_lily`.
+4. Add a condition to the Evaluate function.
+5. Drag the `frog` variable so that it is after the `water_lily` variable.
 
 ## Observed result
 
-https://user-images.githubusercontent.com/91274932/200963421-a37c592d-0d8d-4b5c-9a31-715aaa0c1825.mp4
+https://user-images.githubusercontent.com/91274932/200965275-ffbc358c-e3b5-4df0-afd2-66027529279e.mp4
 
 ## Expected result
 
