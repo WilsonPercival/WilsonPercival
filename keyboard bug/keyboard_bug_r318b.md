@@ -1,6 +1,6 @@
 ## Problem description
 
-
+If I press a button and then a key on the keyboard, the keyboard key event will not fire.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Press the button.
+3. Press the `S` button.
 
 ## Observed result
 
