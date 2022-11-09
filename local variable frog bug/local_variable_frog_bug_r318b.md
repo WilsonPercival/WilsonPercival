@@ -1,6 +1,7 @@
 ## Problem description
 
 Variable jumps like a frog :frog:
+
 The variable jumps over conditions and actions with its participation.
 
 ## Attach a .c3p
