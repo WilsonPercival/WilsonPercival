@@ -8,15 +8,19 @@ The variable jumps over conditions and actions with its participation like a fro
 
 ## Steps to reproduce
 
-
+1. Create a project.
+2. Create a function.
+3. Add two local variables `lol` and `a`.
+4. Add a condition to the `Evaluate` function.
+5. Drag the `lol` variable so that it is after the `a` variable.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/200963421-a37c592d-0d8d-4b5c-9a31-715aaa0c1825.mp4
 
 ## Expected result
 
-
+The variable moves down the list of local variables.
 
 ## More details
 
