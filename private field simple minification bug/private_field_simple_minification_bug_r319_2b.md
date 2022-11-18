@@ -1,6 +1,12 @@
 ## Problem description
 
+I can't export project with simple minification.
 
+Here is an excerpt from the documentation:
+
+https://www.construct.net/en/make-games/manuals/construct-3/scripting/guides/advanced-minification
+
+`Simple mode eliminates whitespace and does simple adjustments like renaming local variables to shorter names. This does not affect how any of the code is run so is always safe to use.`
 
 ## Attach a .c3p
 
@@ -8,7 +14,8 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Export it to Web (HTML5) with simple minification.
 
 ## Observed result
 
