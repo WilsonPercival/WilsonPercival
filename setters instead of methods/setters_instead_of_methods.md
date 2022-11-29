@@ -2,7 +2,9 @@
 
 Why setters instead of methods? After all, I am constantly mistaken, for example, writing
 
-`runtime.layout.scrolX = 13;`
+```javascript
+runtime.layout.scrolX = 13;
+```
 
 instead of
 
