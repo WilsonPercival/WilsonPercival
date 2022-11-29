@@ -18,6 +18,14 @@ If there was a method instead of a setter, I would see an error in the console:
 
 You've already done well by adding the `scrollTo(x, y)` method, but what about the rest? `instance.width` instead of `instance.setWidth()`, `text.fontFace` instead of `text.setFontFace()`. Please tell me how can I get rid of the waste of time when on writing the wrong setter name I'm just looking for where I went wrong?
 
+I have already reported a similar case
+
+https://github.com/Scirra/Construct-3-bugs/issues/5702
+
+This saves a lot of time, thanks a lot for this.
+
+I noticed that a wonderful thing was introduced into JS - private fields. Now, if I suddenly make a mistake in the name of the field, they will inform me about it immediately, before the game starts, and this is wonderful.
+
 ## Attach a .c3p
 
 There is not.
