@@ -1,6 +1,6 @@
 ## Problem description
 
-
+After deleting an object, it is still in the event list.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Remove the last object from the project.
 
 ## Observed result
 
