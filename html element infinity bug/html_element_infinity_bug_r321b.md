@@ -1,6 +1,8 @@
 ## Problem description
 
+When I set the X position of `HTMLElement` to `Infinity`, it doesn't disappear. The normal sprite disappears.
 
+If I set it to 10000 instead of `Infinity` everything works as expected.
 
 ## Attach a .c3p
 
@@ -8,7 +10,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
