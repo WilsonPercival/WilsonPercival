@@ -1,22 +1,25 @@
 ## Problem description
 
-
+The page with the game does not reload.
 
 ## Attach a .c3p
 
-
+There is not.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Launch it.
+3. Return to Construct and click `Add event`.
+4. Return to the page with the game and restart it.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/208133705-8f10ec50-8311-4c75-b5e9-3570ec2ace3d.mp4
 
 ## Expected result
 
-
+Preview works fine.
 
 ## More details
 
