@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Writes that the value will never be read, although it is not. I am reading it in a function.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
 
 ## Observed result
 
@@ -16,7 +16,7 @@
 
 ## Expected result
 
-
+The variable is not highlighted in yellow.
 
 ## More details
 
