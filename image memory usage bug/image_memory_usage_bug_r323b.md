@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I have a sprite with multiple frames and a second one which is a clone of the first sprite. When I run the preview, I see that it is using twice as much memory as it should. Why is there no deletion of duplicate images after launch? You after all made a tick after export. Why didn't you do it for the preview?
 
 ## Attach a .c3p
 
@@ -8,7 +8,13 @@
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Add some frames.
+4. Make a clone of the sprite.
+5. Create text.
+6. Make it show memory usage.
+7. Run the project.
 
 ## Observed result
 
