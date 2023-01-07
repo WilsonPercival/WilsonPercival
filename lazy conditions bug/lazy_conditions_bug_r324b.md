@@ -1,6 +1,16 @@
 ## Problem description
 
+I have an `OR` block with two conditions. The first is true and the second is also true. But when the first is true, then the second shouldn't be checked, because it doesn't make sense:
 
+![broken](https://user-images.githubusercontent.com/91274932/211173393-ac03eb86-d2a9-4b51-8200-c900ad6764ec.png)
+
+This works well when I have an `AND` block with two conditions. The first is false, the second is true. But when the first is false, the second is not checked. It works well:
+
+![fine](https://user-images.githubusercontent.com/91274932/211173418-0c45e9c6-7b9f-4f76-8f8d-e0aafbf765e6.png)
+
+It also works well in scripts:
+
+![ideally](https://user-images.githubusercontent.com/91274932/211173421-69212f9c-3dbe-4a55-89d5-5c3485e137d8.png)
 
 ## Attach a .c3p
 
@@ -8,7 +18,8 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Open the console.
 
 ## Observed result
 
