@@ -24,7 +24,7 @@
 
 **Affected browsers/platforms:** Mozilla
 
-**First affected release:** broke in r324b
+**First affected release:** broke in r325b
 
 ## System details
 
