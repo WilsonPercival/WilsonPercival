@@ -8,7 +8,7 @@ I have two archives with animation. `work.zip` imports fine. And `no_work.zip` d
 
 https://user-images.githubusercontent.com/91274932/212240797-1530df33-2913-468f-9e71-afba266a3ed4.mp4
 
-I also noticed that in `r317-2s` the `no_work.zip` archive is imported, but the frame sort order is broken:
+I also noticed that in `r317-2s` the `no_work.zip` archive is imported, but the frame sort order is broken if I use `numerical` or `no-sort`:
 
 https://user-images.githubusercontent.com/91274932/212240812-53a3baaf-2a81-4ab9-8862-44886ad115cb.mp4
 
