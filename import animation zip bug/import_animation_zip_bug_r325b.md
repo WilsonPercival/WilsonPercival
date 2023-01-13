@@ -34,7 +34,7 @@ Animation is imported.
 
 https://www.construct.net/en/make-games/manuals/construct-3/interface/animations-editor
 
-**Affected browsers/platforms:** Mozilla
+**Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r325b
 
