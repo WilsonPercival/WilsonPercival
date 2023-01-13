@@ -22,11 +22,11 @@ There is not.
 
 ## Observed result
 
-
+Animation is not imported.
 
 ## Expected result
 
-
+Animation is imported.
 
 ## More details
 
