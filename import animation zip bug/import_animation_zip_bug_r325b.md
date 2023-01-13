@@ -18,7 +18,9 @@ There is not.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Drag `no_work.zip` to the animation panel.
 
 ## Observed result
 
