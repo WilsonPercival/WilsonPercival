@@ -25,6 +25,8 @@ The console is error-free and the game does not freeze.
 
 The bug will not occur if the size of the original sprite image is not 2x2.
 
+https://github.com/Scirra/Construct-3-bugs/issues/6040
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r325b
