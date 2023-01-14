@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-
+[wait_this_is_bug_load_image_r325b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10416503/wait_this_is_bug_load_image_r325b.zip)
 
 ## Steps to reproduce
 
