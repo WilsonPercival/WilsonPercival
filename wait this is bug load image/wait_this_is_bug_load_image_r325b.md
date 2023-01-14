@@ -8,7 +8,10 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. IMPORTANT: run the project with `Layout 2`, otherwise the bug will not occur.
+3. Open the console.
+4. Quickly press 1, 2, 1, 2...
 
 ## Observed result
 
