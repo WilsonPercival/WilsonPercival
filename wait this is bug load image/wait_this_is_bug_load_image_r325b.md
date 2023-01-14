@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/91274932/212449973-781ed325-1d57-4eba-
 
 ## More details
 
-
+The bug will not occur if the size of the original sprite image is not 2x2.
 
 **Affected browsers/platforms:** Chrome
 
