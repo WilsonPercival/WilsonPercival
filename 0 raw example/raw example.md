@@ -22,7 +22,7 @@
 
 
 
-**Affected browsers/platforms:** Mozilla
+**Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r325b
 
