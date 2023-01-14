@@ -1,6 +1,6 @@
 ## Problem description
 
-
+There is an error in the console, and the game freezes.
 
 ## Attach a .c3p
 
@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/91274932/212449973-781ed325-1d57-4eba-
 
 ## Expected result
 
-
+The console is error-free and the game does not freeze.
 
 ## More details
 
