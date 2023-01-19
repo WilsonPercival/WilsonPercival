@@ -1,6 +1,10 @@
 ## Problem description
 
+I caught a bug that only reproduces if the power is turned off abruptly. I have a Wi-Fi router and a laptop that catches this network. The router is plugged into an outlet. The electricity goes out in the whole house. After that, the project does not load.
 
+I tried to repeat the error by disconnecting from the Wi-Fi network. The project is still working well. I tried pressing a button on the keyboard that disables the network connection driver (I don't understand this) and the project still works well. The project does not work only if my electricity is cut off abruptly.
+
+This is not the only error that I have caught during a sudden power outage. But since I couldn't reproduce them when I had electricity - I didn't report them.
 
 ## Attach a .c3p
 
@@ -8,7 +12,11 @@
 
 ## Steps to reproduce
 
-
+1. Turn off the electricity to which the router is connected.
+2. Create a new project.
+3. Add `TiledBackground`.
+4. Run the project.
+5. Open the console.
 
 ## Observed result
 
@@ -16,7 +24,7 @@
 
 ## Expected result
 
-
+The project is loading.
 
 ## More details
 
