@@ -1,6 +1,10 @@
 ## Problem description
 
+If the font file name contains `[` or `.` then fonts will not be loaded in Mozilla. But this bug only happens once. If you reload the page, then after loading the game, the fonts will be loaded. If you close and open Mozilla again, the bug can be repeated again.
 
+I also tested this bug on version r317-2s and after changing the font size in the game, it changed to the correct one.
+
+Everything works fine in chrome.
 
 ## Attach a .c3p
 
@@ -8,21 +12,26 @@
 
 ## Steps to reproduce
 
-
+1. Close the mozilla.
+2. Open mozilla.
+3. Open the project.
+4. Run the project and open the console.
 
 ## Observed result
+
+As we can see, the `bla.ck` and `bo[ld` fonts did not load. The console also reports this.
 
 ![ob](https://user-images.githubusercontent.com/91274932/213911518-f127b3a8-55f1-4cb2-92c5-676250a03ad4.png)
 
 ## Expected result
 
-
+All fonts should load.
 
 ## More details
 
 
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Mozilla
 
 **First affected release:** broke in r326b
 
