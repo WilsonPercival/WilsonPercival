@@ -44,7 +44,7 @@ This bug does not reproduce if:
 
 ## More details
 
-
+![original - копия](https://user-images.githubusercontent.com/91274932/214489325-1df8d6b1-935f-4244-85d2-dd180d9d8ae4.png)
 
 **Affected browsers/platforms:** Chrome
 
