@@ -1,6 +1,8 @@
 ## Problem description
 
+I have already reported this bug: https://github.com/Scirra/Construct-3-bugs/issues/6392
 
+In version r327s, I still can't import this archive. I also asked my friends who have Windows 10 and Windows 11 to do this and they also did not succeed. Please try again.
 
 [alt.zip](https://github.com/WilsonPercival/WilsonPercival/files/10496985/alt.zip)
 
