@@ -2,21 +2,27 @@
 
 
 
+[alt.zip](https://github.com/WilsonPercival/WilsonPercival/files/10496985/alt.zip)
+
 ## Attach a .c3p
 
-
+There is not.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a new sprite.
+3. Move the animation archive to the animation panel.
 
 ## Observed result
+
+Animation is not imported.
 
 
 
 ## Expected result
 
-
+Animation is imported.
 
 ## More details
 
