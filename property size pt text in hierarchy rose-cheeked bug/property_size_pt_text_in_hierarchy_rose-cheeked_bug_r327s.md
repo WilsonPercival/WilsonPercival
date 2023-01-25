@@ -15,12 +15,15 @@ What the project does:
 This bug does not reproduce if:
 
 1. Remove `Sprite1`:
+
 ![a1](https://user-images.githubusercontent.com/91274932/214484375-29459ce0-47ff-4249-8aa6-3874b1f85acf.png)
 
 2. First change the width of `sprite2` and then add `sprite2` hierarchy to `sprite1`:
+
 ![a2](https://user-images.githubusercontent.com/91274932/214484572-189fe467-2546-4cfa-b4d6-10c767eef3c2.png)
 
 3. Don't add `text1` through the hierarchy to `sprite2`. I demonstrated this by creating the same text side by side and not adding it to the hierarchy:
+
 ![a3](https://user-images.githubusercontent.com/91274932/214484761-5cc155e0-0385-4abc-8d3c-5e640ad83d59.png)
 
 ## Attach a .c3p
