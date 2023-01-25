@@ -1,10 +1,10 @@
 ## Problem description
 
-
+![description1](https://user-images.githubusercontent.com/91274932/214483914-2ebbc50d-4031-4699-ad64-e2ef3fa98e51.png)
 
 ## Attach a .c3p
 
-
+[property_size_pt_text_in_hierarchy_rose-cheeked_bug_r327s.zip](https://github.com/WilsonPercival/WilsonPercival/files/10496318/property_size_pt_text_in_hierarchy_rose-cheeked_bug_r327s.zip)
 
 ## Steps to reproduce
 
@@ -12,11 +12,11 @@
 
 ## Observed result
 
-
+![observed](https://user-images.githubusercontent.com/91274932/214483896-b0c159c2-75b0-4aaf-bf0d-397e9786bf24.png)
 
 ## Expected result
 
-
+![expected](https://user-images.githubusercontent.com/91274932/214483906-45d6ed30-020f-4ded-8751-058e52c136a6.png)
 
 ## More details
 
