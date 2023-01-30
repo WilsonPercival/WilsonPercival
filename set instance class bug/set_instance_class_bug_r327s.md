@@ -18,7 +18,7 @@ After I overridden the class and setter of changing the width - when changing th
 
 ## Expected result
 
-![expected](https://user-images.githubusercontent.com/91274932/215441192-6857d9ed-b309-43df-a390-d291e5b0cb1c.png)
+![expected](https://user-images.githubusercontent.com/91274932/215442058-14b7f355-ce97-47ec-99a9-de7cd7713a0a.png)
 
 ## More details
 
