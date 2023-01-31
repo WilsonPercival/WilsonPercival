@@ -1,26 +1,62 @@
 ## Problem description
 
-
+When I copy an image in the image editor it crashes.
 
 ## Attach a .c3p
 
-
+Save open project: [New project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10547384/New.project.zip)
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Select the entire image.
+4. Press `CTRL+C`.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/215790315-9946a6e0-74e7-41b8-8c6c-afd160ee01f2.mp4
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
+Error report information
 
+Type: unhandled rejection
+Reason: Error: DOMString not supported for 'image/png' as image data.
+Construct version: r328
+URL: https://editor.construct.net/r328/
+Date: Tue Jan 31 2023 16:32:11 GMT+0200 (Восточная Европа, стандартное время)
+Uptime: 27.2 s
+Platform information
+
+Product: Construct 3 r328 (beta)
+Browser: Firefox 109.0
+Browser engine: Gecko
+Context: browser
+Operating system: Windows 7
+Device type: desktop
+Device pixel ratio: 1
+Logical CPU cores: 2
+Approx. device memory: (unavailable)
+User agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Language setting: en-US
+WebGL information
+
+Version string: WebGL 2.0
+Numeric version: 2
+Supports NPOT textures: yes
+Supports GPU profiling: no
+Supports highp precision: yes
+Vendor: Google Inc. (Intel)
+Renderer: ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)
+Major performance caveat: no
+Maximum texture size: 16384
+Point size range: 1 to 1024
+Extensions: EXT_color_buffer_float, EXT_float_blend, EXT_texture_compression_bptc, EXT_texture_compression_rgtc, EXT_texture_filter_anisotropic, OES_draw_buffers_indexed, OES_texture_float_linear, OVR_multiview2, WEBGL_compressed_texture_s3tc, WEBGL_compressed_texture_s3tc_srgb, WEBGL_debug_renderer_info, WEBGL_debug_shaders, WEBGL_lose_context
 
 **Affected browsers/platforms:** Mozilla
 
