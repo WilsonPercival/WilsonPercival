@@ -24,7 +24,7 @@
 
 **Affected browsers/platforms:** Mozilla
 
-**First affected release:** broke in r327s
+**First affected release:** broke in r328b
 
 ## System details
 
@@ -33,7 +33,7 @@
 
 Platform information
 
-Product: Construct 3 r327 (stable)
+Product: Construct 3 r328 (beta)
 Browser: Firefox 109.0
 Browser engine: Gecko
 Context: browser
@@ -47,7 +47,7 @@ Language setting: en-US
 Local storage
 
 Storage quota (approx): 9.8 gb
-Storage usage (approx): 10 mb (0.1%)
+Storage usage (approx): 75 mb (0.7%)
 Persistant storage: No
 Browser support notes
 
