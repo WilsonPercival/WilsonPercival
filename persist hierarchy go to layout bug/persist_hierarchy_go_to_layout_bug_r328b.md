@@ -1,6 +1,6 @@
 ## Problem description
 
-
+After switching layouts, if the parent has the `Persist` behavior, the hierarchy detaches the parent and child.
 
 ## Attach a .c3p
 
@@ -8,15 +8,15 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
-
+The hierarchy is detached and the parent spins without the child.
 
 ## Expected result
 
-
+The parent rotates with the child.
 
 ## More details
 
