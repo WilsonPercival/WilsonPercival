@@ -1,6 +1,6 @@
 ## Problem description
 
-
+The canvas won't paste if I wait a second after running the layout. Everything works fine if I remove the first wait action.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
