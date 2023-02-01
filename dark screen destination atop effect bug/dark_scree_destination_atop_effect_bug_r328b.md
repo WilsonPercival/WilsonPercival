@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When adding a blend mode `Destination-atop` and adding an `Overlay` effect, C3 is buggy. A black screen is displayed when a sprite with blend mode is on the screen. Also, canceling the addition does not remove the black screen.
 
 ## Attach a .c3p
 
@@ -8,7 +8,13 @@
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a new layer.
+3. On layer 1, create a Sprite.
+4. Change Sprite blend mode to `Destination-atop`.
+5. Switch to layer 0.
+6. On layer 0 create Sprite2.
+7. Add a new `Overlay` effect to Sprite2.
 
 ## Observed result
 
@@ -16,7 +22,7 @@ https://user-images.githubusercontent.com/91274932/216026609-28dd9f5e-2b9e-4ade-
 
 ## Expected result
 
-
+The black screen does not appear.
 
 ## More details
 
