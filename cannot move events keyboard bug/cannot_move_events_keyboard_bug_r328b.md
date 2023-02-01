@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I already reported a similar bug https://github.com/Scirra/Construct-3-bugs/issues/5433
 
 ## Attach a .c3p
 
@@ -8,7 +8,17 @@
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Add a keyboard.
+4. Add a private variable to the sprite.
+5. Create a new event - on button click.
+6. Create a new condition - if the instance variable is equal to the empty string.
+7. Put the button click event as a sub-event under the instance variable.
+8. Create a new function.
+9. Duplicate the first two events.
+10. Remove the keypress sub-event.
+11. Move the instance variable event below the function.
 
 ## Observed result
 
@@ -16,7 +26,7 @@ https://user-images.githubusercontent.com/91274932/216043982-75a9653c-d82a-4e46-
 
 ## Expected result
 
-
+I can move events.
 
 ## More details
 
