@@ -1,6 +1,6 @@
 ## Problem description
 
-The sliders on the `Timeline bar` will not scroll.
+The sliders on the `Timeline bar` will not scroll. They only work if I resize the panel.
 
 ## Attach a .c3p
 
