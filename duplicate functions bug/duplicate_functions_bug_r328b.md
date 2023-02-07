@@ -14,7 +14,7 @@
 
 ## Observed result
 
-https://user-images.githubusercontent.com/91274932/217189217-275a4782-c2a8-4ca9-8093-35486981e065.mp4
+https://user-images.githubusercontent.com/91274932/217189602-01700929-8e27-46c7-835c-13ac3baaaa92.mp4
 
 ## Expected result
 
