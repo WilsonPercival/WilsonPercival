@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Functions are duplicated and terrible things happen in general.
 
 ## Attach a .c3p
 
@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/217189602-01700929-8e27-46c7-
 
 ## Expected result
 
-
+Functions are not duplicated and everything works as it should.
 
 ## More details
 
