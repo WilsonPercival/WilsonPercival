@@ -1,26 +1,30 @@
 ## Problem description
 
-
+There is an error in the console. The bug doesn't always happen.
+If there are no errors in the console, restart the preview.
+It seems I have already seen it here https://github.com/Scirra/Construct-3-bugs/issues/6393
 
 ## Attach a .c3p
 
-
+[texture_released_too_many_times_bug_r329b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10678194/texture_released_too_many_times_bug_r329b.zip)
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Run `Layout 1`.
+3. Open the console.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/217331171-777897c2-123c-43b6-9b39-281487f7160b.mp4
 
 ## Expected result
 
-
+Everything works well.
 
 ## More details
 
-
+If you can't reproduce - add more frames and increase loop length.
 
 **Affected browsers/platforms:** Mozilla
 
