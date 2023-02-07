@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes if I navigate to an action that has been removed.
 
 ## Attach a .c3p
 
@@ -11,11 +11,11 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 ## Steps to reproduce
 
 1. Open a project.
-2. Remove the function call.
+2. Remove `Function1.
 3. Click `Undo`.
-4. Click `Redo`
-5. Open the search window.
-6. Press `Undo` and quickly right-click on the function call in the search box.
+4. Open the search window.
+5. Type in the `Function1.
+6. Press `Redo` and quickly right-click on the function call in the search box.
 7. Click `Go to`.
 
 ## Observed result
@@ -59,7 +59,7 @@ Extensions: EXT_color_buffer_float, EXT_color_buffer_half_float, EXT_float_blend
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
