@@ -1,7 +1,9 @@
 ## Problem description
 
 There is an error in the console. The bug doesn't always happen.
+
 If there are no errors in the console, restart the preview.
+
 It seems I have already seen it here https://github.com/Scirra/Construct-3-bugs/issues/6393
 
 ## Attach a .c3p
