@@ -10,7 +10,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Remove the function call.
+3. Click `Undo`.
+4. Click `Redo`
+5. Open the search window.
+6. Press `Undo` and quickly right-click on the function call in the search box.
+7. Click `Go to`.
 
 ## Observed result
 
