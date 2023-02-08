@@ -4,6 +4,8 @@ If you cut a function with parameters, then after inserting it, the actions with
 
 If the function has no parameters, it works well.
 
+It also seems strange to me that the function call is `Function1` instead of `Function3`.
+
 ## Attach a .c3p
 
 [paste_function_with_params_bug_r329b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10687787/paste_function_with_params_bug_r329b.zip)
