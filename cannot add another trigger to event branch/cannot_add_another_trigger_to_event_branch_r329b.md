@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -16,7 +16,7 @@
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
