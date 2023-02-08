@@ -10,7 +10,10 @@ If the function has no parameters, it works well.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Cut out `Function1`.
+3. Create a new function `Function1`.
+4. Paste the content.
 
 ## Observed result
 
