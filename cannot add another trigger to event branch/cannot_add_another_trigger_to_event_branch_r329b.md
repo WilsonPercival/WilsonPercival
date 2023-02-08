@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-
+[cannot_add_another_trigger_to_event_branch_crash_r329b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10688320/cannot_add_another_trigger_to_event_branch_crash_r329b.zip)
 
 ## Steps to reproduce
 
@@ -20,7 +20,41 @@
 
 ## More details
 
+Error report information
 
+Type: unhandled rejection
+Reason: Error: cannot add another trigger to event branch @ FB@https://editor.construct.net/r329/projectResources.js:1422:279 Bk/<@https://editor.construct.net/r329/components/editors/eventSheetView/eventSheetView.js:105:45
+Stack: FB@https://editor.construct.net/r329/projectResources.js:1422:279 Bk/<@https://editor.construct.net/r329/components/editors/eventSheetView/eventSheetView.js:105:45
+Construct version: r329
+URL: https://editor.construct.net/r329/
+Date: Wed Feb 08 2023 15:08:20 GMT+0200 (Восточная Европа, стандартное время)
+Uptime: 258.1 s
+Platform information
+
+Product: Construct 3 r329 (beta)
+Browser: Firefox 109.0
+Browser engine: Gecko
+Context: browser
+Operating system: Windows 7
+Device type: desktop
+Device pixel ratio: 1
+Logical CPU cores: 2
+Approx. device memory: (unavailable)
+User agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Language setting: en-US
+WebGL information
+
+Version string: WebGL 2.0
+Numeric version: 2
+Supports NPOT textures: yes
+Supports GPU profiling: no
+Supports highp precision: yes
+Vendor: Google Inc. (Intel)
+Renderer: ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0)
+Major performance caveat: no
+Maximum texture size: 16384
+Point size range: 1 to 1024
+Extensions: EXT_color_buffer_float, EXT_float_blend, EXT_texture_compression_bptc, EXT_texture_compression_rgtc, EXT_texture_filter_anisotropic, OES_draw_buffers_indexed, OES_texture_float_linear, OVR_multiview2, WEBGL_compressed_texture_s3tc, WEBGL_compressed_texture_s3tc_srgb, WEBGL_debug_renderer_info, WEBGL_debug_shaders, WEBGL_lose_context
 
 **Affected browsers/platforms:** Mozilla
 
