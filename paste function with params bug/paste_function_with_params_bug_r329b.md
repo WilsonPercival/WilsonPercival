@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-
+[paste_function_with_params_bug_r329b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10687787/paste_function_with_params_bug_r329b.zip)
 
 ## Steps to reproduce
 
@@ -12,11 +12,11 @@
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/217593538-95905d6c-3130-4579-b444-1908495c50c3.mp4
 
 ## Expected result
 
-
+https://user-images.githubusercontent.com/91274932/217593469-9ea5cacc-a961-4dc7-8cd4-1bf4fd049e74.mp4
 
 ## More details
 
