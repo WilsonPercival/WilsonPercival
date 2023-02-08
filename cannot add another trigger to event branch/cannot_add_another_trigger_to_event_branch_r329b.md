@@ -8,7 +8,11 @@ Construct crashes.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Cut out the function.
+3. Replace `Every tick` with `On start of layout`.
+4. Insert a function.
+5. Change the tag in the first condition to an empty string and press Enter.
 
 ## Observed result
 
