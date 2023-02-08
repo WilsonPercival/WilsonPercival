@@ -1,6 +1,8 @@
 ## Problem description
 
+If you cut a function with parameters, then after inserting it, the actions with its call will disappear.
 
+If the function has no parameters, it works well.
 
 ## Attach a .c3p
 
