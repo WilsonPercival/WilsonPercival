@@ -1,6 +1,8 @@
 ## Problem description
 
+If I remove the function, then the entire block is removed, not just the condition.
 
+The bug will not occur if there is an empty sub-event block below the block.
 
 ## Attach a .c3p
 
@@ -8,7 +10,8 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Remove function.
 
 ## Observed result
 
