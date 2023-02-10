@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -10,15 +10,18 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Cut out the function.
+3. Insert a function.
+4. Repeat steps 2 and 3 very quickly.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/218222906-c2f1e049-56df-43c2-bd79-04a966ab5e93.mp4
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
