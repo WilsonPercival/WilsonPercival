@@ -4,7 +4,9 @@
 
 ## Attach a .c3p
 
+[cannot_select_detached_view_crash_r329b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10711999/cannot_select_detached_view_crash_r329b.zip)
 
+save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10712000/save_open_project.zip)
 
 ## Steps to reproduce
 
