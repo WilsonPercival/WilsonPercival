@@ -1,14 +1,17 @@
 ## Problem description
 
-
+After I bind the event sheet to the layout - I will see it in the undo stack. But after clicking, nothing happens - the sheet, as it was attached to the layout, remains attached.
 
 ## Attach a .c3p
 
-
+No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a new layout without an event sheet.
+3. Link `Event sheet 1` to the created layout.
+4. Click `Undo`.
 
 ## Observed result
 
@@ -16,7 +19,7 @@ https://user-images.githubusercontent.com/91274932/218270187-cd56c874-ad58-45ca-
 
 ## Expected result
 
-
+Construct crashes.
 
 ## More details
 
