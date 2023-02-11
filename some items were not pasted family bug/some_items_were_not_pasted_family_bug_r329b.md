@@ -8,7 +8,14 @@ No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Add a sprite to the family.
+4. Cut out the family.
+5. Insert a family.
+6. Insert family 3 times.
+7. Copy the family.
+8. Insert a family.
 
 ## Observed result
 
