@@ -27,6 +27,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 https://user-images.githubusercontent.com/91274932/218280305-b4680682-7724-4220-93e9-1d1c06e586cd.mp4
 
+I also happened to accidentally repeat it another time in a different way:
+
+https://user-images.githubusercontent.com/91274932/218281029-61885b5c-cd96-4aaa-a12f-a92b9cb626fc.mp4
+
 ## Expected result
 
 Construct does not crash.
