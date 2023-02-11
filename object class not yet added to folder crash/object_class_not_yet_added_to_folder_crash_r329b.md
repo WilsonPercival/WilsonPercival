@@ -10,7 +10,18 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Add him to the family.
+4. Cut out the family.
+5. Insert a family.
+6. Click on the folder with families.
+7. Insert a family.
+8. Insert again.
+9. Click on a family.
+10. Insert a family.
+11. Press the `Undo` button until you reach the top of the stack.
+12. Press the `Redo` button until you reach the end of the stack.
 
 ## Observed result
 
