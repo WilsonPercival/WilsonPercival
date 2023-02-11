@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Move the files from the archive to the layout editor.
 
 ## Observed result
 
@@ -16,7 +17,7 @@ https://user-images.githubusercontent.com/91274932/218225687-aa7666dd-fb4f-4f91-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
