@@ -1,14 +1,19 @@
 ## Problem description
 
-
+I can't draw.
 
 ## Attach a .c3p
 
-
+No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Run the animation preview.
+4. Close the animation editor.
+5. Create TiledBackground.
+6. Try to draw in it.
 
 ## Observed result
 
@@ -16,7 +21,7 @@ https://user-images.githubusercontent.com/91274932/218229018-ad59e86e-626d-462b-
 
 ## Expected result
 
-
+I can draw.
 
 ## More details
 
