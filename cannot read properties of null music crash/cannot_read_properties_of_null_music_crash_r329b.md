@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -10,15 +10,17 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Copy the `Music` folder.
+3. Paste in the `Music` folder and immediately press Ctrl + Z.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/218273926-04a4da02-71ff-4743-b94e-287f6ee496dc.mp4
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
