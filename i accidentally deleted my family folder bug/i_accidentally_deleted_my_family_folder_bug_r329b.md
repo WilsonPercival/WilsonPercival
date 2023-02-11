@@ -8,7 +8,12 @@ Saved Project: [New project.zip](https://github.com/WilsonPercival/WilsonPerciva
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Add him to the family.
+4. Click the cut family button.
+5. Without waiting for an answer, press the cut family button again.
+6. When the confirmation window pops up, click Delete.
 
 ## Observed result
 
