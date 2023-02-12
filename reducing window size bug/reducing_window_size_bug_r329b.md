@@ -8,7 +8,12 @@ No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Look at the dimensions of the animation editor window.
+4. Crash Construct.
+5. Reload the page.
+6. Repeat steps 1, 2, 3, 4 and 5.
 
 ## Observed result
 
