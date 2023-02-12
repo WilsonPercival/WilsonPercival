@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I want to cut a sprite from a family, for some reason Construct prompts me to remove this object from the project.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Select `Sprite` in `Family1`.
+3. Press Ctrl + X.
 
 ## Observed result
 
@@ -16,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/218307117-7132bf66-48d0-4e40-
 
 ## Expected result
 
-
+The sprite will be cut out of the family and remain in the project.
 
 ## More details
 
