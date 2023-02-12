@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,18 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. On `Layout 1`: Create two layers.
+3. On `Layout 1`: specify that `Layer 2` will be global.
+4. Create a layout `Layout 2`.
+5. On `Layout 2`: create two layers.
+6. On `Layout 1`: Delete `Layer 2`.
+7. On `Layout 2`: specify that `Layer 2` will be global.
+8. On `Layout 1`: create two layers.
+9. On `Layout 1`: specify that `Layer 3` will be global.
+10. On `Layout 1`: place `Layer 2` under `Layer 3`.
+11. On `Layout 2`: create a new layer at the bottom.
+12. On `Layout 2`: move `Layer 3` under `Layer 2`.
 
 ## Observed result
 
@@ -16,7 +27,7 @@ https://user-images.githubusercontent.com/91274932/218316126-ab7841d1-2c28-4b5d-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
