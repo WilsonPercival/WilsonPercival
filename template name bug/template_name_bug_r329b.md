@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Some kind of white die, it seems unhealthy to me.
 
 ## Attach a .c3p
 
