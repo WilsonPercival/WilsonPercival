@@ -1,6 +1,6 @@
 ## Problem description
 
-
+The behavior has been duplicated. And in the conditions you can see the condition of the behavior of the family and the instance together.
 
 ## Attach a .c3p
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/91274932/218308369-777ab3bc-db13-48f0-
 
 ## Expected result
 
-
+Behavior cannot be duplicated.
 
 ## More details
 
