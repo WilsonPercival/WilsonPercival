@@ -8,7 +8,10 @@ The behavior has been duplicated. And in the conditions you can see the conditio
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Cut out the `Sprite`.
+3. Add the `Tween` behavior to the family.
+4. Insert the object into the project.
 
 ## Observed result
 
