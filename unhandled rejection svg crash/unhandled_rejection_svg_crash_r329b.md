@@ -8,7 +8,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add an SVGPicture.
+3. Add an SVG file.
+4. Specify that the SVGPicture will use the SVG file.
+5. Click `Undo`.
+6. Click `Redo`.
+7. Quickly repeat steps 5 and 6 about 10 times and then let C3 take a breath.
 
 ## Observed result
 
