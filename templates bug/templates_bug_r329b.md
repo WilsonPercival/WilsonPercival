@@ -8,7 +8,11 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Cut out the template.
+3. Insert a template.
+4. Change the blend mode to `Copy`.
+5. Make the instance a template and name it 123.
 
 ## Observed result
 
