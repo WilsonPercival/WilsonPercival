@@ -8,7 +8,9 @@ Some kind of white die, it seems unhealthy to me.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Cut out the template.
+3. Insert a template.
 
 ## Observed result
 
@@ -16,7 +18,7 @@ Some kind of white die, it seems unhealthy to me.
 
 ## Expected result
 
-
+![expected](https://user-images.githubusercontent.com/91274932/218321556-9174c600-519b-4fca-8b28-0f71697f39c8.png)
 
 ## More details
 
