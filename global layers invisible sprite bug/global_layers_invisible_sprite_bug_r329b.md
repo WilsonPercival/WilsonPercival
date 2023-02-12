@@ -1,14 +1,20 @@
 ## Problem description
 
-
+The sprite disappears.
 
 ## Attach a .c3p
 
-
+No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Add layout.
+4. On the new layout, add a layer and make it global.
+5. Add a new layer on the first layout.
+6. Drag layer 0 under layer 1. The sprite will disappear.
+7. Save and load the project. After loading, you will not be able to select the sprite, but you will be able to interact with it - rotate and twist.
 
 ## Observed result
 
@@ -16,7 +22,7 @@ https://user-images.githubusercontent.com/91274932/218338781-14c0238f-4932-4a51-
 
 ## Expected result
 
-
+The sprite does not disappear.
 
 ## More details
 
