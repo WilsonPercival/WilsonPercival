@@ -1,6 +1,6 @@
 ## Problem description
 
-
+The replica does not inherit the correct blend mode. It can be seen that the template has `Copy`, while the replica has `Normal`. If I click the `Use value 'Blend mode' from remplate`' button, the replica will still set the value to `Normal`.
 
 ## Attach a .c3p
 
@@ -20,7 +20,7 @@
 
 ## Expected result
 
-
+The replica inherits the template's blend mode.
 
 ## More details
 
