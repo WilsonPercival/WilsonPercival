@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Why are the same messages not grouped if I click left, right? This only works well when I click the same button.
 
 ## Attach a .c3p
 
@@ -8,7 +8,11 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Launch and open the console.
+3. Click the left mouse button.
+4. Right-click.
+5. Repeat steps 3 and 4 until you get bored.
 
 ## Observed result
 
