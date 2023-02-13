@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I press the left mouse button and hold it down and press the right mouse button, no `pointerdown` message will be displayed in the console. This works well if I use the `On any click` condition in the events.
 
 ## Attach a .c3p
 
@@ -8,7 +8,10 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Launch and open the console.
+3. Hold down the left mouse button and do not release.
+4. Click the right mouse button.
 
 ## Observed result
 
