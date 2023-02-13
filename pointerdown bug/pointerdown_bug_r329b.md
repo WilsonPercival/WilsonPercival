@@ -1,6 +1,6 @@
 ## Problem description
 
-When I press the left mouse button and hold it down and press the right mouse button, no `pointerdown` message will be displayed in the console. This works well if I use the `On any click` condition in the events.
+When I press the left mouse button and hold it down and press the right mouse button, no `pointerdown` message will be displayed in the console.
 
 ## Attach a .c3p
 
@@ -18,6 +18,8 @@ When I press the left mouse button and hold it down and press the right mouse bu
 https://user-images.githubusercontent.com/91274932/218538407-10a0a806-d41c-4980-9ad9-38ebaf9ba430.mp4
 
 ## Expected result
+
+When I press the left mouse button and hold it down and press the right mouse button, the message `pointerdown` will be printed to the console. This works well if I use the `On any click` condition in the events:
 
 https://user-images.githubusercontent.com/91274932/218538429-ea5247f1-1207-4821-9054-01ec419b832f.mp4
 
