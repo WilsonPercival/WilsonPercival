@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/91274932/218578937-8c1f379b-3b22-4983-
 
 ## Expected result
 
-Construct не крашится.
+Construct does not crash.
 
 ## More details
 
