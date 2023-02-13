@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a layer.
+3. Add an effect to it and press Ctrl + Z (this should be fast).
 
 ## Observed result
 
@@ -16,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/218572143-3013f84d-485c-48c6-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
