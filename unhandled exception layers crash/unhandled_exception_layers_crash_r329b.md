@@ -4,6 +4,8 @@ Construct crashes.
 
 ## Attach a .c3p
 
+[unhandled_exception_layers_crash_r329b_easy.zip](https://github.com/WilsonPercival/WilsonPercival/files/10722205/unhandled_exception_layers_crash_r329b_easy.zip)
+
 save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10716214/save_open_project.zip)
 
 ## Steps to reproduce
@@ -20,6 +22,11 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 10. On `Layout 1`: place `Layer 2` under `Layer 3`.
 11. On `Layout 2`: create a new layer at the bottom.
 12. On `Layout 2`: move `Layer 3` under `Layer 2`.
+
+easy:
+
+1. Create a new project.
+2. On `Layout 2`: move `Layer 3` under `Layer 2`.
 
 ## Observed result
 
