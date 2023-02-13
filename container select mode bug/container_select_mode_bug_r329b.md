@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Selecting a mode in a container does not create checkpoints for rollbacks.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Select the sprite.
+3. Change `Select mode` in the container.
 
 ## Observed result
 
@@ -16,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/218554282-ff73c4fe-bc6f-481d-
 
 ## Expected result
 
-
+Selecting a mode in a container creates checkpoints for rollbacks.
 
 ## More details
 
