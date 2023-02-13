@@ -8,7 +8,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add the file to the `Files` folder.
+3. Add a folder to the `Files` folder.
+4. Drag the file into the folder and press Ctrl + Z (this should be very fast, almost simultaneously).
 
 ## Observed result
 
