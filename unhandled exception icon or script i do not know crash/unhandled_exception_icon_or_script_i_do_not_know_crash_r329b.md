@@ -8,7 +8,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a folder to the `Icons` folder.
+3. Drag the icon to the new folder.
+4. Drag the icon folder to the `Scripts` folder.
+5. Change the `Purpose` icons to `Imports for events`.
+6. Go to events and create a new script block.
+7. Start writing divine code.
 
 ## Observed result
 
