@@ -25,7 +25,7 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 easy:
 
-1. Create a new project.
+1. Open a project.
 2. On `Layout 2`: move `Layer 3` under `Layer 2`.
 
 ## Observed result
