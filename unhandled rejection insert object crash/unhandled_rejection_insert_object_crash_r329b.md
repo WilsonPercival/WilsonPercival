@@ -10,7 +10,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Open the menu for adding a new object.
+3. Select the sprite.
+4. Press the `Insert` button quickly.
+5. Close the animation editor.
+6. Roll back to the very beginning.
+7. Roll back to the very end.
 
 ## Observed result
 
