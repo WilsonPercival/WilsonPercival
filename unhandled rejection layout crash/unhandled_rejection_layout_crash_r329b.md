@@ -8,7 +8,12 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Cut out the instance.
+4. Remove the object from the project.
+5. Create a new layout.
+6. Paste the instance on the new layout and press Ctrl + Z (this should be quick).
 
 ## Observed result
 
