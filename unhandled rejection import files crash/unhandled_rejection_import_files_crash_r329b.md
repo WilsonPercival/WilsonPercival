@@ -8,7 +8,11 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a folder to the `Files` folder.
+3. Select a new folder.
+4. Click `Import files` and immediately Ctrl + Z (this should be fast, almost instantaneous).
+5. Import the file.
 
 ## Observed result
 
