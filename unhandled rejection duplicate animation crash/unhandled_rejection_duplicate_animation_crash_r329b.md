@@ -8,11 +8,14 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Duplicate the first animation in the image editor.
+4. Click duplicate second animation and Ctrl + X (this should be very fast).
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/218771967-f8362c91-ba84-40f3-ba94-545db548acdc.mp4
 
 ## Expected result
 
