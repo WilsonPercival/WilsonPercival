@@ -8,7 +8,17 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
+1. Create a new project.
+2. Add a sprite.
+3. Duplicate 30 frames.
+4. Select the zero frame.
 
+The following steps need to be done at a pace:
+
+5. Hold down `Shift` and press the `Mirror` button.
+6. Duplicate the animation.
+7. Press Ctrl + X until you see the `Can not delete the last animation` sign.
+8. Close the animation editor.
 
 ## Observed result
 
