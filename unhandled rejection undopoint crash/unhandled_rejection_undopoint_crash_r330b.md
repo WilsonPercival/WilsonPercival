@@ -61,6 +61,8 @@ Maximum texture size: 8192
 Point size range: 1 to 1023
 Extensions: EXT_color_buffer_float, EXT_color_buffer_half_float, EXT_float_blend, EXT_texture_compression_bptc, EXT_texture_compression_rgtc, EXT_texture_filter_anisotropic, OES_draw_buffers_indexed, OES_texture_float_linear, WEBGL_compressed_texture_astc, WEBGL_compressed_texture_etc, WEBGL_compressed_texture_etc1, WEBGL_compressed_texture_s3tc, WEBGL_compressed_texture_s3tc_srgb, WEBGL_debug_renderer_info, WEBGL_lose_context, WEBGL_multi_draw, OVR_multiview2
 
+![galaga](https://user-images.githubusercontent.com/91274932/218877933-b1995941-e009-4898-8e6a-574a887675e7.png)
+
 **Affected browsers/platforms:** Chrome
 
 **First affected release:** broke in r330b
