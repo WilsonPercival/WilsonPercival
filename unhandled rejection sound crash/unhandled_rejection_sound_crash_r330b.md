@@ -10,7 +10,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Create a folder in the `Sounds` folder.
+3. Drag the file to the new folder.
+4. Press Ctrl + X and then Ctrl + V.
 
 ## Observed result
 
