@@ -8,7 +8,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Draw a small circle.
+4. Press the `Crop` button.
+5. Press the `Resize` button and add 3 zeros in the width and the same number in the height and click OK.
+6. Click OK on the popup window.
+7. Click the `Crop` button.
 
 ## Observed result
 
