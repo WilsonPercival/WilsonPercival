@@ -12,8 +12,9 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 2. On `Layout 1`: Create a new layer `Layer 1` and make it global.
 3. Create a layout `Layout 2`.
 4. On `Layout 2`: Create a new layer `Layer 1`.
-5. On `Layout 2`: Rename `Layer 1` to `Layer` and make it global.
-6. Switch to `Layout 1`.
+5. On `Layout 2`: Create a sprite on `Layer 1`.
+6. On `Layout 2`: Rename `Layer 1` to `Layer` and make it global.
+7. Switch to `Layout 1`.
 
 ## Observed result
 
