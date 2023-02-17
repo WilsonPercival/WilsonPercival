@@ -8,7 +8,9 @@ The same as in the previous report.
 
 ## Steps to reproduce
 
-
+1. Open project unhandled_exception_layers_crash_r329b_easy.zip
+2. On layout 2, move Layer 1 to be a sub-layer of Layer 2.
+2. On layout 2, move Layer 3 to be a sub-layer of Layer 1.
 
 ## Observed result
 
