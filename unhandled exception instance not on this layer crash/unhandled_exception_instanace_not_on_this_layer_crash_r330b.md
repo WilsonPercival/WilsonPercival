@@ -4,24 +4,22 @@ Construct crashes.
 
 ## Attach a .c3p
 
-save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10772017/save_open_project.zip)
+save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10772078/save_open_project.zip)
 
 ## Steps to reproduce
 
 1. Create a new project.
 2. On `Layout 1`: Create `Layer 1` and make it global.
-3. On `Layout 1`: Create `Layer 2` at the very bottom.
-4. On `Layout 1`: Select `Layer 1`.
-5. Create a layout `Layout 2`.
-6. On `Layout 2`: Create `Layer 1`.
-7. On `Layout 2`: Create a sprite on `Layer 1`.
-8. On `Layout 1`: Delete `Layer 1`.
-9. On the instance, click on the dot to zoom in diagonally to open the settings for the instance in the left ear.
-10. Move the instance to the layer by selecting `Layout 1` - `Layer 2` from the context menu.
+3. Create a layout `Layout 2`.
+4. On `Layout 2`: Create `Layer 1`.
+5. On `Layout 2`: Create a sprite on `Layer 1`.
+6. On `Layout 1`: Delete `Layer 1`.
+7. On the instance, click on the dot to zoom in diagonally to open the settings for the instance in the left ear.
+8. Move the instance to the layer by selecting `Layout 1` - `Layer 2` from the context menu.
 
 ## Observed result
 
-https://user-images.githubusercontent.com/91274932/219804876-c8a196ea-6f25-4498-b1c3-e502c95005c1.mp4
+https://user-images.githubusercontent.com/91274932/219809509-1faa87dc-d1e7-4bfb-89d5-b71497a98c17.mp4
 
 ## Expected result
 
@@ -36,8 +34,8 @@ Message: Uncaught Error: instance not on this layer
 Stack: Error: instance not on this layer at d.joc (https://editor.construct.net/r330/projectResources.js:1343:480) at d.yjb (https://editor.construct.net/r330/projectResources.js:798:395) at https://editor.construct.net/r330/components/bars/propertiesBar/propertiesBar.js:18:424 at Zg (https://editor.construct.net/r330/main.js:370:408) at qq.g.K.seb.iX (https://editor.construct.net/r330/main.js:1531:418) at qq.g.K.seb.UF (https://editor.construct.net/r330/main.js:1532:71) at HTMLSelectElement.Is (https://editor.construct.net/r330/main.js:1530:343)
 Construct version: r330
 URL: https://editor.construct.net/r330/
-Date: Sat Feb 18 2023 00:09:58 GMT+0200 (Восточная Европа, стандартное время)
-Uptime: 65.5 s
+Date: Sat Feb 18 2023 00:29:46 GMT+0200 (Восточная Европа, стандартное время)
+Uptime: 74.7 s
 
 Platform information
 Product: Construct 3 r330 (beta)
