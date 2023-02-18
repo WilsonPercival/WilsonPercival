@@ -8,7 +8,18 @@ Construct didn't let me save the project after a crash.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a new sprite.
+3. Drag the sprite to the `Timeline` panel.
+4. Press the `Editing mode` button.
+5. Hold and continue to hold the red flag. Move him slowly to the right.
+6. Press the `S` key to create a point.
+7. Press the `S` key to create the point again.
+8. Release the red flag.
+9. Drag the last created point far to the right.
+10. Delete the sprite instance.
+11. Click `Undo`.
+12. Drag the last created point to the left so that it is in the same place as the previous point.
 
 ## Observed result
 
