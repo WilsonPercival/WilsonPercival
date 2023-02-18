@@ -8,7 +8,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Add two image points.
+4. Click on hotspot.
+5. Move it to another location.
+6. Close the image editor.
+7. Click `Undo`.
 
 ## Observed result
 
