@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add `Sprite`.
+3. Add `Sprite2`.
+4. Add `Sprite3` and add `Sprite` and `Sprite2` to it in the container. Set `Select mode` to `All`.
+5. Deselect `Sprite3`.
+6. Select `Sprite3`.
+7. Click `Undo`.
 
 ## Observed result
 
@@ -16,7 +22,7 @@ https://user-images.githubusercontent.com/91274932/219903578-038e55aa-7843-400b-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
