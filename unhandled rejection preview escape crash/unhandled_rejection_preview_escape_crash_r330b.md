@@ -8,7 +8,9 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. In the animation editor, click the `Preview` button and press the `Escape` key (this should be fast).
 
 ## Observed result
 
