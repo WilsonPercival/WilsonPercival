@@ -8,7 +8,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a tilemap.
+3. Select a tile and right-click on it to enter the context menu.
+4. Press `Disable all tile collisions` and Ctrl + Z (this should be fast, almost instantaneous).
 
 ## Observed result
 
