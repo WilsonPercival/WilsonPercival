@@ -8,7 +8,13 @@ No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Make it a template and name it `123`.
+4. Make a copy of the instance.
+5. Cut out the template.
+6. Change the remaining sprite to a template and name it `lol`.
+7. Paste the sprite. Note that the neighboring instance is no longer a template. Now he's a replica.
 
 ## Observed result
 
