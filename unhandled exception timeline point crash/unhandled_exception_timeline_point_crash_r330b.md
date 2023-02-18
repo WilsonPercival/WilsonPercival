@@ -1,10 +1,10 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
-
+Construct didn't let me save the project after a crash.
 
 ## Steps to reproduce
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/91274932/219877535-2cdf2849-4e42-47d1-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
