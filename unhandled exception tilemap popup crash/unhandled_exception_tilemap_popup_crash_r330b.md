@@ -8,7 +8,12 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a tilemap.
+3. Detach the `Tilemap bar`.
+4. Click `Open to popup window`.
+5. Click the `Save tilemap to ZIP file` button.
+6. Drag the downloaded archive onto the `Tilemap bar`.
 
 ## Observed result
 
