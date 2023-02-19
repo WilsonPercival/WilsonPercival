@@ -54,6 +54,8 @@ Maximum texture size: 4096
 Point size range: 1 to 1023
 Extensions: EXT_color_buffer_float, EXT_color_buffer_half_float, EXT_float_blend, EXT_texture_filter_anisotropic, EXT_texture_norm16, KHR_parallel_shader_compile, OES_draw_buffers_indexed, OES_texture_float_linear, WEBGL_compressed_texture_astc, WEBGL_compressed_texture_etc, WEBGL_compressed_texture_etc1, WEBGL_debug_renderer_info, WEBGL_debug_shaders, WEBGL_lose_context, WEBGL_multi_draw
 
+![cc](https://user-images.githubusercontent.com/91274932/219964596-5381794a-0088-425b-ba7d-3662a5a36020.png)
+
 **Affected browsers/platforms:** Chrome (Android)
 
 **First affected release:** broke in r327-2s
