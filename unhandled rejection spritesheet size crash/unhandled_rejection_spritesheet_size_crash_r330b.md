@@ -8,7 +8,14 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a new sprite.
+3. Select the first frame.
+4. Press Ctrl + C.
+5. Press Ctrl + V 20 times.
+6. Close the animation editor by pressing `Escape`.
+7. In the left ear, set the `Max spritesheet size` parameter to `512`, then to `2048`.
+8. Press Ctrl + Z and Ctrl + Y quickly until it crashes.
 
 ## Observed result
 
