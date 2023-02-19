@@ -1,6 +1,6 @@
 ## Problem description
 
-
+After I inserted the image and stretched the canvas, the size of the canvas did not return after pressing rollback.
 
 ## Attach a .c3p
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/91274932/219907217-7d26bd5b-c3da-4ab7-
 
 ## Expected result
 
-
+The canvas size should be returned.
 
 ## More details
 
