@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I can't update to beta on android. After starting, a window pops up asking you to update. I hit the `Updade` button, but after that I'm still on stable. In the settings I have set `Beta releases`.
 
 ## Attach a .c3p
 
@@ -8,7 +8,8 @@ No.
 
 ## Steps to reproduce
 
-
+1. Run Construct.
+2. A window will appear asking you to switch to beta. Click `Update`.
 
 ## Observed result
 
@@ -16,7 +17,7 @@ https://user-images.githubusercontent.com/91274932/219965910-ce79d29a-d1b0-4cfa-
 
 ## Expected result
 
-
+I can update to beta.
 
 ## More details
 
