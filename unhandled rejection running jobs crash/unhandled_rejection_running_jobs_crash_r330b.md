@@ -8,7 +8,17 @@ save open project: https://www.dropbox.com/s/xnhczuo6akik5f6/save_open_project_r
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Select a file.
+4. Close the animation editor.
+5. Open the animation editor.
+6. Select the first frame.
+7. Press Ctrl + C.
+8. Hold Ctrl + V for 10 seconds.
+9. Press `Escape` to leave the editor.
+10. Open the image editor.
+11. Repeat steps 9 and 10 quickly until you crash.
 
 ## Observed result
 
