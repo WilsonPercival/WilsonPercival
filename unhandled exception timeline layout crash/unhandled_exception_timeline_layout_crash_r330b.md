@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,11 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. In the timeline, set the `Start on layout` parameter to `Layout 1`.
+3. Duplicate the layout.
+4. Remove `Layout 1`.
+5. In the timeline, set the `Start on layout` parameter to `Layout 2`.
 
 ## Observed result
 
@@ -16,7 +20,7 @@ https://user-images.githubusercontent.com/91274932/219905155-f508901b-70c3-413d-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
