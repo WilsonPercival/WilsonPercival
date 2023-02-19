@@ -8,7 +8,10 @@ save open project: [New project.zip](https://github.com/WilsonPercival/WilsonPer
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add `3D shape`.
+3. Pull the right ear and slide the animation panel all the way out.
+4. Click on the animation bar.
 
 ## Observed result
 
