@@ -8,7 +8,11 @@ No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Copy the image to the clipboard.
+4. Insert and click the `Enlarge canvas` button.
+5. Deselect and press `Undo`.
 
 ## Observed result
 
