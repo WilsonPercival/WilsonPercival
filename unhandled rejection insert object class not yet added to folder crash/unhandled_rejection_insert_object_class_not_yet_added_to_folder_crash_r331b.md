@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-save open project: 
+save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10798172/save_open_project.zip)
 
 ## Steps to reproduce
 
