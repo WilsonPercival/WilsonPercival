@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -12,11 +12,23 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Observed result
 
+I started checking this bug after the fix: https://github.com/Scirra/Construct-3-bugs/issues/6547
 
+Initially, I found that after certain actions I could not use the rollback system at all: I clicked, but nothing rolled forward or back. The `Ctrl + Z` and `Ctrl + Y` keys do nothing either.
+
+https://user-images.githubusercontent.com/91274932/220473305-2f22a6f8-ccb9-4949-9d8a-ca92c2f98796.mp4
+
+I also found that now I can't insert any new object.
+
+https://user-images.githubusercontent.com/91274932/220473373-b7499771-3ed1-4632-8029-7aeef525bdeb.mp4
+
+On the last try, when I was going to record an existing problem, I caught a crash.
+
+https://user-images.githubusercontent.com/91274932/220473560-fa50a8c4-1d02-4833-91e6-2a47b4f78bc7.mp4
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
