@@ -12,7 +12,7 @@
 
 ## Observed result
 
-![shake](https://user-images.githubusercontent.com/91274932/220479660-429f0a63-ff27-4c1f-ab60-e9273a10199e.gif)
+
 
 ## Expected result
 
