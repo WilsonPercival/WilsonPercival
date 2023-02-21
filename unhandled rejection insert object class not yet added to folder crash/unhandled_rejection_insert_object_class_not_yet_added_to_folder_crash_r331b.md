@@ -8,7 +8,18 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
+The steps below only apply to the last video showing the crash. Also, I'm not sure if each step is required to reproduce the problem.
 
+1. While on the main page, reload Construct. This is necessary so that I have time windows, thanks to which I can break some of the Construct mechanisms. Because at this moment all the resources have not yet loaded. The next steps must be done at a pace.
+2. Create a new project.
+3. Open the `Create new object type` window.
+4. Wait until the icons are loaded and you will see the selected `3D Camera` object and press the `Insert` button.
+5. Open the `Create new object type` window.
+6. Wait until the icons are loaded and you will see the selected `3D Shape` object and press the `Insert` button. Without waiting for the addition, click the `Cancel` button.
+7. Wait for the `Loading icons...` in the lower left corner to load.
+8. Wait for the `Loading addon events...` to load in the bottom left corner.
+9. Slowly press the `Undo` buttons until the very beginning.
+10. Slowly press the `Redo` buttons until a crash occurs.
 
 ## Observed result
 
