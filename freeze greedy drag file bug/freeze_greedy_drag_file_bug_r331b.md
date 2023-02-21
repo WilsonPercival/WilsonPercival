@@ -12,7 +12,10 @@ No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a file.
+3. Start dragging the file and don't let go.
+4. Press `Ctrl + Z`.
 
 ## Observed result
 
