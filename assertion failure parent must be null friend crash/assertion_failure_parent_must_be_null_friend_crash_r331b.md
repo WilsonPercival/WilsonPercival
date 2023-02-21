@@ -2,13 +2,19 @@
 
 Construct crashes.
 
+It seems to me that this crash has the same bug as here: https://github.com/Scirra/Construct-3-bugs/issues/6545
+
+But the repro steps are from this report: https://github.com/Scirra/Construct-3-bugs/issues/6569
+
+I, repeating these steps, catch crash 6569. And my friend, repeating the same steps, catches this crash, which, it seems to me, is similar to 6545. I think it will be useful to you.
+
 ## Attach a .c3p
 
 No.
 
 ## Steps to reproduce
 
-
+Same as here: https://github.com/Scirra/Construct-3-bugs/issues/6569
 
 ## Observed result
 
