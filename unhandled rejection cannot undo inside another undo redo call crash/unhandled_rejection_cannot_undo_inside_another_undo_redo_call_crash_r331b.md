@@ -1,6 +1,12 @@
 ## Problem description
 
+Construct crashes.
 
+I started checking this bug after the fix: https://github.com/Scirra/Construct-3-bugs/issues/6494
+
+It seemed to me that you created a barrier in the form of a pop-up window `Working...`. But during this window, I can still press `Ctrl + Z` to roll back a step.
+
+I also wrote a small `keylogger` to make it easier for you to understand what time to press the keys. It does not work perfectly, sometimes the keys stick, but this is not critical here.
 
 ## Attach a .c3p
 
@@ -8,7 +14,12 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Open the `cannot_read_properties_of_null_music_crash_r329b.zip` project.
+2. Highlight the `Music` folder.
+3. Press `Ctrl + C`.
+4. Press `Ctrl + V`.
+5. Wait for the `Working...` window to appear and press the `Ctrl + Z` button.
+6. When you see a subfolder with a file on the project panel, quickly press `Ctrl + X` twice and start quickly pressing `Ctrl + Z`.
 
 ## Observed result
 
@@ -16,7 +27,7 @@ https://user-images.githubusercontent.com/91274932/220503540-70a593c4-5676-4043-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
