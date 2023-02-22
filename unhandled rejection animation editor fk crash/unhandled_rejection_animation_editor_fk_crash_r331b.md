@@ -12,7 +12,6 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 2. Click `Add new object type` and select `Sprite`.
 3. Click on the sprite with the right mouse button to open the context menu.
 4. Press `Edit animation` and `Ctrl + Z` (this should be fast, almost instantaneous).
-I'm not sure, but I think I also press `Ctrl + Y`.
 
 ## Observed result
 
