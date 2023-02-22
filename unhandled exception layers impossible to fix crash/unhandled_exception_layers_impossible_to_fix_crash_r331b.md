@@ -8,7 +8,10 @@ The same as in the previous report.
 
 ## Steps to reproduce
 
-
+1. Open project `unhandled_exception_layers_crash_r329b_easy.zip`.
+2. On layout 2, move Layer 1 to be a sub-layer of Layer 2.
+3. On layout 2, удалите слой `Layer 3`.
+4. On layout 2, выделите слой `Layer 1` и нажмите правой кнопкой и выберите `Insert sub-layer`.
 
 ## Observed result
 
