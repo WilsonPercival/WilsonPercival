@@ -8,7 +8,13 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Fill it with fill.
+4. In the left ear, click on the white rectangle, which opens the `Color picker`.
+5. Don't pick a color. Instead, trick Construct and click on the `Color` text. `Color picker` will close.
+6. Press `Ctrl + Z`. Please note that we have deleted the cusp. Also, the sprite is now without a fill.
+7. Repeat steps 4, 5 and 6.
 
 ## Observed result
 
