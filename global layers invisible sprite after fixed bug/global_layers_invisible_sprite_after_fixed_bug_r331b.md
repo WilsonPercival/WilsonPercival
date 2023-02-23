@@ -10,7 +10,10 @@ The sprite disappears, but I can still drag it.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Go to `Layout 2`.
+3. Make `Layer 1` global.
+4. Return to `Layout 1`. Note that the sprite is now invisible. But I can still drag it.
 
 ## Observed result
 
