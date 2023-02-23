@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a subfolder under the `Object types` folder.
+3. Drag the new subfolder into the `Scripts` folder.
 
 ## Observed result
 
@@ -16,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/220799432-bebd2444-a28e-44cb-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
