@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When the `Tile movement` behavior has speed set to 0, the `Target` is moving too fast when simulating movement. In theory, it shouldn't move at all.
 
 ## Attach a .c3p
 
@@ -8,7 +8,7 @@
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/91274932/221043753-7c2a061b-74bd-46a5-
 
 ## Expected result
 
-
+Here I set the speed to 1: it has moved one tile.
 
 https://user-images.githubusercontent.com/91274932/221043767-4e2caeb3-07c2-4723-8f40-e3ecf0bbd9c8.mp4
 
