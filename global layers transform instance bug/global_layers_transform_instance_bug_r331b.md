@@ -1,6 +1,6 @@
 ## Problem description
 
-
+I can move the sprite on the global layer, and the sprite on the normal layer will change.
 
 ## Attach a .c3p
 
@@ -8,7 +8,12 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Go to `Layout 1`.
+3. Move the instance to `Layer 0`.
+4. Go to `Layout 2`.
+5. Move the instance.
+6. Go to `Layout 1`. Note that the sprite has changed its position, even though it is on a regular layer.
 
 ## Observed result
 
@@ -16,7 +21,7 @@ https://user-images.githubusercontent.com/91274932/220983616-238972b8-cda9-4d8e-
 
 ## Expected result
 
-
+If I move a sprite on the global layer, then the sprite on the normal layer should be independent.
 
 ## More details
 
