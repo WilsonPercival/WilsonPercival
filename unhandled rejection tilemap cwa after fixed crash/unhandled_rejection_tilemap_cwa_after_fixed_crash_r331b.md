@@ -2,13 +2,15 @@
 
 Construct crashes.
 
+I have already reported this: https://github.com/Scirra/Construct-3-bugs/issues/6562
+
 ## Attach a .c3p
 
-save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10809581/save_open_project.zip)
+The same as in the previous project.
 
 ## Steps to reproduce
 
-
+The same as in the previous project.
 
 ## Observed result
 
