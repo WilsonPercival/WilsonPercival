@@ -1,14 +1,14 @@
 ## Problem description
 
-
+Construct crashes. I have already reported this: https://github.com/Scirra/Construct-3-bugs/issues/6558
 
 ## Attach a .c3p
 
-
+The same as in the previous report.
 
 ## Steps to reproduce
 
-
+The same as in the previous report.
 
 ## Observed result
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/91274932/221218467-ff58fdfa-4c40-4b59-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
