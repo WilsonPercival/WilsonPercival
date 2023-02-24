@@ -1,6 +1,6 @@
 ## Problem description
 
-Construct crashes.
+Construct crashes. I have already reported this: https://github.com/Scirra/Construct-3-bugs/issues/6557
 
 ## Attach a .c3p
 
