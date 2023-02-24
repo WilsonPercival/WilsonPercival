@@ -18,7 +18,7 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 8. Click `Undo`.
 9. Select the sprite.
 10. Click `Redo`.
-11. In the left ear, change the sprite layer to `Layer `0`.
+11. In the left ear, change the sprite layer to `Layer 0`.
 
 ## Observed result
 
