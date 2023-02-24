@@ -8,7 +8,17 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create `Layer 1` and make it global.
+3. Create `Layout 2`.
+4. On `Layout 2`: create `Layer 1`.
+5. On `Layout 2`: create a sprite on `Layer 1`.
+6. On `Layout 1`: delete `Layer 1`.
+7. Go to `Layout 2`.
+8. Click `Undo`.
+9. Select the sprite.
+10. Click `Redo`.
+11. In the left ear, change the sprite layer to `Layer `0`.
 
 ## Observed result
 
