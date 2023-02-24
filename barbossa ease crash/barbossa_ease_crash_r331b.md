@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create `Ease`.
+3. Go to `Ease editor`.
+4. Move the point and press `Ctrl + Z` (do not release the point).
 
 ## Observed result
 
@@ -16,7 +19,7 @@ https://user-images.githubusercontent.com/91274932/221075889-381d531a-b855-42e8-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
