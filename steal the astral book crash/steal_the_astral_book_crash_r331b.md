@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/91274932/221058883-7dfd19a8-46f8-46ba-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
