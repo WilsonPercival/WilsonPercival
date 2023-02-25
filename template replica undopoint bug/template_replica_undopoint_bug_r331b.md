@@ -4,7 +4,7 @@
 
 ## Attach a .c3p
 
-
+[template_replica_undopoint_bug_r331b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10832098/template_replica_undopoint_bug_r331b.zip)
 
 ## Steps to reproduce
 
@@ -12,7 +12,7 @@
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/221375792-d40fbfbf-06bf-41c9-8889-c15200e0dec6.mp4
 
 ## Expected result
 
