@@ -8,7 +8,14 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Cut out the instance.
+4. Remove the last object from the project.
+5. Paste the instance on the layout.
+6. Click on the instance and select `Find all references...`.
+7. Press `Ctrl + Z` and right click on the first match (this should be fast).
+8. Click `Go to crash`.
 
 ## Observed result
 
