@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I delete the template, the replica has an empty plate. She feels bad.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Set the replica's `Template source` parameter to `(none)`.
+3. Remove the template instance.
 
 ## Observed result
 
@@ -16,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/221374406-6eea7e08-4e42-42e0-
 
 ## Expected result
 
-
+When I remove the template, the replica is fine.
 
 ## More details
 
