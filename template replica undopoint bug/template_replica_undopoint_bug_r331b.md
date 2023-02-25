@@ -1,6 +1,6 @@
 ## Problem description
 
-
+When I press `Undo`, the `Template source` parameter of the replica does not change.
 
 ## Attach a .c3p
 
@@ -8,7 +8,13 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. For the replica, change `Template source` to `(none)`. Note that a rollback point has been created.
+3. For the replica, change the `Template source` to `123`. Note that a rollback point has been created.
+4. For the replica, change the `Template source` to `(none)`. Note that a rollback point has been created.
+5. For the replica, change the `Template source` to `123`. Note that a rollback point has been created.
+6. Click `Undo`. Notice that nothing happened.
+7. Repeat step 6. Nothing happens.
 
 ## Observed result
 
@@ -16,7 +22,7 @@ https://user-images.githubusercontent.com/91274932/221375792-d40fbfbf-06bf-41c9-
 
 ## Expected result
 
-
+When I press `Undo`, the `Template source` parameter of the replica changes.
 
 ## More details
 
