@@ -1,14 +1,23 @@
 ## Problem description
 
-
+When I hit `Undo` in `Ease editor`, the yellow dot doesn't come back.
 
 ## Attach a .c3p
 
-
+No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create `Ease`.
+3. Open `Ease editor`. If you have problems with the camera - lower it lower so that it does not fly up when creating a yellow dot.
+4. Create a new yellow dot.
+5. Press the `Toggle` button.
+6. Move the yellow dot twice.
+7. Click the `Toggle` button.
+8. Click `Undo`.
+9. Click `Undo`. Note that the yellow dot remains in place.
+10. Repeat the previous step.
 
 ## Observed result
 
@@ -16,7 +25,7 @@ https://user-images.githubusercontent.com/91274932/221330478-57232d30-90e3-4afd-
 
 ## Expected result
 
-
+When I press `Undo` in `Ease editor` the yellow dot comes back.
 
 ## More details
 
