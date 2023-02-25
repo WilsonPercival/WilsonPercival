@@ -1,14 +1,17 @@
 ## Problem description
 
-
+When I press the `Invert ease` button, no rollback point is created.
 
 ## Attach a .c3p
 
-
+No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a new `Ease`.
+3. Move the point to create a curve other than `Linear`.
+4. Click the `Invert ease` button.
 
 ## Observed result
 
@@ -16,7 +19,7 @@ https://user-images.githubusercontent.com/91274932/221327401-66512623-b593-49f5-
 
 ## Expected result
 
-
+When I press the `Invert ease` button, a rollback point is created.
 
 ## More details
 
