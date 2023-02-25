@@ -8,7 +8,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add a sprite.
+3. Open a large image.
+4. While Construct is thinking, quickly press `Ctrl + P` many times.
 
 ## Observed result
 
