@@ -1,6 +1,6 @@
 ## Problem description
 
-
+After I drag the sprite onto the layout, the `Template source` dice will die.
 
 ## Attach a .c3p
 
@@ -8,7 +8,9 @@
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Delete the sprite instance.
+3. Drag the `Sprite` object onto the layout.
 
 ## Observed result
 
@@ -16,7 +18,7 @@ https://user-images.githubusercontent.com/91274932/221377486-309fc3cc-a66b-4413-
 
 ## Expected result
 
-
+After I drag the sprite onto the layout, the `Template source` dice will not die.
 
 ## More details
 
