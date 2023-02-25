@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,14 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Add particles.
+3. Add a sprite.
+4. Cut out the sprite instance.
+5. Remove the `Sprite` object from the project.
+6. Insert an instance of the sprite on the layout.
+7. Select the particles.
+8. There is a button on the left ear to select an object. Press `Ctrl + Z` and click on the select object button (this should be fast).
 
 ## Observed result
 
@@ -16,7 +23,7 @@ https://user-images.githubusercontent.com/91274932/221367137-351febe2-90e2-4513-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
