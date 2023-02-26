@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Construct crashes.
 
 ## Attach a .c3p
 
@@ -8,7 +8,12 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
+1. Create a new project.
+2. Rename the layout to this name:
 
+`iwillnotusespeedrunningstrategiestobreakconstruct3iwillnotusespeedrunningstrategiestobreakconstruct3iwillnotusespeedrunningstrategiestobreakconstruct3iwillnotusespeedrunningstrategiestobreakconstruct`
+
+3. Duplicate the layout.
 
 ## Observed result
 
@@ -16,7 +21,7 @@ https://user-images.githubusercontent.com/91274932/221390946-d24a57f2-223a-4e54-
 
 ## Expected result
 
-
+Construct does not crash.
 
 ## More details
 
