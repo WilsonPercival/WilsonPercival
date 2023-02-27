@@ -4,25 +4,24 @@ Construct crashes. I have already reported this: https://github.com/Scirra/Const
 
 ## Attach a .c3p
 
+[steal_the_astral_book_crash_r331b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10841782/steal_the_astral_book_crash_r331b.zip)
+
 save open project: [save_open_project.zip](https://github.com/WilsonPercival/WilsonPercival/files/10819472/save_open_project.zip)
 
 ## Steps to reproduce
 
-1. Create a new project.
-2. Create `Layer 1` and make it global.
-3. Create `Layout 2`.
-4. On `Layout 2`: create `Layer 1`.
-5. On `Layout 2`: create a sprite on `Layer 1`.
-6. On `Layout 1`: delete `Layer 1`.
-7. Go to `Layout 2`.
-8. Click `Undo`.
-9. Select the sprite.
-10. Click `Redo`.
-11. In the left ear, change the sprite layer to `Layer 0`.
+1. Open a project.
+2. On `Layout 2`: create a sprite on `Layer 1`.
+3. On `Layout 1`: delete `Layer 1`.
+4. Go to `Layout 2`.
+5. Click `Undo`.
+6. Select the sprite.
+7. Click `Redo`.
+8. In the left ear, change the sprite layer to `Layer 0`.
 
 ## Observed result
 
-https://user-images.githubusercontent.com/91274932/221058883-7dfd19a8-46f8-46ba-b11b-1c2fb2e64095.mp4
+https://user-images.githubusercontent.com/91274932/221621278-1803e04e-3aa6-4ef3-8bda-958115acc3e2.mp4
 
 ## Expected result
 
