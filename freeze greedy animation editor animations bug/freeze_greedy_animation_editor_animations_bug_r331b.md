@@ -8,7 +8,10 @@ No.
 
 ## Steps to reproduce
 
-
+1. Create a new project.
+2. Create a sprite.
+3. Add animation.
+4. Grab and drag the animation and press `Ctrl + Z` (do not release the animation).
 
 ## Observed result
 
