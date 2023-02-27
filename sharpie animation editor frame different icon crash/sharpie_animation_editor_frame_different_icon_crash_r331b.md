@@ -8,7 +8,7 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-Same as 0000.
+Same as https://github.com/Scirra/Construct-3-bugs/issues/6650.
 
 ## Observed result
 
