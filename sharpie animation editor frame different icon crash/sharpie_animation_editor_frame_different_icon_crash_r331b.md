@@ -8,7 +8,10 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-Same as https://github.com/Scirra/Construct-3-bugs/issues/6650.
+1. Create a new project.
+2. Add a sprite.
+3. Duplicate 20 frames.
+4. Start playing thimbles by frames: shuffle randomly, and then press Escape to escape. You must have time to escape during the mixing process, otherwise there will be no crash.
 
 ## Observed result
 
