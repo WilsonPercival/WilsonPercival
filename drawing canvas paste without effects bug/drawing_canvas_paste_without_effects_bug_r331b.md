@@ -8,8 +8,8 @@ Canvas pastes the sprite with effects, even when I explicitly paste it without e
 
 ## Steps to reproduce
 
-Open and run the project.
-Move the sprite.
+1. Open and run the project.
+2. Move the sprite.
 
 ## Observed result
 
