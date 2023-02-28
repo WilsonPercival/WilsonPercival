@@ -10,7 +10,11 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 
 ## Steps to reproduce
 
-
+1. Open the `unhandled_exception_layers_crash_r329b_easy.zip` project.
+2. Cut out `Layout 1`.
+3. Make `Layer 0` global.
+4. Insert `Layout 1` and navigate to it.
+5. Drag `Layer 1`, which has index 2, to be below `Layer 0`.
 
 ## Observed result
 
