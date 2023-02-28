@@ -17,7 +17,7 @@ The canvas does not paste the sprite if there is a `Color` effect on the sprite.
 
 ## Expected result
 
-![expected](https://user-images.githubusercontent.com/91274932/221741623-7af772da-5732-4489-831f-fb26c357ec42.png)
+![expected](https://user-images.githubusercontent.com/91274932/221742169-7ca39ded-46ac-4499-b880-82a93c4c25aa.png)
 
 ## More details
 
