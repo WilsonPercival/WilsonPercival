@@ -1,6 +1,6 @@
 ## Problem description
 
-
+Canvas pastes the sprite with effects, even when I explicitly paste it without effects. This works well in `r317-2s`. But this doesn't work well in `r331b`.
 
 ## Attach a .c3p
 
