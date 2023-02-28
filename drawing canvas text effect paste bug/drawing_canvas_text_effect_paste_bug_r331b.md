@@ -8,7 +8,7 @@ Canvas does not paste text if there is an effect on the text.
 
 ## Steps to reproduce
 
-1. Open a project.
+1. Open and run the project.
 2. Drag the text.
 
 ## Observed result
