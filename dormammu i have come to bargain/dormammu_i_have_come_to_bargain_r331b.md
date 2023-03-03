@@ -1,6 +1,6 @@
 ## Problem description
 
-Construct crashes.
+Construct crashes. I have already reported this: #6605
 
 ## Attach a .c3p
 
