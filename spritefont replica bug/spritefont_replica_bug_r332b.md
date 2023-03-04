@@ -8,7 +8,10 @@ The `Sprite font` does not change the text displayed in the layout editor.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Select a replica.
+3. Change the text for it.
+4. Right click on the `Text` parameter and select `Use value 'Text' from template`. Note that the text in the layout editor is still old.
 
 ## Observed result
 
