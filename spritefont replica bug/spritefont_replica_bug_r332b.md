@@ -12,7 +12,7 @@ The `Sprite font` does not change the text displayed in the layout editor.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/222933177-5b63839e-c04f-4617-b6dd-5dd12268400f.mp4
 
 ## Expected result
 
