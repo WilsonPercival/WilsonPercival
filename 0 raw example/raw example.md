@@ -24,14 +24,14 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r332b
+**First affected release:** broke in r333b
 
 ## System details
 
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r332 (beta)
+Product: Construct 3 r333 (beta)
 Browser: Chrome 109.0.5414.120
 Browser engine: Chromium
 Context: browser
@@ -45,7 +45,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 59 gb
-Storage usage (approx): 253 mb (0.4%)
+Storage usage (approx): 144 mb (0.2%)
 Persistant storage: No
 
 Browser support notes
