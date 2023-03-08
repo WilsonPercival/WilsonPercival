@@ -2,6 +2,8 @@
 
 I have an `OR` block in events. In one case it works well, in the other case it works poorly. It depends on whether there is a trigger or an evaluating condition.
 
+I see that in Construct Classic this works well. [or_example_construct_classic.zip](https://github.com/WilsonPercival/WilsonPercival/files/10917215/or_example_construct_classic.zip)
+
 ## Attach a .c3p
 
 [picked_instances_and_or_and_trigges_bug_r333b.zip](https://github.com/WilsonPercival/WilsonPercival/files/10917196/picked_instances_and_or_and_trigges_bug_r333b.zip)
