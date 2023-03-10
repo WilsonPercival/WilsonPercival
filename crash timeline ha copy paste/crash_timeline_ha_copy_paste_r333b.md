@@ -12,7 +12,7 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 2. Create a sprite.
 3. Move the sprite to `Timeline 1`.
 4. Make a duplicate of `Timeline 1`. `Timeline 2` will open automatically.
-4. Click `Timeline -> Add timelines` and select `Timeline 1`.
+4. Click `Add -> Timeline -> Add timelines` and select `Timeline 1`.
 5. Copy `Timeline 1`.
 6. Paste `Timeline 1`.
 
