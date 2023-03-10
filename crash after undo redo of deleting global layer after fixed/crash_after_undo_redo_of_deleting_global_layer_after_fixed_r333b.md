@@ -17,6 +17,7 @@ Construct crashes. I have already reported this: https://github.com/Scirra/Const
 7. Go to `Layout 2`.
 8. Go to `Layout 1`.
 9. Go to `Layout 2`.
+10. In the left ear, change the sprite layer to `Layer 0`.
 
 ## Observed result
 
