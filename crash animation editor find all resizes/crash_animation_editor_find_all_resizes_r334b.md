@@ -11,7 +11,7 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 1. Create a new project.
 2. Create a sprite.
 3. Open the context menu of the animation.
-4. Press `Find all references...` and `Alt + R`. Note that the animation editor has closed and the `Resize Image Canvas` window has opened.
+4. Press `Find all references...` and `Alt + R` (it should be fast). Note that the animation editor has closed and the `Resize Image Canvas` window has opened.
 5. Click `OK`.
 
 ## Observed result
