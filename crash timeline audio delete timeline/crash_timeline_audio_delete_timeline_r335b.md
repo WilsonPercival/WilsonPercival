@@ -17,7 +17,7 @@ https://www.dropbox.com/s/taazqzhgak3ye59/crash_timeline_audio_delete_timeline_r
 
 ## Observed result
 
-https://user-images.githubusercontent.com/91274932/226564244-b2d9ccb5-0627-4cea-ae50-45572dacba66.mp4
+https://user-images.githubusercontent.com/91274932/226565674-e65dbf02-8cdf-470a-8610-2dcbecac7afe.mp4
 
 ## Expected result
 
@@ -32,8 +32,8 @@ Message: Uncaught TypeError: Cannot read properties of null (reading 'vta')
 Stack: TypeError: Cannot read properties of null (reading 'vta') at n2.JDc (https://editor.construct.net/r335/components/bars/timelineBar/timelineBar.js:180:86) at Array. (https://editor.construct.net/r335/components/bars/timelineBar/timelineBar.js:162:124) at window.afb.dispatchEvent (https://editor.construct.net/r335/main.js:1234:42) at window.afb.qk (https://editor.construct.net/r335/main.js:2515:250) at d.Oca (https://editor.construct.net/r335/projectResources.js:990:415) at n2.eDc (https://editor.construct.net/r335/components/bars/timelineBar/timelineBar.js:184:289) at Array. (https://editor.construct.net/r335/components/bars/timelineBar/timelineBar.js:168:184) at window.afb.dispatchEvent (https://editor.construct.net/r335/main.js:1234:42) at window.afb.oE (https://editor.construct.net/r335/main.js:2515:477) at AudioContext. (https://editor.construct.net/r335/projectResources.js:1237:30)
 Construct version: r335
 URL: https://editor.construct.net/r335/
-Date: Tue Mar 21 2023 11:09:47 GMT+0200 (Восточная Европа, стандартное время)
-Uptime: 68 s
+Date: Tue Mar 21 2023 11:26:03 GMT+0200 (Восточная Европа, стандартное время)
+Uptime: 60.9 s
 
 Platform information
 Product: Construct 3 r335 (beta)
