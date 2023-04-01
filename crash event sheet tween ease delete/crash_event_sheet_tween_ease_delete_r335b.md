@@ -9,10 +9,11 @@ Construct crashes.
 ## Steps to reproduce
 
 1. Open a project.
-2. Cut out the event.
-3. Remove `Ease 1`.
-4. Insert an event.
-5. Copy the event.
+2. Open the event editor.
+3. Cut out the event.
+4. Remove `Ease 1`.
+5. Insert an event.
+6. Copy the event.
 
 ## Observed result
 
