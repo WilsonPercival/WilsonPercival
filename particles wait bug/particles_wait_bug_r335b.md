@@ -29,7 +29,9 @@ Why can't it work the same way?
 
 ## More details
 
+It's funny, but in Construct Classic it works the other way around...
 
+![classic](https://user-images.githubusercontent.com/91274932/229595208-1dcbb3f1-0956-4351-8901-4f449afffd1d.png)
 
 **Affected browsers/platforms:** Chrome
 
