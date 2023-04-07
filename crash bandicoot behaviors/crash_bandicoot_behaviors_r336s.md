@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/91274932/230680767-9ea7548b-8455-470c-
 
 ## Expected result
 
-Construct не крашится.
+Construct does not crash.
 
 ## More details
 
