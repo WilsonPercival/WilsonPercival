@@ -16,7 +16,7 @@ I took the `Make animations with Construct` template and added two events to it:
 2. Wait a second.
 3. Press `1` to save.
 4. Wait a second.
-5. Press `2` to download. Note that the animation has stopped.
+5. Press `2` to load. Note that the animation has stopped.
 
 ## Observed result
 
