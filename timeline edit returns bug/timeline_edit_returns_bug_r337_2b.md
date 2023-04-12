@@ -4,19 +4,27 @@ I specify the dimensions of the sprite. Next, I move the red checkbox and find t
 
 ## Attach a .c3p
 
-
+[timeline_edit_returns_bug_r337_2b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11214701/timeline_edit_returns_bug_r337_2b.zip)
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Select the sprite instance.
+3. Click `Editing mode`.
+4. Move the red flag to `0.10s`.
+5. In the left ear, change the value of the `Initial frame` parameter to `1`.
+6. Change the sprite width to `10`.
+7. Move the red flag to `0.00s` and then back to `0.10s`. Note that the sprite is `10` wide.
+8. Change the sprite width to `11`.
+9. Move the red flag to `0.00s` and then back to `0.10s`. Note that the sprite is `75` wide.
 
 ## Observed result
 
-
+https://user-images.githubusercontent.com/91274932/231551605-70ea1f96-247b-4123-9128-146c82e3fc97.mp4
 
 ## Expected result
 
-
+The sprite should capture changes.
 
 ## More details
 
