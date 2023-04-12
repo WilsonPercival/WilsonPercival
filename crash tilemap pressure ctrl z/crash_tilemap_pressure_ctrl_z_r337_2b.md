@@ -9,11 +9,12 @@ save open project: [save_open_project.zip](https://github.com/WilsonPercival/Wil
 ## Steps to reproduce
 
 1. Create a new project.
-2. Add a tilemap.
+2. Create a tilemap.
 3. Create a sprite.
 4. Select an instance of the tilemap.
-5. Hold CtrlZ until you roll back to the very beginning.
-6. Edit the tile.
+5. Hold `Ctrl + Z` until you roll back to the very beginning.
+6. Double click on the tile.
+7. Get creative.
 
 ## Observed result
 
