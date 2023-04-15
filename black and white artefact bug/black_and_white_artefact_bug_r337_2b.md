@@ -2,6 +2,8 @@
 
 I added a `Black & white` effect, but a black stroke artifact appeared around the edges.
 
+In Construct Classic this works without artifacts.
+
 ## Attach a .c3p
 
 [black_and_white_artefact_bug_r337_2b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11240520/black_and_white_artefact_bug_r337_2b.zip)
