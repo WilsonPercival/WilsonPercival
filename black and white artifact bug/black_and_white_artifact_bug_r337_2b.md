@@ -6,7 +6,7 @@ In Construct Classic this works without artifacts.
 
 ## Attach a .c3p
 
-[black_and_white_artefact_bug_r337_2b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11240520/black_and_white_artefact_bug_r337_2b.zip)
+[black_and_white_artifact_bug_r337_2b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11242184/black_and_white_artifact_bug_r337_2b.zip)
 
 ## Steps to reproduce
 
