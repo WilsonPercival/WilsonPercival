@@ -12,7 +12,8 @@ https://lively-dasik-69ee04.netlify.app
 
 ## Steps to reproduce
 
-
+1. Open and run the project. Note that the sprite has a black background.
+2. Export the project by setting `Lossy format` `WebP` and run it. Note that there is no black background.
 
 ## Observed result
 
