@@ -4,7 +4,7 @@ I create particles. But for some reason they are purple. It seems due to the fac
 
 https://www.construct.net/en/blogs/ashleys-blog-2/surprising-difficulty-1528
 
-Usually, it helps that I put 1 pixel padding on each side of the sprite. It works well, you can verify this if you run sprite_spritesheet_good_r340b.zip.
+Usually, it helps that I put 1 pixel padding on each side of the sprite. It works well, you can verify this if you run `sprite_spritesheet_good_r340b.zip`.
 
 But it doesn't work with particles. I've padded 1 pixel on each side of the sprite, but the particles still have a purple stripe.
 
