@@ -1,6 +1,6 @@
 ## Problem description
 
-Construct hung.
+Construct hung. It looks like this to me: https://github.com/Scirra/Construct-bugs/issues/6931
 
 ## Attach a .c3p
 
