@@ -1,22 +1,30 @@
 ## Problem description
 
+If you simultaneously hold down `ArrowUp`, `ArrowLeft` and `Space`, then the last key does not work.
 
+At the same time, if I hold down `ArrowUp`, `ArrowRight` and `Space` everything works fine.
 
 ## Attach a .c3p
 
-
+[keyboard_bug_r341b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11470751/keyboard_bug_r341b.zip)
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Hold down `ArrowUp`, `ArrowLeft` and `Space` at the same time. Please note that the last key does not work.
+3. Hold down `ArrowUp`, `ArrowRight` and `Space` at the same time. Please note that everything works well.
 
 ## Observed result
 
+![observed](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/8d0ea932-f55c-41d2-b1a5-7b4640bade49)
 
+![observed2](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/ea62d894-7f55-45b5-a88d-54f20656bceb)
 
 ## Expected result
 
+If you simultaneously hold down `ArrowUp`, `ArrowLeft` and `Space`, then everything works well.
 
+![expected](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/5bb2efa3-7d0a-4312-8f10-1bd9d92aa8ef)
 
 ## More details
 
