@@ -1,22 +1,25 @@
 ## Problem description
 
-
+On Android, list appears as if its type is `Dropdown list`. But I have set the type to `List box`.
 
 ## Attach a .c3p
 
-
+[list_android_bug_r341b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11480968/list_android_bug_r341b.zip)
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Run the project through remote preview on the tablet.
 
 ## Observed result
 
-
+![observed](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/f7647ae4-ef60-4f8d-8a3f-9f75fea5f3b0)
 
 ## Expected result
 
+Everything works fine on the computer:
 
+![expected](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/8ca37297-b66d-4429-b8b6-dee09d490afe)
 
 ## More details
 
