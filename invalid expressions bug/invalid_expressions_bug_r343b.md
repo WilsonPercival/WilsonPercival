@@ -2,6 +2,12 @@
 
 I cannot open the project.
 
+Previous reports:
+
+https://github.com/Scirra/Construct-bugs/issues/5957
+https://github.com/Scirra/Construct-bugs/issues/6467
+https://github.com/Scirra/Construct-bugs/issues/7005
+
 ## Attach a .c3p
 
 [fun_project_r343b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11585772/fun_project_r343b.zip)
