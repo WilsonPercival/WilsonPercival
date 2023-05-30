@@ -24,7 +24,7 @@ Construct does not crash.
 
 
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Safari
 
 **First affected release:** broke in r344s
 
