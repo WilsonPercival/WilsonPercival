@@ -1,22 +1,30 @@
 ## Problem description
 
+I have a hierarchy with `Sprite_Parent` and `Sprite_Child` sprites. They have a `Tween` behavior that I use to animate the `Angle`.
 
+The parent has a time of `0.2` seconds with a final angle value of 45 degrees.
+The child has a time of `0.4` seconds with an end angle of 90 degrees.
+
+The video shows what happens out of sync. It lies in the fact that the parent sprite and the child sprite after some time begin to move, creating a chaotic pattern from the train.
+
+On the right, I demonstrated how I think it should be.
 
 ## Attach a .c3p
 
-
+[hierarchy_tween_angle_out_of_sync_bug_r346b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11811943/hierarchy_tween_angle_out_of_sync_bug_r346b.zip)
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Press '1'.
 
 ## Observed result
 
-
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/6ad133b5-d353-4c32-a1f0-025e79dadb3f
 
 ## Expected result
 
-
+Sprites should not create a chaotic pattern over time.
 
 ## More details
 
