@@ -2,8 +2,8 @@
 
 I have a hierarchy with `Sprite_Parent` and `Sprite_Child` sprites. They have a `Tween` behavior that I use to animate the `Angle`.
 
-The parent has a time of `0.2` seconds with a final angle value of 45 degrees.
-The child has a time of `0.4` seconds with an end angle of 90 degrees.
+The parent has a time of `0.2` seconds with a final angle value of `45` degrees.
+The child has a time of `0.4` seconds with an end angle of `90` degrees.
 
 The video shows what happens out of sync. It lies in the fact that the parent sprite and the child sprite after some time begin to move, creating a chaotic pattern from the train.
 
