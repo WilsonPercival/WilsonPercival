@@ -8,7 +8,24 @@ Construct crashes.
 
 ## Steps to reproduce
 
-
+1. Open a project.
+2. Click on the sprite.
+3. Click `Editing mode`
+4. Click `Set keyframes`.
+5. Select the key points that are in the same position as the red flag.
+6. Click `Copy a selection of keyframes`.
+7. Move the red flag to `0.90s`.
+8. Click `Paste a selection of keyframes at the current time marker`.
+9. Select all points except the first ones.
+10. Click `Copy a selection of keyframes`.
+11. Move the red flag to `0.80s`.
+12. Click `Paste a selection of keyframes at the current time marker`.
+13. Move the red flag to `0.70s`.
+14. Click `Paste a selection of keyframes at the current time marker`.
+15. Select all points except the first ones.
+16. Move the selected points one position to the right.
+17. Click `Undo`.
+18. Click `Redo`.
 
 ## Observed result
 
