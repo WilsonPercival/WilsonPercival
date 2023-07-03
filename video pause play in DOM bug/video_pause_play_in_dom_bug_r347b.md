@@ -1,22 +1,24 @@
 ## Problem description
 
-
+The video does not play if the game is not running in a worker.
 
 ## Attach a .c3p
 
-
+[video_pause_play_in_dom_bug_r347b.zip](https://github.com/WilsonPercival/WilsonPercival/files/11935537/video_pause_play_in_dom_bug_r347b.zip)
 
 ## Steps to reproduce
 
-
+1. Open and run the project. Please note that the video does not play.
+2. Return to the editor and in the left ear change the `Use worker` parameter to `Yes`.
+3. Run the project. Please note that the video is playing.
 
 ## Observed result
 
-
+The video does not play.
 
 ## Expected result
 
-
+The video is playing.
 
 ## More details
 
