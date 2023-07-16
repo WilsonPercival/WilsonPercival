@@ -1,6 +1,6 @@
 ## Problem description
 
-On mobile devices, if you hover over the `HTML Element` and do not release the input, then the `Is in touch` condition will no longer be met.
+On mobile devices, if you hold over the `HTML Element` and do not release the input, then the `Is in touch` condition will no longer be met.
 
 ## Attach a .c3p
 
