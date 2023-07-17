@@ -11,7 +11,7 @@ Construct crashes.
 1. Create a sprite.
 2. Press and hold the `Ctrl` key.
 3. Click on the sprite and move the cursor down. Note that a copy of the instance will be created.
-3. Click on the top sprite. Note that both sprites are highlighted.
+3. Click on the top sprite and don't release the mouse button. Note that both sprites are highlighted.
 4. Press the `Z` key. Please note that there will be a rollback.
 5. Drag the cursor to the side.
 
