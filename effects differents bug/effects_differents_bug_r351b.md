@@ -16,6 +16,7 @@ When I look in the layout editor and in the preview, I see different results.
 <img width="435" alt="observed_editor" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/83bf13dc-04bc-4880-b36f-b3eb2e7449f8">
 
 <img width="475" alt="observed_preview" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/5eb9275a-846e-4d45-927c-4c8cdf746524">
+
 ## Expected result
 
 I should see the same result.
