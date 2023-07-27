@@ -14,7 +14,7 @@ Construct crashes.
 
 ## Observed result
 
-[observed.webm](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/fcc72bd3-8394-49cf-8d54-92edaf13559a)
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/ba42984d-8795-4993-a007-957938c1749a
 
 ## Expected result
 
