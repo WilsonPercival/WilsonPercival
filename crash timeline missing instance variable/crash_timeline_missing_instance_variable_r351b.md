@@ -9,7 +9,6 @@ Construct crashes.
 ## Steps to reproduce
 
 1. Open a project.
-2. Click on the sprite instance in the layout editor.
 2. Click `Editing mode`.
 3. Click `Set keyframes`.
 4. Select all key points except the first ones.
