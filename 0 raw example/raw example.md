@@ -24,15 +24,15 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r351b
+**First affected release:** broke in r352b
 
 ## System details
 
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r351 (beta)
-Browser: Chrome 114.0.5735.199
+Product: Construct 3 r352 (beta)
+Browser: Chrome 115.0.5790.110
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -40,12 +40,12 @@ Device type: desktop
 Device pixel ratio: 1.5
 Logical CPU cores: 16
 Approx. device memory: 8 GB
-User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 257 mb (0.1%)
+Storage usage (approx): 509 mb (0.2%)
 Persistant storage: No
 
 Browser support notes
