@@ -4,23 +4,20 @@ Construct crashes.
 
 ## Attach a .c3p
 
-[crash_timeline_and_failed_to_open_project_audio_r351b.zip](https://github.com/WilsonPercival/WilsonPercival/files/12267181/crash_timeline_and_failed_to_open_project_audio_r351b.zip)
+[crash_timeline_close_project_audio_r352b.zip](https://github.com/WilsonPercival/WilsonPercival/files/12267876/crash_timeline_close_project_audio_r352b.zip)
 
 ## Steps to reproduce
 
 1. Open a project.
 2. Close `Timeline Bar`. Please note that if you do not have it open, then you will not be able to close it. And this means that the crash will not happen.
-3. Extract `map.webm` from `fun` folder.
-4. Copy `Timeline 1`.
-5. Insert a timeline. A window will pop up, click `OK`.
+3. Close the project.
+4. Open the project.
+5. Double click on `Timeline 1` to open the `Timeline Bar`.
 6. Close the project.
-7. Open the project.
-8. Double click on `Timeline 1` to open the `Timeline Bar`.
-9. Close the project.
 
 ## Observed result
 
-https://github.com/WilsonPercival/WilsonPercival/assets/91274932/a8d1f13f-42c5-4b08-a5b2-6b94817d8550
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/3cd0350f-f9fa-4de1-97d0-fa324730db63
 
 ## Expected result
 
@@ -44,8 +41,8 @@ Reason: Error: Cannot read properties of null (reading '$i') @ TypeError: Cannot
 Stack: TypeError: Cannot read properties of null (reading '$i') at window.Jb.DK.A (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:320:365) at window.Jb.Bi.A (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:307:268) at G1.ou (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:135:130) at G1.kYb (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:139:87) at d.U3b (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:48:90) at d.Mc (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:47:119) at e2.ZG (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:174:192) at Array. (https://editor.construct.net/r352/components/bars/timelineBar/timelineBar.js:169:9) at window.Mjb.dispatchEvent (https://editor.construct.net/r352/main.js:1257:42) at CCG.Un (https://editor.construct.net/r352/main.js:900:438)
 Construct version: r352
 URL: https://editor.construct.net/r352/
-Date: Sat Aug 05 2023 16:17:38 GMT+0300 (Восточная Европа, летнее время)
-Uptime: 23.9 s
+Date: Sat Aug 05 2023 21:07:00 GMT+0300 (Восточная Европа, летнее время)
+Uptime: 23.6 s
 
 Platform information
 Product: Construct 3 r352 (beta)
