@@ -9,7 +9,7 @@ No.
 ## Steps to reproduce
 
 1. Create a new project.
-2. Click `Menu -> Project -> Save as -> Save as project folder...`. A window will open, select a folder and click `Select folder`.
+2. Click `Menu -> Project -> Save as -> Save as project folder...`. A window will open, select a folder and click `Select folder`. A popup will pop up, waiting for permission to make changes in the folder, click allow.
 3. In the right ear, click `Add Ease`.
 4. Click on the diskette to save the project.
 5. Close the project.
