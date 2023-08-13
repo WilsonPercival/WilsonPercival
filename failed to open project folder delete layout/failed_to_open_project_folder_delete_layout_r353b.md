@@ -10,7 +10,7 @@ I cannot open the project.
 
 1. Open the project as a folder.
 2. Remove `Layout 1`.
-3. Click Save project.
+3. Click `Save project`.
 4. Close the project.
 5. Open the saved project.
 
