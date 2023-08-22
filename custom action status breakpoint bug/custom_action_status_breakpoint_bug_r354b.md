@@ -1,6 +1,6 @@
 ## Problem description
 
-The editor crashes.
+![obser](https://github.com/WilsonPercival/WilsonPercival/assets/91274932/87ce8c04-8c8a-4406-b4d4-d8c153dae90b)
 
 ## Attach a .c3p
 
@@ -24,7 +24,7 @@ https://github.com/WilsonPercival/WilsonPercival/assets/91274932/ed0c7b70-231d-4
 
 ## Expected result
 
-The editor does not crash.
+The editor works well.
 
 ## More details
 
