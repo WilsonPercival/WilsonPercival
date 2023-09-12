@@ -24,15 +24,15 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r357-2b
+**First affected release:** broke in r358s
 
 ## System details
 
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r357.2 (beta)
-Browser: Chrome 116.0.5845.180
+Product: Construct 3 r358 (stable)
+Browser: Chrome 116.0.5845.182
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -45,7 +45,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 606 mb (0.2%)
+Storage usage (approx): 292 mb (0.1%)
 Persistant storage: No
 
 Browser support notes
