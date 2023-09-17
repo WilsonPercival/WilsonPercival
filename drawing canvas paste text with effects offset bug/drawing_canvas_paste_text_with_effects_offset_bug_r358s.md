@@ -6,6 +6,8 @@ This works well if you paste without turning on the effects.
 
 Similar report: https://github.com/Scirra/Construct-bugs/issues/5082
 
+Maybe it's related to this: https://github.com/Scirra/Construct-bugs/issues/6666
+
 ## Attach a .c3p
 
 [drawing_canvas_paste_text_with_effects_offset_bug_r358s.zip](https://github.com/WilsonPercival/WilsonPercival/files/12640801/drawing_canvas_paste_text_with_effects_offset_bug_r358s.zip)
