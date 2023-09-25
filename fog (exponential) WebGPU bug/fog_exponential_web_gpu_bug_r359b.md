@@ -18,7 +18,7 @@ The `Fog (exponential)` effect is different in `WebGL` and `WebGPU`.
 
 ## Expected result
 
-The fog effect is the same in `WebGL` and `WebGPU`.
+The `Fog (exponential)` effect is the same in `WebGL` and `WebGPU`.
 
 ## More details
 
