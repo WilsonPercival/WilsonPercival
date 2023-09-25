@@ -1,6 +1,6 @@
 ## Problem description
 
-The fog effect is different in `WebGL` and `WebGPU`.
+The `Fog (exponential)` effect is different in `WebGL` and `WebGPU`.
 
 ## Attach a .c3p
 
