@@ -16,7 +16,7 @@ The game is not working correctly. Sometimes it's just a black screen. Lots of e
 
 ## Expected result
 
-The game works correctly. There are no errors in the console.
+The game works correctly. There are no errors in the console. This works well in `WebGL`.
 
 ## More details
 
