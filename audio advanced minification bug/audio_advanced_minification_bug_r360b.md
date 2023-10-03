@@ -11,7 +11,7 @@ When I launch the game I see a black screen. There is an error in the console.
 ## Steps to reproduce
 
 1. Open a project.
-2. Export it to the Web (HTML5) with advanced minification or take a ready-made export that I made (file audio advanced minification bug r360b export.zip)
+2. Export it to the Web (HTML5) with advanced minification or take a ready-made export that I made (file `audio_advanced_minification_bug_r360b export.zip`)
 3. Upload it to netlify and play the game.
 
 ## Observed result
