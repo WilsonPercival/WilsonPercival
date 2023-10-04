@@ -10,6 +10,7 @@ I write code, and it highlights it in yellow. I don't even understand what this 
 
 1. Open a project.
 2. Open `Event sheet editor`.
+3. Open the script block.
 
 ## Observed result
 
