@@ -28,7 +28,7 @@ The effect should curl equally on `WebGL` and `WebGPU`.
 
 ## More details
 
-
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/6e9c3777-5491-458a-b240-1e869337e06d
 
 **Affected browsers/platforms:** Chrome
 
