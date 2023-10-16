@@ -19,7 +19,7 @@ When I press the `Play` button I see an error in the console and the sound does 
 
 ## Observed result
 
-
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/3971bf90-3eb6-4934-9d39-7bb9568c583a
 
 ## Expected result
 
