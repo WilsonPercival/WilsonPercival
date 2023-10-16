@@ -1,3 +1,5 @@
+
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/805af0df-bbb3-4c08-ba90-8042664972b4
 ## Problem description
 
 When I press the `Play` button I see an error in the console and the sound does not play.
@@ -18,10 +20,6 @@ When I press the `Play` button I see an error in the console and the sound does 
 8. Click the `Play` button. Please note that there is no error in the console and audio can be heard.
 
 ## Observed result
-
-
-
-Uploading observed.mp4…
 
 
 
