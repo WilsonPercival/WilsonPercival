@@ -21,10 +21,6 @@ When I press the `Play` button I see an error in the console and the sound does 
 
 
 
-Uploading observed.mp4…
-
-
-
 ## Expected result
 
 When I press the `Play` button, there are no errors in the console and the sound plays.
