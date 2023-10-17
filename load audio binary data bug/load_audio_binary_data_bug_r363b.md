@@ -19,8 +19,7 @@ If I load the first file, then play the first file, and then load the second fil
 3. Click on the `Load 1` button and select the `Cannon.webm` file.
 4. Click on the `Load 2` button and select the `Collectible_1.webm` file.
 5. Click on the `Play 1` button. Please note that there is an error in the console and we cannot hear any sound.
-
-
+---
 6. Reload the page.
 7. Click on the `Load 1` button and select the `Cannon.webm` file.
 8. Click on the `Play 1` button.
