@@ -24,15 +24,15 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r362b
+**First affected release:** broke in r363b
 
 ## System details
 
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r362 (beta)
-Browser: Chrome 117.0.5938.150
+Product: Construct 3 r363 (beta)
+Browser: Chrome 118.0.5993.71
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -40,12 +40,12 @@ Device type: desktop
 Device pixel ratio: 1.5
 Logical CPU cores: 16
 Approx. device memory: 8 GB
-User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 546 mb (0.2%)
+Storage usage (approx): 1.8 gb (0.6%)
 Persistant storage: No
 
 Browser support notes
@@ -59,7 +59,7 @@ Supports NPOT textures: yes
 Supports GPU profiling: no
 Supports highp precision: yes
 Vendor: Google Inc. (AMD)
-Renderer: ANGLE (AMD, AMD Radeon(TM) Graphics Direct3D11 vs_5_0 ps_5_0, D3D11)
+Renderer: ANGLE (AMD, AMD Radeon(TM) Graphics (0x00001638) Direct3D11 vs_5_0 ps_5_0, D3D11)
 Major performance caveat: no
 Maximum texture size: 16384
 Point size range: 1 to 1024
