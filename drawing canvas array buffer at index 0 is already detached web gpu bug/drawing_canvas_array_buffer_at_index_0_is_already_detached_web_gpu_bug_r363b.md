@@ -4,7 +4,7 @@ When I launch the game I see an error in the console. `WebGL` works well.
 
 ## Attach a .c3p
 
-
+[drawing_canvas_array_buffer_at_index_0_is_already_detached_web_gpu_bug_r363b.zip](https://github.com/WilsonPercival/WilsonPercival/files/13058731/drawing_canvas_array_buffer_at_index_0_is_already_detached_web_gpu_bug_r363b.zip)
 
 ## Steps to reproduce
 
@@ -13,11 +13,13 @@ When I launch the game I see an error in the console. `WebGL` works well.
 
 ## Observed result
 
-
+<img width="936" alt="observed" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/daf8d553-8769-443f-91cb-62cdf1cf9c1c">
 
 ## Expected result
 
+`WebGL`:
 
+<img width="939" alt="expected" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/071d7f22-2089-4a70-a1bf-b77b332e2207">
 
 ## More details
 
