@@ -24,15 +24,15 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r363b
+**First affected release:** broke in r364b
 
 ## System details
 
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r363 (beta)
-Browser: Chrome 118.0.5993.71
+Product: Construct 3 r364 (beta)
+Browser: Chrome 118.0.5993.89
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -45,8 +45,8 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 1.8 gb (0.6%)
-Persistant storage: No
+Storage usage (approx): 876 mb (0.3%)
+Persistant storage: Yes
 
 Browser support notes
 This list contains missing features that are not required, but could improve performance or user experience if supported.
@@ -108,7 +108,6 @@ WebM AV1 (video/webm; codecs=av01.0.00M.08)
 MP4 AV1 (video/mp4; codecs=av01.0.00M.08)
 WebM VP9 (video/webm; codecs=vp9)
 WebM VP8 (video/webm; codecs=vp8)
-Ogg Theora (video/ogg; codecs=theora)
 H.265 (video/mp4; codecs=hev1.1.2.L93.B0)
 H.264 (video/mp4; codecs=avc1.42E01E)
 Supported encode formats:
