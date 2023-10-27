@@ -11,10 +11,10 @@ I save the game using `Quicksave`. After that I reload the page. When I do `Quic
 1. Open and run the project.
 2. Click `1` to remove `Layer 2`.
 3. Click `2` to create `Layer 2`.
-3. Press `3` to create a sprite.
-4. Press `4` to save the game.
-5. Reload the page.
-6. Press `5` to load the game. Please note that the game did not restore the saved state.
+4. Press `3` to create a sprite.
+5. Press `4` to save the game.
+6. Reload the page.
+7. Press `5` to load the game. Please note that the game did not restore the saved state.
 
 ## Observed result
 
