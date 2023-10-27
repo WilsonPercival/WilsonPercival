@@ -22,7 +22,7 @@ The game does not freeze and there are no errors.
 
 ## More details
 
-
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/c1109532-e656-4c1d-90d5-980c3bb2e748
 
 **Affected browsers/platforms:** Chrome
 
