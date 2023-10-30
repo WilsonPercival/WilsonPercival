@@ -18,8 +18,7 @@ The problem is that if I save the game, delete `Layer 1` and load the game, it w
 2. Press `S` to save the game.
 3. Reload the page.
 4. Press `L` to load the game. Please pay special attention that everything is working well now.
-
-
+---
 5. Reload the page to start again.
 6. Press `S` to save the game.
 7. Click `1` to delete `Layer 1`.
