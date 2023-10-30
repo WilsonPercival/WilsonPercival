@@ -3,7 +3,9 @@
 I have 3 layers:
 
 `Layer 2`
+
 `Layer 1`
+
 `Layer 0`
 
 When I move `Layer 1` above `Layer 2` the sprites stay in place.
