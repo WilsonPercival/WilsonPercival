@@ -2,6 +2,8 @@
 
 When I delete a dynamic layer, errors appear in the console.
 
+Please note that if we display the number of objects in the console, we will see `1`, which indicates that the canvas was not destroyed.
+
 ## Attach a .c3p
 
 [remove_dynamic_layer_bug_r365b.zip](https://github.com/WilsonPercival/WilsonPercival/files/13219801/remove_dynamic_layer_bug_r365b.zip)
