@@ -16,6 +16,8 @@ The `ImageData` that I received from the canvas is upside down. Everything works
 
 ## Expected result
 
+`WebGL`:
+
 <img width="509" alt="expected" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/fa9bde27-2bd7-4f48-84fb-e22e05905a34">
 
 ## More details
