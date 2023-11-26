@@ -8,6 +8,8 @@ Everything works fine on the desktop.
 
 In `r358s` this works well.
 
+On `Iphone` this problem is also present according to reports from my friends.
+
 ## Attach a .c3p
 
 [memory_leak_fullscreen_quality_low_android_bug_r368s.zip](https://github.com/WilsonPercival/WilsonPercival/files/13467358/memory_leak_fullscreen_quality_low_android_bug_r368s.zip)
