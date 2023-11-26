@@ -2,9 +2,11 @@
 
 When I launch the game via `Remote preview` on `Android`, the game starts to freeze, after which the browser crashes. This happens in about 10 seconds.
 
-This happens because the project has the `Fullscreen quality` parameter set to `Low`.
+This happens because the project has the `Fullscreen quality` parameter set to `Low`. Also, the `Fullscreen mode` parameter is set to `Scale outer`.
 
 Everything works fine on the desktop.
+
+In `r358s` this works well.
 
 ## Attach a .c3p
 
