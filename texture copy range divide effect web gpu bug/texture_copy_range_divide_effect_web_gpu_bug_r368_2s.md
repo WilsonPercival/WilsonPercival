@@ -2,6 +2,8 @@
 
 When I touch a sprite with the `Divide` effect to the bottom border of the screen, the entire screen turns black, and the console turns yellow.
 
+Note that the `Fullscreen quality` parameter value is set to `Low`, and the `Fullscreen mode` parameter value is set to `Scale outer`.
+
 ## Attach a .c3p
 
 [texture_copy_range_divide_effect_web_gpu_bug_r368_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/13479449/texture_copy_range_divide_effect_web_gpu_bug_r368_2s.zip)
