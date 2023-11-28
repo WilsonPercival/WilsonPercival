@@ -24,14 +24,14 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in r368-2s
+**First affected release:** broke in r369b
 
 ## System details
 
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r368.2 (stable)
+Product: Construct 3 r369 (beta)
 Browser: Chrome 119.0.6045.160
 Browser engine: Chromium
 Context: browser
@@ -45,46 +45,31 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 103 mb (0%)
+Storage usage (approx): 102 mb (0%)
 Persistant storage: Yes
 
 Browser support notes
 This list contains missing features that are not required, but could improve performance or user experience if supported.
 
 Nothing is missing. Everything is OK!
-WebGL information
-Version string: WebGL 2.0 (OpenGL ES 3.0 Chromium)
-Numeric version: 2
-Supports NPOT textures: yes
+WebGPU information
+Renderer: WebGPU
 Supports GPU profiling: no
-Supports highp precision: yes
-Vendor: Google Inc. (AMD)
-Renderer: ANGLE (AMD, AMD Radeon(TM) Graphics (0x00001638) Direct3D11 vs_5_0 ps_5_0, D3D11)
 Major performance caveat: no
-Maximum texture size: 16384
-Point size range: 1 to 1024
-Extensions:
+Maximum texture size: 8192
+Adapter vendor: amd
+Adapter architecture: gcn-5
+Adapter device: (unavailable)
+Adapter description: (unavailable)
+Adapter features:
 
-EXT_color_buffer_float
-EXT_color_buffer_half_float
-EXT_disjoint_timer_query_webgl2
-EXT_float_blend
-EXT_texture_compression_bptc
-EXT_texture_compression_rgtc
-EXT_texture_filter_anisotropic
-EXT_texture_norm16
-KHR_parallel_shader_compile
-OES_draw_buffers_indexed
-OES_texture_float_linear
-OVR_multiview2
-WEBGL_clip_cull_distance
-WEBGL_compressed_texture_s3tc
-WEBGL_compressed_texture_s3tc_srgb
-WEBGL_debug_renderer_info
-WEBGL_debug_shaders
-WEBGL_lose_context
-WEBGL_multi_draw
-WEBGL_provoking_vertex
+bgra8unorm-storage
+depth-clip-control
+depth32float-stencil8
+float32-filterable
+indirect-first-instance
+rg11b10ufloat-renderable
+texture-compression-bc
 Audio information
 System sample rate: 48000 Hz
 Output channels: 2
