@@ -18,7 +18,7 @@ export: [svg_pictures_more_bug_r370b export.zip](https://github.com/WilsonPerciv
 
 1. Open a project.
 2. Export it to `Web (HTML5)` or use the ready-made archive `svg_pictures_more_bug_r370b export.zip`.
-3. Download the game to `netlify` or go to the already downloaded game using the link: https://6570a1a20f58ec132770f7b6--inquisitive-tartufo-dd46a9.netlify.app/
+3. Upload the game to `netlify` or go to the already downloaded game using the link: https://6570a1a20f58ec132770f7b6--inquisitive-tartufo-dd46a9.netlify.app/
 
 ## Observed result
 
