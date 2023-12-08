@@ -10,7 +10,7 @@ Please note that the `Max spritesheet size` parameter is set to `Disabled (not r
 
 https://www.dropbox.com/scl/fi/spt2atctmotn1ith9p59m/max_spritesheet_size_disabled_bug_r370b.c3p?rlkey=5eg3f9dkyha5m2rtvpi42phru&dl=1
 
-export: https://www.dropbox.com/scl/fi/mi4nlrmcgzzwg5urjppqe/max_spritesheet_size_disabled_bug_r370b-expoert.zip?rlkey=ihwpnx3f5a9gce5qr6bu2rf2s&dl=1
+export: [max_spritesheet_size_disabled_bug_r370b expoert.zip](https://github.com/WilsonPercival/WilsonPercival/files/13615173/max_spritesheet_size_disabled_bug_r370b.expoert.zip)
 
 ## Steps to reproduce
 
