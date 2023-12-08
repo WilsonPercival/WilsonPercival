@@ -5,6 +5,7 @@ I have a puzzle that consists of `5600` pieces. I wanted to try drawing each puz
 On my bucket with `5600` elements of `Drawing canvas` these are the indicators:
 
 `WebGL`: `30` FPS;
+
 `WebGPU`: `6` FPS.
 
 ## Attach a .c3p
