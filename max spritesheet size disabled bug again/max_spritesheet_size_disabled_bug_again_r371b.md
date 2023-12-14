@@ -17,7 +17,7 @@ export: https://www.dropbox.com/scl/fi/tgjuo5x9iudpvxtgpvnug/max_spritesheet_siz
 1. Open a project.
 2. Export it to `Web (HTML5)` or use the ready-made export `max_spritesheet_size_disabled_bug_again_r371b export.zip`.
 3. Upload the game to `netlify` or follow the link:
-`https://657b08a647df8a1e68c1d05e--endearing-piroshki-57eaf3.netlify.app/`.
+https://657b08a647df8a1e68c1d05e--endearing-piroshki-57eaf3.netlify.app/.
 
 ## Observed result
 
