@@ -1,6 +1,6 @@
 ## Problem description
 
-I have a puzzle with `5600` puzzle pieces. I made sure that each puzzle was in its own sprite animation frame. When I export the game and launch it, it freezes at the loading stage. If you wait a little, there will be a lot of errors in the console.
+I have a puzzle with `5600` puzzle pieces. I made sure that each puzzle was in its own sprite animation frame. When I export the game and launch it, it freezes at the loading stage. If you wait a little, there will be a lot of errors in the console. Also, I can’t load the page again - it seems that the computer has remembered this and doesn’t want to access it anymore.
 
 This works great in preview. The error occurs only after export.
 
