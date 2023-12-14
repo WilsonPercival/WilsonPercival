@@ -1,24 +1,27 @@
 ## Problem description
 
-There are a lot of errors in the console.
+The game shows a black screen and many errors in the console.
 
 ## Attach a .c3p
 
-[drawing_canvas_zero_layout_scale_web_gpu_bug_r371b.zip](https://github.com/WilsonPercival/WilsonPercival/files/13676618/drawing_canvas_zero_layout_scale_web_gpu_bug_r371b.zip)
+[drawing_canvas_zero_layout_scale_web_gpu_bug_r371b.zip](https://github.com/WilsonPercival/WilsonPercival/files/13676685/drawing_canvas_zero_layout_scale_web_gpu_bug_r371b.zip)
 
 ## Steps to reproduce
 
 1. Open a project.
 2. Launch and open the console.
 3. Press `1`.
+4. Press `2`.
 
 ## Observed result
 
-<img width="347" alt="observed" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/9db97aa3-0c7e-44de-a499-5bdb142acc51">
+<img width="939" alt="observed" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/ab0a7335-30a8-47f1-8d27-0239dca6e2ca">
 
 ## Expected result
 
-There are no errors.
+This works well if the game is running on `WebGL`:
+
+<img width="939" alt="expected" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/ba4fce28-f5b9-45f2-8a64-7ec51e8c64d5">
 
 ## More details
 
