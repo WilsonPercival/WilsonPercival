@@ -10,8 +10,10 @@ Construct crashes. I also get this message until I restart the browser:
 
 ## Steps to reproduce
 
-1. Open and run the project.
-2. When the screen blinks, close the game.
+1. Open the project.
+2. Make sure that the editor is running in `WebGPU`, otherwise there will be no crash.
+3. Start the project.
+4. When the screen blinks, close the game.
 
 ## Observed result
 
