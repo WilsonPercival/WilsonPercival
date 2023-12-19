@@ -26,7 +26,7 @@ Nothing happened.
 
 
 
-**Affected browsers/platforms:** Chrome
+**Affected browsers/platforms:** Mozilla
 
 **First affected release:** broke in r372b
 
