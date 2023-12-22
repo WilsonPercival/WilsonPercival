@@ -1,6 +1,6 @@
 ## Problem description
 
-I have a timeline animation. The problem is that when I view it in the editor and in preview, it is different. You can see that in the editor the animation stops on a small blue frame. When I run the preview, I can see that the animation stops on a large blue frame.
+I have a timeline animation. The problem is that when I view it in the editor and in preview, it is different. You can see that in the editor the animation stops on a `small` blue frame. When I run the preview, I can see that the animation stops on a `large` blue frame.
 
 Please note that I have a sprite with different animation frames of different sizes. On the timeline I change the frame and size of the sprite.
 
