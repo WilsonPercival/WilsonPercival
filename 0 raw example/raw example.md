@@ -31,7 +31,7 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r373 (beta)
+Product: Construct 3 r373.2 (beta)
 Browser: Chrome 120.0.6099.130
 Browser engine: Chromium
 Context: browser
@@ -45,7 +45,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 2.3 gb (0.8%)
+Storage usage (approx): 123 mb (0%)
 Persistant storage: Yes
 
 Browser support notes
