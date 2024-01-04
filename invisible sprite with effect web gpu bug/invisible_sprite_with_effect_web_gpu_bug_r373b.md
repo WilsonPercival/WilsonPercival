@@ -24,7 +24,7 @@ When I run the game in `WebGPU`, the sprite is not visible. This works well in `
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in Worked in `r372-2b`, broke in `r373b`.
+**First affected release:** Worked in `r372-2b`, broke in `r373b`.
 
 ## System details
 
