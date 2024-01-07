@@ -26,7 +26,7 @@ https://github.com/WilsonPercival/WilsonPercival/assets/91274932/b67c3a5e-1608-4
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** Worked well in `r344-2s`, broke in `r345b`. Still doesn't work in r373-2b.
+**First affected release:** Worked well in `r344-2s`, broke in `r345b`. Still doesn't work in `r373-2b`.
 
 ## System details
 
