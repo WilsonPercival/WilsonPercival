@@ -2,6 +2,8 @@
 
 I have a hierarchy of two sprites. The parent sprite has a negative width. The child sprite has `Rotate` behavior. When I start the game I see that the child sprite is confused.
 
+I think it's similar to this: https://github.com/Scirra/Construct-bugs/issues/7685
+
 ## Attach a .c3p
 
 [rotate_hierarchy_negative_width_bug_r344_2s.zip](https://github.com/WilsonPercival/WilsonPercival/files/13853168/rotate_hierarchy_negative_width_bug_r344_2s.zip)
