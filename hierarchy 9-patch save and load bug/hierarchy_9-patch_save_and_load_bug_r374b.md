@@ -30,7 +30,7 @@ https://github.com/WilsonPercival/WilsonPercival/assets/91274932/8b4aae88-35a3-4
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** This worked well in `r304b`. In `r305b` and `r306b` there was an error in the console when loading. It was fixed in `r307b`, but there was a problem that I'm reporting now. Still doesn't work in r374b.
+**First affected release:** This worked well in `r304b`. In `r305b` and `r306b` there was an error in the console when loading. It was fixed in `r307b`, but there was a problem that I'm reporting now. Still doesn't work in `r374b`.
 
 <img width="275" alt="bug fixes" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/4e8ee078-89c8-4bed-8b10-fffe96c9836b">
 
