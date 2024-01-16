@@ -31,8 +31,8 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r374 (beta)
-Browser: Chrome 120.0.6099.200
+Product: Construct 3 r375 (beta)
+Browser: Chrome 120.0.6099.217
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -45,7 +45,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 331 mb (0.1%)
+Storage usage (approx): 574 mb (0.2%)
 Persistant storage: Yes
 
 Browser support notes
@@ -91,30 +91,30 @@ Output channels: 2
 Output interpretation: speakers
 Supported decode formats:
 
-WebM Opus (audio/webm; codecs=opus)
-Ogg Opus (audio/ogg; codecs=opus)
-WebM Vorbis (audio/webm; codecs=vorbis)
-Ogg Vorbis (audio/ogg; codecs=vorbis)
-MPEG-4 AAC (audio/mp4; codecs=mp4a.40.5)
+WebM Opus (audio/webm;codecs=opus)
+WebM Vorbis (audio/webm;codecs=vorbis)
+MPEG-4 Opus (audio/mp4;codecs=opus)
+MPEG-4 AAC (audio/mp4;codecs=mp4a.40.2)
 MP3 (audio/mpeg)
 FLAC (audio/flac)
-PCM WAV (audio/wav; codecs=1)
+PCM WAV (audio/wav;codecs=1)
 Supported encode formats:
 
-WebM Opus (audio/webm; codecs=opus)
+WebM Opus (audio/webm;codecs=opus)
 Video information
 Supported decode formats:
 
-WebM AV1 (video/webm; codecs=av01.0.00M.08)
-MP4 AV1 (video/mp4; codecs=av01.0.00M.08)
-WebM VP9 (video/webm; codecs=vp9)
-WebM VP8 (video/webm; codecs=vp8)
-H.265 (video/mp4; codecs=hev1.1.2.L93.B0)
-H.264 (video/mp4; codecs=avc1.42E01E)
+WebM AV1 (video/webm;codecs=av01.0.00M.08)
+WebM VP9 (video/webm;codecs=vp9)
+WebM VP8 (video/webm;codecs=vp8)
+MPEG-4 AV1 (video/mp4;codecs=av01.0.00M.08)
+MPEG-4 H.265 (video/mp4;codecs=hev1.1.2.L93.B0)
+MPEG-4 H.264 (video/mp4;codecs=avc1.420034)
 Supported encode formats:
 
-WebM AV1 (video/webm; codecs=av1)
-WebM VP9 (video/webm; codecs=vp9)
-WebM VP8 (video/webm; codecs=vp8)
+WebM AV1 (video/webm;codecs=av01.0.00M.08)
+WebM VP9 (video/webm;codecs=vp9)
+WebM VP8 (video/webm;codecs=vp8)
+WebM H.264 (video/webm;codecs=avc1.420034)
 
 </details>
