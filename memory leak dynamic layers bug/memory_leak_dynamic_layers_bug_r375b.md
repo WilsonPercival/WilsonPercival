@@ -25,7 +25,7 @@ The game should work well.
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** Broke in `r353b` because it was the first version to introduce dynamic layers. Still doesn't work in r375b.
+**First affected release:** Broke in `r353b` because it was the first version to introduce dynamic layers. Still doesn't work in `r375b`.
 
 ## System details
 
