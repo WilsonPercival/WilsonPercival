@@ -21,7 +21,7 @@ The game temperature does not drop below zero Celsius.
 
 ## More details
 
-
+<img width="600" alt="kek" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/b5682c2b-33ad-4f1d-9eff-00cfa3f1600b">
 
 **Affected browsers/platforms:** Chrome
 
