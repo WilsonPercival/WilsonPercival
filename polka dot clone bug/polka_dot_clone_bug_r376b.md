@@ -14,11 +14,11 @@ When I clone a sprite or delete it, I see that the effect changes.
 
 ## Observed result
 
-The effect should not change.
+https://github.com/WilsonPercival/WilsonPercival/assets/91274932/5cff0145-da0c-4bdf-a594-a68466894666
 
 ## Expected result
 
-https://github.com/WilsonPercival/WilsonPercival/assets/91274932/5cff0145-da0c-4bdf-a594-a68466894666
+The effect should not change.
 
 ## More details
 
