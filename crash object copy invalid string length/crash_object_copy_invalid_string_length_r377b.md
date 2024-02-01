@@ -4,7 +4,7 @@ Construct crashes.
 
 ## Attach a .c3p
 
-
+https://www.dropbox.com/scl/fi/4n0w8027093muuvoavnx1/crash_object_copy_invalid_string_length_r212b.zip?rlkey=njz811dblbbdn857s8eyp0039&dl=1
 
 ## Steps to reproduce
 
