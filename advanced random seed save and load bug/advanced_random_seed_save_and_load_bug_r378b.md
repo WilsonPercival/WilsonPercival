@@ -13,6 +13,7 @@ I have `Advanced Random` in my project. Its `Seed` parameter value is `42`. The 
 3. Press `1` three times to generate 3 numbers. Please note that these numbers will be `38`, `57` and `2`.
 4. Reload the page to start again.
 
+
 5. Press `1` twice. Please note that there are two numbers in the console: `38` and `57`.
 6. Press `S` to save the game.
 7. Press `1` to generate a new random number. Notice that we got the number `2` as expected. This is correct behavior.
