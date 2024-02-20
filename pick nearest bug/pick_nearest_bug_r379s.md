@@ -4,19 +4,19 @@ The `Pick nearest` condition does not work correctly.
 
 ## Attach a .c3p
 
-
+[pick_nearest_bug_r42b.zip](https://github.com/WilsonPercival/WilsonPercival/files/14338615/pick_nearest_bug_r42b.zip)
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
 
 ## Observed result
 
-
+<img width="202" alt="observed" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/fc4d1a55-f7b3-4ca8-bbf2-e0cb92df5668">
 
 ## Expected result
 
-
+<img width="206" alt="expected" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/fbfd9cde-d64e-4329-a7ac-786614858b6b">
 
 ## More details
 
@@ -24,7 +24,7 @@ The `Pick nearest` condition does not work correctly.
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in 
+**First affected release:** Broke in `r42b` as it is the oldest version I can test. Still doesn't work in `r379s`.
 
 ## System details
 
