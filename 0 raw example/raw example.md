@@ -31,8 +31,8 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r380 (beta)
-Browser: Chrome 121.0.6167.185
+Product: Construct 3 r381 (beta)
+Browser: Chrome 122.0.6261.69
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -40,12 +40,12 @@ Device type: desktop
 Device pixel ratio: 1.5
 Logical CPU cores: 16
 Approx. device memory: 8 GB
-User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 739 mb (0.3%)
+Storage usage (approx): 1.2 gb (0.4%)
 Persistant storage: Yes
 
 Browser support notes
@@ -65,19 +65,24 @@ Maximum texture size: 16384
 Point size range: 1 to 1024
 Extensions:
 
+EXT_clip_control
 EXT_color_buffer_float
 EXT_color_buffer_half_float
+EXT_conservative_depth
 EXT_depth_clamp
 EXT_disjoint_timer_query_webgl2
 EXT_float_blend
+EXT_polygon_offset_clamp
 EXT_texture_compression_bptc
 EXT_texture_compression_rgtc
 EXT_texture_filter_anisotropic
 EXT_texture_norm16
 KHR_parallel_shader_compile
+NV_shader_noperspective_interpolation
 OES_draw_buffers_indexed
 OES_texture_float_linear
 OVR_multiview2
+WEBGL_blend_func_extended
 WEBGL_clip_cull_distance
 WEBGL_compressed_texture_s3tc
 WEBGL_compressed_texture_s3tc_srgb
