@@ -15,8 +15,9 @@ Save open project: [save open project.zip](https://github.com/WilsonPercival/Wil
 5. Press `Escape` to close the animation editor.
 6. Open the animation editor.
 7. Repeat steps 3, 4 and 5 until the title bar on the `Resize Image Canvas` window turns gray - this means that the window is not in focus and can now be crashed.
-8. Click `Escape`. Instead of closing the `Resize Image Canvas` window, the animation editor will close because it was the one that had the focus.
-9. Click `OK`.
+8. Click `Escape`. 
+9. Click `Escape`. Instead of closing the `Resize Image Canvas` window, the animation editor will close because it was the one that had the focus.
+10. Click `OK`.
 
 In the video I was able to do it on the second try, but it may take you an average of 20 tries. This is independent of the dark theme.
 
