@@ -17,7 +17,7 @@ The sprite sheet is 32x32 in size.
 
 With `5%` value of the effect parameter, let's try to calculate the number of circles vertically:
 
-(32 / (32 * 1)) / 0.05 = 20
+`(32 / (32 * 1)) / 0.05 = 20`
 
 We see that in the layout editor there are indeed 20 circles in height. Now let's make a clone of this sprite. The sprite sheet becomes 32x128 in size.
 
@@ -25,7 +25,7 @@ We see that in the layout editor there are indeed 20 circles in height. Now let'
 
 Let's now try to calculate the number of circles vertically:
 
-(128 / (32 * 2)) / 0.05 = 40
+`(128 / (32 * 2)) / 0.05 = 40`
 
 We see that in the layout editor there are indeed 40 circles in height. Do you really still think that a difference of 2 times is an error in floating point calculations?
 
