@@ -40,11 +40,11 @@ We see that in the layout editor there are indeed 40 circles in height. Do you r
 
 ## Observed result
 
-<img width="294" alt="observed" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/8e594bab-52de-4133-b188-333aed9a2b26">
+<img width="293" alt="observed" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/b4d22706-ae4c-4ca2-a633-7d7c0e9255b7">
 
 ## Expected result
 
-<img width="293" alt="expected" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/665f2d33-361b-4819-a40f-5b1d9844f23a">
+<img width="294" alt="expected" src="https://github.com/WilsonPercival/WilsonPercival/assets/91274932/451a5f49-5ed3-4538-abd1-a4cd1d89b199">
 
 ## More details
 
