@@ -11,7 +11,7 @@ No.
 1. Create a new project.
 2. Export to `Web (HTML5)`. A window will appear, download the export archive. Please note that the file was successfully downloaded.
 3. In the left ear, change the value of the `Enable WebGPU` parameter to `No`.
-4. 2. Export to `Web (HTML5)`. A window will appear, download the export archive. Please note that the file was not downloaded because it was flagged as dangerous.
+4. Export to `Web (HTML5)`. A window will appear, download the export archive. Please note that the file was not downloaded because it was flagged as dangerous.
 
 ## Observed result
 
