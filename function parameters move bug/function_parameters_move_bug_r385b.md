@@ -26,7 +26,7 @@ If I swap the arguments, then at the point where the function is called, none of
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in 
+**First affected release:** It broke in `r143b` because it was the first version to have built-in functions.
 
 ## System details
 
