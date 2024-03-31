@@ -13,7 +13,7 @@ When I click on `Text input` the game behaves differently depending on whether I
 1. Open the project and export to `Debug APK` or use my export.
 2. Install the game on your Android device and launch it.
 3. Click on `Text input`. Notice that the entire playing space has risen up. Also `Text input` remains at the bottom of the screen.
-
+---
 4. Launch remote preview on Android.
 5. Click on `Text input`. Note that the game space has not changed, and the `Text input` has moved to the top of the screen.
 
