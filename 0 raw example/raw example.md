@@ -31,8 +31,8 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r387 (beta)
-Browser: Chrome 123.0.6312.123
+Product: Construct 3 r388 (stable)
+Browser: Chrome 124.0.6367.78
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -40,12 +40,12 @@ Device type: desktop
 Device pixel ratio: 1.5
 Logical CPU cores: 16
 Approx. device memory: 8 GB
-User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 702 mb (0.2%)
+Storage usage (approx): 479 mb (0.2%)
 Persistant storage: Yes
 
 Browser support notes
@@ -76,6 +76,7 @@ EXT_polygon_offset_clamp
 EXT_texture_compression_bptc
 EXT_texture_compression_rgtc
 EXT_texture_filter_anisotropic
+EXT_texture_mirror_clamp_to_edge
 EXT_texture_norm16
 KHR_parallel_shader_compile
 NV_shader_noperspective_interpolation
@@ -92,6 +93,7 @@ WEBGL_lose_context
 WEBGL_multi_draw
 WEBGL_polygon_mode
 WEBGL_provoking_vertex
+WEBGL_stencil_texturing
 Audio information
 System sample rate: 48000 Hz
 Output channels: 2
