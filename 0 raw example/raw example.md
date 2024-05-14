@@ -31,8 +31,8 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r390 (beta)
-Browser: Chrome 124.0.6367.119
+Product: Construct 3 r391 (beta)
+Browser: Chrome 124.0.6367.158
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -45,7 +45,7 @@ Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 596 mb (0.2%)
+Storage usage (approx): 641 mb (0.2%)
 Persistant storage: Yes
 
 Browser support notes
