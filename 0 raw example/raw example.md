@@ -31,8 +31,8 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r392 (beta)
-Browser: Chrome 124.0.6367.208
+Product: Construct 3 r393 (beta)
+Browser: Chrome 125.0.6422.77
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -40,12 +40,12 @@ Device type: desktop
 Device pixel ratio: 1.5
 Logical CPU cores: 16
 Approx. device memory: 8 GB
-User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 34 mb (0%)
+Storage usage (approx): 146 mb (0.1%)
 Persistant storage: Yes
 
 Browser support notes
