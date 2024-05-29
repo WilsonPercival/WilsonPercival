@@ -24,7 +24,7 @@ The svg file should display correctly.
 
 **Affected browsers/platforms:** MacOS Mozilla
 
-**First affected release:** broke in 
+**First affected release:** Broke in `r178b` because it was the first version to add `SVG Picture`.
 
 ## System details
 
