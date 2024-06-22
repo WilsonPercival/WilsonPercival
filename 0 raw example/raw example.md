@@ -31,8 +31,8 @@
 <details><summary>View details</summary>
 
 Platform information
-Product: Construct 3 r395 (beta)
-Browser: Chrome 125.0.6422.142
+Product: Construct 3 r396 (beta)
+Browser: Chrome 126.0.6478.114
 Browser engine: Chromium
 Context: browser
 Operating system: Windows 11
@@ -40,12 +40,12 @@ Device type: desktop
 Device pixel ratio: 1.5
 Logical CPU cores: 16
 Approx. device memory: 8 GB
-User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 Language setting: en-US
 
 Local storage
 Storage quota (approx): 283 gb
-Storage usage (approx): 331 mb (0.1%)
+Storage usage (approx): 550 mb (0.2%)
 Persistant storage: Yes
 
 Browser support notes
@@ -73,6 +73,7 @@ EXT_depth_clamp
 EXT_disjoint_timer_query_webgl2
 EXT_float_blend
 EXT_polygon_offset_clamp
+EXT_render_snorm
 EXT_texture_compression_bptc
 EXT_texture_compression_rgtc
 EXT_texture_filter_anisotropic
@@ -81,6 +82,8 @@ EXT_texture_norm16
 KHR_parallel_shader_compile
 NV_shader_noperspective_interpolation
 OES_draw_buffers_indexed
+OES_sample_variables
+OES_shader_multisample_interpolation
 OES_texture_float_linear
 OVR_multiview2
 WEBGL_blend_func_extended
@@ -110,6 +113,8 @@ PCM WAV (audio/wav;codecs=1)
 Supported encode formats:
 
 WebM Opus (audio/webm;codecs=opus)
+MPEG-4 Opus (audio/mp4;codecs=opus)
+MPEG-4 AAC (audio/mp4;codecs=mp4a.40.2)
 Video information
 Supported decode formats:
 
@@ -125,5 +130,7 @@ WebM AV1 (video/webm;codecs=av01.0.00M.08)
 WebM VP9 (video/webm;codecs=vp9)
 WebM VP8 (video/webm;codecs=vp8)
 WebM H.264 (video/webm;codecs=avc1.420034)
+MPEG-4 VP9 (video/mp4;codecs=vp9)
+MPEG-4 H.264 (video/mp4;codecs=avc1.420034)
 
 </details>
