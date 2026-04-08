@@ -1,23 +1,23 @@
 ## Problem description
 
-
+When I scroll the layout, the sprite shakes.
 
 ## Attach a .c3p
 
-
-
+[layer_to_canvas_shake_bug_r251-2b.zip](https://github.com/user-attachments/files/26568937/layer_to_canvas_shake_bug_r251-2b.zip)
 
 ## Steps to reproduce
 
-
+1. Open and run the project.
+2. Press and hold the `1` button.
 
 ## Observed result
 
-
+https://github.com/user-attachments/assets/9457df41-c801-4af0-866b-9ab67cb9b0dd
 
 ## Expected result
 
-
+https://github.com/user-attachments/assets/4b1be7ec-a34c-4d67-85a4-53537d3e77c8
 
 ## More details
 
@@ -25,7 +25,7 @@
 
 **Affected browsers/platforms:** Chrome
 
-**First affected release:** broke in 
+**First affected release:** Worked well in `r251-2b`, broke in `r252b`.
 
 ## System details
 
